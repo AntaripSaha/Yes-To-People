@@ -20,9 +20,12 @@ use Illuminate\Support\Facades\Route;
 Auth::routes();
 
 Route::any('/', [HomeController::class, 'index'])->name('home');
+
+
 Route::prefix('admin')->middleware('admin')->group(function(){
 
     Route::get('/home', [HomePageController::class, 'index'])->name('admin.home');
+    Route::any('/home/store', [HomePageController::class, 'store'])->name('admin.home.store');
 
 });
 

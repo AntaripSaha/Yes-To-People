@@ -10,4 +10,7 @@ class HomePageController extends Controller
     public function index(){
         return view('admin.home');
     }
+    public function store(Request $req){
+        return $req;
+    }
 }
