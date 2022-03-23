@@ -68,10 +68,17 @@
                     <!-- /.card-header -->
                     <!-- form start -->
                     <div class="card-body">
-                    
                         <div class="form-group">
-                            <label for="exampleInputEmail1">Email address</label>
-                            <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email" name="email">
+                            <label for="">Name</label>
+                            <input type="email" class="form-control" id="" placeholder="Enter Name" name="name">
+                        </div>
+                        <div class="form-group">
+                            <label for="">Title</label>
+                            <textarea name="title" id="" class="form-control" cols="20" rows="4"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label for="">Email address</label>
+                            <input type="email" class="form-control" id="" placeholder="Enter email" name="email">
                         </div>
                         <div class="form-group">
                             <label for="">Phone</label>
@@ -91,6 +98,5 @@
         </button>
     </form>
 </main>
-
 
 @endsection
