@@ -19,7 +19,7 @@ use Illuminate\Support\Facades\Route;
 // });
 Auth::routes();
 
-Route::any('/', [HomeController::class, 'index'])->name('Home');
+Route::any('/', [HomeController::class, 'index'])->name('home');
 Route::prefix('admin')->middleware('admin')->group(function(){
 
     Route::get('/home', [HomePageController::class, 'index'])->name('admin.home');

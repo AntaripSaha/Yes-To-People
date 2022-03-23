@@ -4,7 +4,7 @@
 <head>
 
     <meta charset="UTF-8">
-    <meta name="description" content="Just another WordPress site">
+    <meta name="description" content="Yes to people website developed by PHP">
     <link rel="alternate" hreflang="en-US" href="index.htm">
     <title>Yes To People Concern of MEChowdhury Limited</title>
     <meta name='robots' content='noindex, nofollow'>
@@ -421,660 +421,662 @@
 
 <body class="home page-template-default page page-id-7 template-slider  color-custom style-default button-default layout-full-width header-classic sticky-tb-color ab-show subheader-both-center menu-link-color menuo-right menuo-no-borders mobile-tb-center mobile-side-slide mobile-mini-mr-ll be-reg-2196">
 
-<!-- mfn_hook_top --><!--Start of Tawk.to Script-->
-<script type="text/javascript">
-    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-    (function(){
-    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-    s1.async=true;
-    s1.src='https://embed.tawk.to/60149e35c31c9117cb73fc40/1et88k0m0';
-    s1.charset='UTF-8';
-    s1.setAttribute('crossorigin','*');
-    s0.parentNode.insertBefore(s1,s0);
-    })();
-</script>
-<!--End of Tawk.to Script--><!-- mfn_hook_top -->
-	
-	
-<div id="Wrapper">
+    <!-- mfn_hook_top --><!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/60149e35c31c9117cb73fc40/1et88k0m0';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+    </script>
+    <!--End of Tawk.to Script--><!-- mfn_hook_top -->
+        
+        
+    <div id="Wrapper">
 
-    <div id="Header_wrapper" class="">
-        <header id="Header">
-	<div id="Action_bar">
-		<div class="container">
-			<div class="column one">
-                <ul class="contact_details">
-                    <li class="slogan">
-                        <span>Follow Us On:</span>
-                        <ul>
-                            <li>
-                                <a href="https://web.facebook.com/"><i class="icon-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href="https://twitter.com/"><i class="icon-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href="https://www.linkedin.com/"><i class="icon-linkedin"></i></a>
-                            </li>
-                            <li>
-                                <a href="https://www.pinterest.com/"><i class="icon-pinterest"></i></a>
-                            </li>
-                            <li>
-                                <a href="https://www.instagram.com/"><i class="icon-instagram"></i></a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="phone">
-                        <img src="yes-to-people/content/uploads/2021/01/icon-img.png">
-                        <a href="tel:CallUsAt:775-813-9959">
-                            Call Us At: 775-813-9959
-                        </a>
-                    </li>
-                </ul>
-                <nav id="social-menu" class="menu-login-menu-container">
-                    <ul id="menu-login-menu" class="social-menu">
-                        <li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17">
-                            <!--<a href="#"><i class="icon-login"></i> Login/Sign Up</a></li>-->
-                    </ul>
-
-                </nav>
-			</div>
-		</div>
-	</div>
-
-        <div class="header_placeholder"></div>
-        <div id="Top_bar" class="loading">
+        <div id="Header_wrapper" class="">
+            <header id="Header">
+        <div id="Action_bar">
             <div class="container">
-		<div class="column one">
-			<div class="top_bar_left clearfix">
-                <div class="logo">
-                    <a id="logo" href="index.htm" title="Yes To People Concern of MEChowdhury Limited" data-height="120" data-padding="15">
-                        <img class="logo-main scale-with-grid" src="content/uploads/2021/01/logo-img.png" data-retina="http://yestopeople.com/content/uploads/2021/01/logo-img.png" data-height="120" alt="" data-no-retina="">
-                        <img class="logo-sticky scale-with-grid" src="content/uploads/2021/01/logo-img.png" data-retina="http://yestopeople.com/content/uploads/2021/01/logo-img.png" data-height="120" alt="" data-no-retina="">
-                        <img class="logo-mobile scale-with-grid" src="content/uploads/2021/01/logo-img.png" data-retina="http://yestopeople.com/content/uploads/2021/01/logo-img.png" data-height="120" alt="" data-no-retina="">
-                        <img class="logo-mobile-sticky scale-with-grid" src="content/uploads/2021/01/logo-img.png" data-retina="http://yestopeople.com/content/uploads/2021/01/logo-img.png" data-height="120" alt="" data-no-retina="">
-                    </a>
-                </div>
-				<div class="menu_wrapper">
-                    <nav id="menu">
-                        <ul id="menu-main-menu" class="menu menu-main">
-                            <li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page        menu-item-home current-menu-item page_item page-item-7 current_page_item">
-                                <a href="index.htm">
-                                    <span>Home</span>
-                                </a>
-                            </li>
-                            <li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                <a href="about-us/index.htm">
-                                    <span>About Us</span>
-                                </a>
-                            </li>
-                            <li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                <a href="products-services/index.htm">
-                                    <span>Products &#038; Services</span>
-                                </a>
-                            </li>
-                            <li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                <a href="reviews/index.htm">
-                                    <span>Reviews</span>
-                                </a>
-                            </li>
-                            <!--<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#"><span>Careers</span></a></li>-->
-                            <li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                <a href="contact-us/index.htm">
-                                    <span>Contact Us</span>
-                                </a>
-                            </li>
+                <div class="column one">
+                    <ul class="contact_details">
+                        <li class="slogan">
+                            <span>Follow Us On:</span>
+                            <ul>
+                                <li>
+                                    <a href="https://web.facebook.com/"><i class="icon-facebook"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://twitter.com/"><i class="icon-twitter"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.linkedin.com/"><i class="icon-linkedin"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.pinterest.com/"><i class="icon-pinterest"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/"><i class="icon-instagram"></i></a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="phone">
+                            <img src="yes-to-people/content/uploads/2021/01/icon-img.png">
+                            <a href="tel:CallUsAt:775-813-9959">
+                                Call Us At: 775-813-9959
+                            </a>
+                        </li>
+                    </ul>
+                    <nav id="social-menu" class="menu-login-menu-container">
+                        <ul id="menu-login-menu" class="social-menu">
+                            <li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17">
+                                <!--<a href="#"><i class="icon-login"></i> Login/Sign Up</a></li>-->
                         </ul>
-                    </nav>
-                    <a class="responsive-menu-toggle" href="#">
-                        <i class="icon-menu-fine">
-                        </i>
-                    </a>
-                </div>
 
-				<div class="secondary_menu_wrapper"></div>
-                <div class="banner_wrapper"></div>
-                <div class="search_wrapper">
-                    <form method="get" id="searchform" action="http://yestopeople.com/">
-                        <i class="icon_search icon-search-fine">
-                        </i>
-                        <a href="#" class="icon_close">
-                            <i class="icon-cancel-fine">
-                            </i>
-                        </a>
-                        <input type="text" class="field" name="s" placeholder="Enter your search">
-                        <input type="submit" class="display-none" value="">
-                    </form>
-				</div>
-			</div>
-            <div class="top_bar_right">
-                <div class="top_bar_right_wrapper">
-                    <a id="search_button" href="#">
-                        <i class="icon-search-fine"></i>
-                    </a>
+                    </nav>
                 </div>
             </div>
-		</div>
-    </div>
-</div>
-<div class="mfn-main-slider mfn-rev-slider">
-			<!-- START Slider 1 REVOLUTION SLIDER 6.2.22 -->
-            <p class="rs-p-wp-fix"></p>
-            <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="background:transparent;padding:0 margin:0px auto;margin-top:0;margin-bottom:0;">
-                <rs-module id="rev_slider_1_1" style="" data-version="6.2.22">
-					<rs-slides>
-						<rs-slide data-key="rs-1" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-							<img src="content/plugins/revslider/public/assets/assets/transparent.png" alt="Slide" title="Home" class="rev-slidebg" data-no-retina=""><!---->
-                            <rs-layer id="slider-1-slide-1-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="content/uploads/2021/01/SLIDER-IMG.png" width="544" height="535" data-no-retina=""> 
-							</rs-layer><!---->
-                            <rs-layer id="slider-1-slide-1-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;">
-                                <div class="slide-head">WELL BEGINNING<br> IS HAlf Done<br>
-                                </div>
-                            </rs-layer><!---->
-                            <rs-layer id="slider-1-slide-1-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;">
-                                <a class="slide-btn" href="products-services/index.htm">Take A Tour
-                                </a> 
-							</rs-layer><!---->
-                            <rs-layer id="slider-1-slide-1-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:430px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">We will build Sonar Bangla with your love. 
-							</rs-layer>
-                        </rs-slide>
-						<rs-slide data-key="rs-6" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-							<img src="content/plugins/revslider/public/assets/assets/transparent.png" alt="Slide" title="Home" class="rev-slidebg" data-no-retina=""><!---->
-                            <rs-layer id="slider-1-slide-6-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="content/uploads/2021/01/SLIDER-IMG-000.png" width="544" height="535" data-no-retina=""> 
-							</rs-layer><!---->
-                            <rs-layer id="slider-1-slide-6-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;"><div class="slide-head">WELL BEGINNING<br> IS HAlf Done<br>
-                            </div>
-                            </rs-layer><!---->
-                            <rs-layer id="slider-1-slide-6-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;"><a class="slide-btn" href="products-services/index.htm">Take A Tour</a> 
-							</rs-layer><!---->
-                            <rs-layer id="slider-1-slide-6-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:430px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">Fulfilling your dreams is our dream. 
-							</rs-layer><!---->
-                        </rs-slide>
-						<rs-slide data-key="rs-7" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-							<img src="content/plugins/revslider/public/assets/assets/transparent.png" alt="Slide" title="Home" class="rev-slidebg" data-no-retina=""><!---->
-                            <rs-layer id="slider-1-slide-7-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="content/uploads/2021/01/SLIDER-IMG.png" width="544" height="535" data-no-retina=""> 
-							</rs-layer><!--
+        </div>
 
-							--><rs-layer id="slider-1-slide-7-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;"><div class="slide-head">WELL BEGINNING<br> IS HAlf Done<br>
-                            </div> 
-							</rs-layer><!---->
-                            <rs-layer id="slider-1-slide-7-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;"><a class="slide-btn" href="products-services/index.htm">Take A Tour</a> 
-							</rs-layer><!---->
-                            <rs-layer id="slider-1-slide-7-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:415px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">We have come to fulfill your dreams <br>by insuring our quality of work 
-							</rs-layer><!---->						
-                        </rs-slide>
-					</rs-slides>
-				</rs-module>
-				<script type="text/javascript">
-					setREVStartSize({c: 'rev_slider_1_1',rl:[1240,1024,778,480],el:[750],gw:[1240],gh:[750],type:'standard',justify:'',layout:'fullwidth',mh:"0"});
-					var	revapi1,
-						tpj;
-					function revinit_revslider11() {
-					jQuery(function() {
-						tpj = jQuery;
-						revapi1 = tpj("#rev_slider_1_1");
-						if(revapi1==undefined || revapi1.revolution == undefined){
-							revslider_showDoubleJqueryError("rev_slider_1_1");
-						}else{
-							revapi1.revolution({
-								sliderLayout:"fullwidth",
-								visibilityLevels:"1240,1024,778,480",
-								gridwidth:1240,
-								gridheight:750,
-								spinner:"spinner0",
-								perspective:600,
-								perspectiveType:"global",
-								editorheight:"750,768,960,720",
-								responsiveLevels:"1240,1024,778,480",
-								progressBar:{disableProgressBar:true},
-								navigation: {
-									onHoverStop:false,
-									bullets: {
-										enable:true,
-										tmp:"",
-										style:"hesperiden"
-									}
-								},
-								fallbacks: {
-									allowHTML5AutoPlayOnAndroid:true
-								},
-							});
-						}
-						
-					});
-					} // End of RevInitScript
-				var once_revslider11 = false;
-				if (document.readyState === "loading") {document.addEventListener('readystatechange',function() { if((document.readyState === "interactive" || document.readyState === "complete") && !once_revslider11 ) { once_revslider11 = true; revinit_revslider11();}});} else {once_revslider11 = true; revinit_revslider11();}
-				</script>
-				<script>
-					var htmlDivCss = unescape("%23rev_slider_1_1_wrapper%20.hesperiden.tp-bullets%20%7B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden.tp-bullets%3Abefore%20%7B%0A%09content%3A%27%20%27%3B%0A%09position%3Aabsolute%3B%0A%09width%3A100%25%3B%0A%09height%3A100%25%3B%0A%09background%3Atransparent%3B%0A%09padding%3A10px%3B%0A%09margin-left%3A-10px%3Bmargin-top%3A-10px%3B%0A%09box-sizing%3Acontent-box%3B%0A%20%20%20border-radius%3A8px%3B%0A%20%20%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet%20%7B%0A%09width%3A12px%3B%0A%09height%3A12px%3B%0A%09position%3Aabsolute%3B%0A%09background%3A%20%23999999%3B%20%2F%2A%20old%20browsers%20%2A%2F%0A%20%20%20%20background%3A%20-moz-linear-gradient%28top%2C%20%20%23999999%200%25%2C%20%23e1e1e1%20100%25%29%3B%20%2F%2A%20ff3.6%2B%20%2A%2F%0A%20%20%20%20background%3A%20-webkit-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20chrome10%2B%2Csafari5.1%2B%20%2A%2F%0A%20%20%20%20background%3A%20-o-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20opera%2011.10%2B%20%2A%2F%0A%20%20%20%20background%3A%20-ms-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20ie10%2B%20%2A%2F%0A%20%20%20%20background%3A%20linear-gradient%28to%20bottom%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20w3c%20%2A%2F%0A%20%20%20%20filter%3A%20progid%3Adximagetransform.microsoft.gradient%28%20%0A%20%20%20%20startcolorstr%3D%27%23999999%27%2C%20endcolorstr%3D%27%23e1e1e1%27%2Cgradienttype%3D0%20%29%3B%20%2F%2A%20ie6-9%20%2A%2F%0A%09border%3A3px%20solid%20%23e5e5e5%3B%0A%09border-radius%3A50%25%3B%0A%09cursor%3A%20pointer%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet%3Ahover%2C%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet.selected%20%7B%0A%09background%3A%23666666%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet-image%20%7B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet-title%20%7B%0A%7D%0A%0A");
-					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
-					if(htmlDiv) {
-						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-					}else{
-						var htmlDiv = document.createElement('div');
-						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
-						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
-					}
-				</script>
-				<script>
-					var htmlDivCss = unescape("%0A%0A%0A");
-					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
-					if(htmlDiv) {
-						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-					}else{
-						var htmlDiv = document.createElement('div');
-						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
-						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
-					}
-				</script>
-			</rs-module-wrap>
-			<!-- END REVOLUTION SLIDER -->
-</div></header>
-			
-		</div>
+            <div class="header_placeholder"></div>
+            <div id="Top_bar" class="loading">
+                <div class="container">
+            <div class="column one">
+                <div class="top_bar_left clearfix">
+                    <div class="logo">
+                        <a id="logo" href="index.htm" title="Yes To People Concern of MEChowdhury Limited" data-height="120" data-padding="15">
+                            <img class="logo-main scale-with-grid" src="content/uploads/2021/01/logo-img.png" data-retina="http://yestopeople.com/content/uploads/2021/01/logo-img.png" data-height="120" alt="" data-no-retina="">
+                            <img class="logo-sticky scale-with-grid" src="content/uploads/2021/01/logo-img.png" data-retina="http://yestopeople.com/content/uploads/2021/01/logo-img.png" data-height="120" alt="" data-no-retina="">
+                            <img class="logo-mobile scale-with-grid" src="content/uploads/2021/01/logo-img.png" data-retina="http://yestopeople.com/content/uploads/2021/01/logo-img.png" data-height="120" alt="" data-no-retina="">
+                            <img class="logo-mobile-sticky scale-with-grid" src="content/uploads/2021/01/logo-img.png" data-retina="http://yestopeople.com/content/uploads/2021/01/logo-img.png" data-height="120" alt="" data-no-retina="">
+                        </a>
+                    </div>
+                    <div class="menu_wrapper">
+                        <nav id="menu">
+                            <ul id="menu-main-menu" class="menu menu-main">
+                                <li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page        menu-item-home current-menu-item page_item page-item-7 current_page_item">
+                                    <a href="index.htm">
+                                        <span>Home</span>
+                                    </a>
+                                </li>
+                                <li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page">
+                                    <a href="about-us/index.htm">
+                                        <span>About Us</span>
+                                    </a>
+                                </li>
+                                <li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page">
+                                    <a href="products-services/index.htm">
+                                        <span>Products &#038; Services</span>
+                                    </a>
+                                </li>
+                                <li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page">
+                                    <a href="reviews/index.htm">
+                                        <span>Reviews</span>
+                                    </a>
+                                </li>
+                                <!--<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#"><span>Careers</span></a></li>-->
+                                <li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page">
+                                    <a href="contact-us/index.htm">
+                                        <span>Contact Us</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </nav>
+                        <a class="responsive-menu-toggle" href="#">
+                            <i class="icon-menu-fine">
+                            </i>
+                        </a>
+                    </div>
 
-		
-		<!-- mfn_hook_content_before --><!-- mfn_hook_content_before -->
-<div id="Content">
-	<div class="content_wrapper clearfix">
-
-		<div class="sections_group">
-
-			<div class="entry-content" itemprop="mainContentOfPage">
-
-				<div class="section mcb-section mcb-section-kxqvu9eeg" style="padding-top:30px"><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-4r57vrfmp one-second  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-848hiun4r one column_image animatid-image"><div class="image_frame image_item no_link scale-with-grid no_border"><div class="image_wrapper"><img class="scale-with-grid" src="content/uploads/2021/01/left-img.png" alt="" title="" width="574" height="370"></div></div>
-</div></div></div><div class="wrap mcb-wrap mcb-wrap-n1yzxrezt one-second  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-h0sy8mtar one column_column column-margin-20px"><div class="column_attr clearfix animate" data-anim-type="fadeInUp" style=""><h1>About Us</h1>
-<p>Founded on November 15th 2020, YES TO PEOPLE Concerns of M E Chowdhury LLC is a private limited liability company established in U.S.A inspired by Mohammed E Chowdhury...</p>
-
-<h1>Mission & Vision</h1>
-<p>Creativity, innovation and bright ideas continue to drive us forward in our belief that we can complete your demands with best products & services.</p>
-
-<p>Yes To People provide incredible products & services for millions of people with their demands & dream in everyday life with our mission from well start to end well</p>
-</div></div><div class="column mcb-column mcb-item-n5bekcpph one column_column"><div class="column_attr clearfix animate" data-anim-type="fadeInUp" style=""><a class="slide-btn" href="about-us/index.htm">Read More</a> <a class="slide-btn" href="products-services/index.htm">Take A Tour</a></div></div></div></div></div></div><div class="section mcb-section mcb-section-i99a6j9sy" style="padding-top:30px"><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-79ah2hhfn one  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-rtgiujnyi one column_column column-margin-20px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><h1>our products & services</h1></div></div><div class="column mcb-column mcb-item-tzxobgu5e one column_column"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><div class="wondercarousellightbox_options" data-skinsfoldername="" data-jsfolder="http://yestopeople.com/content/plugins/wonderplugin-carousel-trial/engine/" style="display:none;"></div>
-<div class="wonderplugincarousel-container" id="wonderplugincarousel-container-2" style="padding: 0px 0px 30px 0px;"><div class="wonderplugincarousel" id="wonderplugincarousel-2" data-carouselid="2" data-width="357" data-height="354" data-skin="gallery" data-donotzoomin="false" data-addpreloading="false" data-multiplebyrow="false" data-showimgtitle="false" data-sameheight="false" data-sameheightresponsive="false" data-fullwidth="false" data-centerimage="true" data-fitimage="false" data-fitcenterimage="true" data-fixaspectratio="true" data-autoplay="true" data-random="false" data-circular="true" data-pauseonmouseover="true" data-continuous="false" data-responsive="true" data-showhoveroverlay="false" data-showhoveroverlayalways="false" data-hidehoveroverlayontouch="false" data-lightboxresponsive="true" data-lightboxshownavigation="false" data-lightboxnogroup="false" data-lightboxshowtitle="true" data-lightboxshowdescription="false" data-lightboxaddsocialmedia="false" data-usescreenquery="false" data-donotinit="false" data-addinitscript="false" data-doshortcodeontext="false" data-lightboxshowsocial="false" data-lightboxshowemail="true" data-lightboxshowfacebook="true" data-lightboxshowtwitter="true" data-lightboxshowpinterest="true" data-lightboxsocialrotateeffect="true" data-donotcircularforless="false" data-deferloading="false" data-enablelazyload="false" data-usebase64="true" data-limitvisibleitemstolength="true" data-hidearrowsandbulletsforonepage="true" data-showfirstlasthalf="false" data-verticalflexheight="false" data-hidebulletssmallscreen="false" data-removeinlinecss="true" data-lightboxinityoutube="true" data-lightboxinitvimeo="true" data-hidecontainerbeforeloaded="false" data-hidecontaineroninit="true" data-lightboximagekeepratio="true" data-showplayvideo="false" data-triggerresize="false" data-lightboxfullscreenmode="false" data-lightboxcloseonoverlay="true" data-lightboxvideohidecontrols="false" data-lightboxautoslide="false" data-lightboxshowtimer="true" data-lightboxshowplaybutton="false" data-lightboxalwaysshownavarrows="false" data-lightboxshowtitleprefix="false" data-preloadingimage="loading-0.gif" data-spacing="4" data-rownumber="1" data-visibleitems="3" data-arrowstyle="always" data-arrowimage="arrows-28-28-0.png" data-arrowwidth="28" data-arrowheight="28" data-navstyle="none" data-navimage="bullet-16-16-0.png" data-navwidth="16" data-navheight="16" data-navspacing="8" data-hoveroverlayimage="hoveroverlay-64-64-5.png" data-lightboxthumbwidth="90" data-lightboxthumbheight="60" data-lightboxthumbtopmargin="12" data-lightboxthumbbottommargin="4" data-lightboxbarheight="64" data-lightboxtitlebottomcss="{color:#333; font-size:14px; font-family:Armata,sans-serif,Arial; overflow:hidden; text-align:left;}" data-lightboxdescriptionbottomcss="{color:#333; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;}" data-continuousduration="5000" data-autoplaydir="left" data-scrollmode="page" data-interval="3000" data-transitionduration="1000" data-lightboxtitlestyle="bottom" data-lightboximagepercentage="75" data-lightboxdefaultvideovolume="1" data-lightboxoverlaybgcolor="#000" data-lightboxoverlayopacity="0.9" data-lightboxbgcolor="#fff" data-lightboxtitleprefix="%NUM / %TOTAL" data-lightboxtitleinsidecss="color:#fff; font-size:16px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left;" data-lightboxdescriptioninsidecss="color:#fff; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;" data-playvideoimage="playvideo-64-64-0.png" data-playvideoimagepos="center" data-imgtitle="title" data-circularlimit="3" data-deferloadingdelay="0" data-firstlasthalfsmallscreen="640" data-hidebulletssmallscreensize="480" data-movemode="carousel" data-moveduration="500" data-lightboxsocialposition="position:absolute;top:100%;right:0;" data-lightboxsocialpositionsmallscreen="position:absolute;top:100%;right:0;left:0;" data-lightboxsocialdirection="horizontal" data-lightboxsocialbuttonsize="32" data-lightboxsocialbuttonfontsize="18" data-sameheightmediumscreen="769" data-sameheightmediumheight="200" data-sameheightsmallscreen="415" data-sameheightsmallheight="150" data-triggerresizedelay="100" data-lightboxslideinterval="5000" data-lightboxtimerposition="bottom" data-lightboxtimercolor="#dc572e" data-lightboxtimeropacity="1" data-lightboxbordersize="8" data-lightboxborderradius="0" data-screenquery='{ "tablet": { "screenwidth": 800, "visibleitems": 2 }, "mobile": { "screenwidth": 480, "visibleitems": 1 } }' data-jsfolder="http://yestopeople.com/content/plugins/wonderplugin-carousel-trial/engine/" style="display:none;position:relative;margin:0 auto;width:100%;max-width:1071px;"><div class="amazingcarousel-list-container" style="overflow:hidden;"><ul class="amazingcarousel-list"><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="e-commerce/index.htm" onclick="http://yestopeople.com/e-commerce/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/ser-01.jpg" alt="E-Commerce" data-description=""></a></div>
-<div class="amazingcarousel-title">E-Commerce</div>
-<div class="amazingcarousel-description"></div>
-<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="health-pharma/index.htm" onclick="http://yestopeople.com/health-pharma/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/services-02.jpg" alt="Health &amp; Pharma" data-description=""></a></div>
-<div class="amazingcarousel-title">Health &amp; Pharma</div>
-<div class="amazingcarousel-description"></div>
-<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="it/index.htm" onclick="http://yestopeople.com/it/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/services-03.jpg" alt="IT" data-description=""></a></div>
-<div class="amazingcarousel-title">IT</div>
-<div class="amazingcarousel-description"></div>
-<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="real-estate/index.htm" onclick="http://yestopeople.com/real-estate/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/services-05.jpg" alt="Real Estate" data-description=""></a></div>
-<div class="amazingcarousel-title">Real Estate</div>
-<div class="amazingcarousel-description"></div>
-<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="new-biz/index.htm" onclick="http://yestopeople.com/new-biz/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/services-04.jpg" alt="New BIZ" data-description=""></a></div>
-<div class="amazingcarousel-title">New BIZ</div>
-<div class="amazingcarousel-description"></div>
-<div class="amazingcarousel-button"></div></div></li></ul><div class="amazingcarousel-prev"></div><div class="amazingcarousel-next"></div></div><div class="amazingcarousel-nav"></div><div class="wonderplugin-engine"><a href="http://www.wonderplugin.com/wordpress-carousel/" title="Responsive WordPress Image Carousel Plugin">Responsive WordPress Image Carousel Plugin</a></div></div></div>
-<script>
-	function wondercarousel_2_appendcss(csscode) {var head=document.head || document.getElementsByTagName("head")[0];var style=document.createElement("style");head.appendChild(style);style.type="text/css";if (style.styleSheet){style.styleSheet.cssText=csscode;} else {style.appendChild(document.createTextNode(csscode));}};wondercarousel_2_appendcss("@import url(https://fonts.googleapis.com/css?family=Open+Sans);  #wonderplugincarousel-2 .amazingcarousel-image {	 	position: relative; 	padding: 4px; 	background-color: #fff; 	-moz-box-shadow:  0 1px 4px rgba(0, 0, 0, 0.2); 	-webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); 	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); }  #wonderplugincarousel-2 .amazingcarousel-image img { 	display: block; 	width: 100%; 	max-width: 100%; 	border: 0; 	margin: 0; 	padding: 0; 	-moz-border-radius: 0px; 	-webkit-border-radius: 0px; 	border-radius: 0px; }  #wonderplugincarousel-2 .amazingcarousel-title { 	position:relative; 	font: bold 12px Open Sans, sans-serif; 	color:#333333; 	margin:6px; 	text-align:center; 	line-height: 14px; 	overflow: hidden; }  #wonderplugincarousel-2 .amazingcarousel-description { 	position:relative; 	font: 12px Open Sans, sans-serif; 	color:#333333; 	margin:6px; 	text-align:center; 	line-height: 14px;		 	overflow: hidden; }  #wonderplugincarousel-2 .amazingcarousel-list-container {  	padding: 8px 0; }  #wonderplugincarousel-2 .amazingcarousel-item-container { 	text-align: center; 	padding: 4px; }  #wonderplugincarousel-2 .amazingcarousel-prev { 	left: 0%; 	top: 50%; 	margin-left: -60px; 	margin-top: -24px; }  #wonderplugincarousel-2 .amazingcarousel-next { 	right: 0%; 	top: 50%; 	margin-right: -60px; 	margin-top: -24px; }  #wonderplugincarousel-2 .amazingcarousel-nav { 	position: absolute; 	width: 100%; 	top: 100%; }  #wonderplugincarousel-2 .amazingcarousel-bullet-wrapper { 	margin: 4px auto; }  .amazingcarousel-socialmedia-button { 	display: inline-block; 	margin: 4px; }  .amazingcarousel-socialmedia-button a { 	box-shadow: none; }  .amazingcarousel-socialmedia-icon { 	display:table-cell; 	width:32px; 	height:32px; 	font-size:18px; 	border-radius:50%; 	color:#fff; 	vertical-align:middle; 	text-align:center; 	cursor:pointer; 	padding:0; }  .amazingcarousel-socialmedia-rotate { 	transition: transform .4s ease-in;  }   .amazingcarousel-socialmedia-rotate:hover {  	transform: rotate(360deg);  } #wonderplugincarousel-2 .star-rating { 	display: inline-block; }");
-</script>
-</div></div></div></div></div></div><div class="section mcb-section mcb-section-ti7y89bqv bg-cover" style="background-image:url(content/uploads/2021/01/bg-3232233.jpg);background-repeat:no-repeat;background-position:left top"><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-bx3ohrqe2 one  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-r5vunl6ba one column_column column-margin-20px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><h1>Our Latest Listing</h1></div></div><div class="column mcb-column mcb-item-0537puawg one column_column listing-Class column-margin-20px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><div class="wondercarousellightbox_options" data-skinsfoldername="" data-jsfolder="http://yestopeople.com/content/plugins/wonderplugin-carousel-trial/engine/" style="display:none;"></div>
-<div class="wonderplugincarousel-container" id="wonderplugincarousel-container-3" style="padding: 0px 0px 30px 0px;"><div class="wonderplugincarousel" id="wonderplugincarousel-3" data-carouselid="3" data-width="371" data-height="339" data-skin="gallery" data-donotzoomin="false" data-addpreloading="false" data-multiplebyrow="false" data-showimgtitle="false" data-sameheight="false" data-sameheightresponsive="false" data-fullwidth="false" data-centerimage="true" data-fitimage="false" data-fitcenterimage="true" data-fixaspectratio="true" data-autoplay="true" data-random="false" data-circular="true" data-pauseonmouseover="true" data-continuous="false" data-responsive="true" data-showhoveroverlay="false" data-showhoveroverlayalways="false" data-hidehoveroverlayontouch="false" data-lightboxresponsive="true" data-lightboxshownavigation="false" data-lightboxnogroup="false" data-lightboxshowtitle="true" data-lightboxshowdescription="false" data-lightboxaddsocialmedia="false" data-usescreenquery="false" data-donotinit="false" data-addinitscript="false" data-doshortcodeontext="false" data-lightboxshowsocial="false" data-lightboxshowemail="true" data-lightboxshowfacebook="true" data-lightboxshowtwitter="true" data-lightboxshowpinterest="true" data-lightboxsocialrotateeffect="true" data-donotcircularforless="false" data-deferloading="false" data-enablelazyload="false" data-usebase64="true" data-limitvisibleitemstolength="true" data-hidearrowsandbulletsforonepage="true" data-showfirstlasthalf="false" data-verticalflexheight="false" data-hidebulletssmallscreen="false" data-removeinlinecss="true" data-lightboxinityoutube="true" data-lightboxinitvimeo="true" data-hidecontainerbeforeloaded="false" data-hidecontaineroninit="true" data-lightboximagekeepratio="true" data-showplayvideo="true" data-triggerresize="false" data-lightboxfullscreenmode="false" data-lightboxcloseonoverlay="true" data-lightboxvideohidecontrols="false" data-lightboxautoslide="false" data-lightboxshowtimer="true" data-lightboxshowplaybutton="false" data-lightboxalwaysshownavarrows="false" data-lightboxshowtitleprefix="false" data-preloadingimage="loading-0.gif" data-spacing="4" data-rownumber="1" data-visibleitems="3" data-arrowstyle="always" data-arrowimage="arrows-28-28-0.png" data-arrowwidth="28" data-arrowheight="28" data-navstyle="none" data-navimage="bullet-16-16-0.png" data-navwidth="16" data-navheight="16" data-navspacing="8" data-hoveroverlayimage="hoveroverlay-64-64-5.png" data-lightboxthumbwidth="90" data-lightboxthumbheight="60" data-lightboxthumbtopmargin="12" data-lightboxthumbbottommargin="4" data-lightboxbarheight="64" data-lightboxtitlebottomcss="{color:#333; font-size:14px; font-family:Armata,sans-serif,Arial; overflow:hidden; text-align:left;}" data-lightboxdescriptionbottomcss="{color:#333; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;}" data-continuousduration="5000" data-autoplaydir="left" data-scrollmode="page" data-interval="3000" data-transitionduration="1000" data-lightboxtitlestyle="bottom" data-lightboximagepercentage="75" data-lightboxdefaultvideovolume="1" data-lightboxoverlaybgcolor="#000" data-lightboxoverlayopacity="0.9" data-lightboxbgcolor="#fff" data-lightboxtitleprefix="%NUM / %TOTAL" data-lightboxtitleinsidecss="color:#fff; font-size:16px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left;" data-lightboxdescriptioninsidecss="color:#fff; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;" data-playvideoimage="playvideo-64-64-0.png" data-playvideoimagepos="center" data-imgtitle="title" data-circularlimit="3" data-deferloadingdelay="0" data-firstlasthalfsmallscreen="640" data-hidebulletssmallscreensize="480" data-movemode="carousel" data-moveduration="500" data-lightboxsocialposition="position:absolute;top:100%;right:0;" data-lightboxsocialpositionsmallscreen="position:absolute;top:100%;right:0;left:0;" data-lightboxsocialdirection="horizontal" data-lightboxsocialbuttonsize="32" data-lightboxsocialbuttonfontsize="18" data-sameheightmediumscreen="769" data-sameheightmediumheight="200" data-sameheightsmallscreen="415" data-sameheightsmallheight="150" data-triggerresizedelay="100" data-lightboxslideinterval="5000" data-lightboxtimerposition="bottom" data-lightboxtimercolor="#dc572e" data-lightboxtimeropacity="1" data-lightboxbordersize="8" data-lightboxborderradius="0" data-screenquery='{ "tablet": { "screenwidth": 800, "visibleitems": 2 }, "mobile": { "screenwidth": 480, "visibleitems": 1 } }' data-jsfolder="http://yestopeople.com/content/plugins/wonderplugin-carousel-trial/engine/" style="display:none;position:relative;margin:0 auto;width:100%;max-width:1113px;"><div class="amazingcarousel-list-container" style="overflow:hidden;"><ul class="amazingcarousel-list"><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="it/index.htm" onclick="http://yestopeople.com/it/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/listing-03.jpg" alt="IT" data-description="&lt;i class=&quot;icon-location&quot;&gt;&lt;/i&gt; 34-42 Montgomery St , NY, USA"></a></div>
-<div class="amazingcarousel-title">IT</div>
-<div class="amazingcarousel-description"><i class="icon-location"></i> 34-42 Montgomery St , NY, USA</div>
-<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="health-pharma/index.htm" onclick="http://yestopeople.com/health-pharma/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/listing-02.jpg" alt="Health &amp; Pharma" data-description="&lt;i class=&quot;icon-location&quot;&gt;&lt;/i&gt; 34-42 Montgomery St , NY, USA"></a></div>
-<div class="amazingcarousel-title">Health &amp; Pharma</div>
-<div class="amazingcarousel-description"><i class="icon-location"></i> 34-42 Montgomery St , NY, USA</div>
-<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="e-commerce/index.htm" onclick="http://yestopeople.com/e-commerce/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/listing-01.jpg" alt="E-commerce" data-description="&lt;i class=&quot;icon-location&quot;&gt;&lt;/i&gt; 34-42 Montgomery St , NY, USA"></a></div>
-<div class="amazingcarousel-title">E-commerce</div>
-<div class="amazingcarousel-description"><i class="icon-location"></i> 34-42 Montgomery St , NY, USA</div>
-<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="real-estate/index.htm" onclick="http://yestopeople.com/real-estate/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/listing-04.png" alt="REAL ESTATE" data-description="&lt;i class=&quot;icon-location&quot;&gt;&lt;/i&gt; 34-42 Montgomery St , NY, USA"></a></div>
-<div class="amazingcarousel-title">REAL ESTATE</div>
-<div class="amazingcarousel-description"><i class="icon-location"></i> 34-42 Montgomery St , NY, USA</div>
-<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="new-biz/index.htm" onclick="http://yestopeople.com/new-biz/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/listing-0345.png" alt="NEW BIZ" data-description="&lt;i class=&quot;icon-location&quot;&gt;&lt;/i&gt; 34-42 Montgomery St , NY, USA"></a></div>
-<div class="amazingcarousel-title">NEW BIZ</div>
-<div class="amazingcarousel-description"><i class="icon-location"></i> 34-42 Montgomery St , NY, USA</div>
-<div class="amazingcarousel-button"></div></div></li></ul><div class="amazingcarousel-prev"></div><div class="amazingcarousel-next"></div></div><div class="amazingcarousel-nav"></div><div class="wonderplugin-engine"><a href="http://www.wonderplugin.com/wordpress-carousel/" title="Responsive WordPress Image Carousel Plugin">Responsive WordPress Image Carousel Plugin</a></div></div></div>
-<script>
-    function wondercarousel_3_appendcss(csscode) {var head=document.head || document.getElementsByTagName("head")[0];var style=document.createElement("style");head.appendChild(style);style.type="text/css";if (style.styleSheet){style.styleSheet.cssText=csscode;} else {style.appendChild(document.createTextNode(csscode));}};wondercarousel_3_appendcss("@import url(https://fonts.googleapis.com/css?family=Open+Sans);  #wonderplugincarousel-3 .amazingcarousel-image {	 	position: relative; 	padding: 4px; 	background-color: #fff; 	-moz-box-shadow:  0 1px 4px rgba(0, 0, 0, 0.2); 	-webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); 	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); }  #wonderplugincarousel-3 .amazingcarousel-image img { 	display: block; 	width: 100%; 	max-width: 100%; 	border: 0; 	margin: 0; 	padding: 0; 	-moz-border-radius: 0px; 	-webkit-border-radius: 0px; 	border-radius: 0px; }  #wonderplugincarousel-3 .amazingcarousel-title { 	position:relative; 	font: bold 12px Open Sans, sans-serif; 	color:#333333; 	margin:6px; 	text-align:center; 	line-height: 14px; 	overflow: hidden; }  #wonderplugincarousel-3 .amazingcarousel-description { 	position:relative; 	font: 12px Open Sans, sans-serif; 	color:#333333; 	margin:6px; 	text-align:center; 	line-height: 14px;		 	overflow: hidden; }  #wonderplugincarousel-3 .amazingcarousel-list-container {  	padding: 8px 0; }  #wonderplugincarousel-3 .amazingcarousel-item-container { 	text-align: center; 	padding: 4px; }  #wonderplugincarousel-3 .amazingcarousel-prev { 	left: 0%; 	top: 50%; 	margin-left: -60px; 	margin-top: -24px; }  #wonderplugincarousel-3 .amazingcarousel-next { 	right: 0%; 	top: 50%; 	margin-right: -60px; 	margin-top: -24px; }  #wonderplugincarousel-3 .amazingcarousel-nav { 	position: absolute; 	width: 100%; 	top: 100%; }  #wonderplugincarousel-3 .amazingcarousel-bullet-wrapper { 	margin: 4px auto; }  .amazingcarousel-socialmedia-button { 	display: inline-block; 	margin: 4px; }  .amazingcarousel-socialmedia-button a { 	box-shadow: none; }  .amazingcarousel-socialmedia-icon { 	display:table-cell; 	width:32px; 	height:32px; 	font-size:18px; 	border-radius:50%; 	color:#fff; 	vertical-align:middle; 	text-align:center; 	cursor:pointer; 	padding:0; }  .amazingcarousel-socialmedia-rotate { 	transition: transform .4s ease-in;  }   .amazingcarousel-socialmedia-rotate:hover {  	transform: rotate(360deg);  } #wonderplugincarousel-3 .star-rating { 	display: inline-block; }");
-</script>
-</div></div></div></div></div></div><div class="section mcb-section mcb-section-jfnslilb7 bg-cover" style="background-image:url(content/uploads/2021/01/bg-3232233.jpg);background-repeat:no-repeat;background-position:left top"><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-e06x16k36 one  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-uu690fnh3 one column_column column-margin-20px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><h1>Watch Our Videos</h1>
-</div></div></div></div><div class="wrap mcb-wrap mcb-wrap-zildi10co one  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-qk68vcb66 one column_column video-Class column-margin-0px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><div class="wondercarousellightbox_options" data-skinsfoldername="" data-jsfolder="http://yestopeople.com/content/plugins/wonderplugin-carousel-trial/engine/" style="display:none;"></div>
-<div class="wonderplugincarousel-container" id="wonderplugincarousel-container-4" style="padding: 0px 0px 30px 0px;">
-    <div class="wonderplugincarousel" id="wonderplugincarousel-4" data-carouselid="4" data-width="370" data-height="274" data-skin="gallery" data-donotzoomin="false" data-addpreloading="false" data-multiplebyrow="false" data-showimgtitle="false" data-sameheight="false" data-sameheightresponsive="false" data-fullwidth="false" data-centerimage="true" data-fitimage="false" data-fitcenterimage="true" data-fixaspectratio="true" data-autoplay="true" data-random="false" data-circular="true" data-pauseonmouseover="true" data-continuous="false" data-responsive="true" data-showhoveroverlay="false" data-showhoveroverlayalways="false" data-hidehoveroverlayontouch="false" data-lightboxresponsive="true" data-lightboxshownavigation="false" data-lightboxnogroup="false" data-lightboxshowtitle="true" data-lightboxshowdescription="false" data-lightboxaddsocialmedia="false" data-usescreenquery="false" data-donotinit="false" data-addinitscript="false" data-doshortcodeontext="false" data-lightboxshowsocial="false" data-lightboxshowemail="true" data-lightboxshowfacebook="true" data-lightboxshowtwitter="true" data-lightboxshowpinterest="true" data-lightboxsocialrotateeffect="true" data-donotcircularforless="false" data-deferloading="false" data-enablelazyload="false" data-usebase64="true" data-limitvisibleitemstolength="true" data-hidearrowsandbulletsforonepage="true" data-showfirstlasthalf="false" data-verticalflexheight="false" data-hidebulletssmallscreen="false" data-removeinlinecss="true" data-lightboxinityoutube="true" data-lightboxinitvimeo="true" data-hidecontainerbeforeloaded="false" data-hidecontaineroninit="true" data-lightboximagekeepratio="true" data-showplayvideo="true" data-triggerresize="false" data-lightboxfullscreenmode="false" data-lightboxcloseonoverlay="true" data-lightboxvideohidecontrols="false" data-lightboxautoslide="false" data-lightboxshowtimer="true" data-lightboxshowplaybutton="false" data-lightboxalwaysshownavarrows="false" data-lightboxshowtitleprefix="false" data-preloadingimage="loading-0.gif" data-spacing="4" data-rownumber="1" data-visibleitems="3" data-arrowstyle="always" data-arrowimage="arrows-28-28-0.png" data-arrowwidth="28" data-arrowheight="28" data-navstyle="none" data-navimage="bullet-16-16-0.png" data-navwidth="16" data-navheight="16" data-navspacing="8" data-hoveroverlayimage="hoveroverlay-64-64-3.png" data-lightboxthumbwidth="90" data-lightboxthumbheight="60" data-lightboxthumbtopmargin="12" data-lightboxthumbbottommargin="4" data-lightboxbarheight="64" data-lightboxtitlebottomcss="{color:#333; font-size:14px; font-family:Armata,sans-serif,Arial; overflow:hidden; text-align:left;}" data-lightboxdescriptionbottomcss="{color:#333; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;}" data-continuousduration="5000" data-autoplaydir="left" data-scrollmode="page" data-interval="3000" data-transitionduration="1000" data-lightboxtitlestyle="bottom" data-lightboximagepercentage="75" data-lightboxdefaultvideovolume="1" data-lightboxoverlaybgcolor="#000" data-lightboxoverlayopacity="0.9" data-lightboxbgcolor="#fff" data-lightboxtitleprefix="%NUM / %TOTAL" data-lightboxtitleinsidecss="color:#fff; font-size:16px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left;" data-lightboxdescriptioninsidecss="color:#fff; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;" data-playvideoimage="playvideo-64-64-0.png" data-playvideoimagepos="center" data-imgtitle="title" data-circularlimit="3" data-deferloadingdelay="0" data-firstlasthalfsmallscreen="640" data-hidebulletssmallscreensize="480" data-movemode="carousel" data-moveduration="500" data-lightboxsocialposition="position:absolute;top:100%;right:0;" data-lightboxsocialpositionsmallscreen="position:absolute;top:100%;right:0;left:0;" data-lightboxsocialdirection="horizontal" data-lightboxsocialbuttonsize="32" data-lightboxsocialbuttonfontsize="18" data-sameheightmediumscreen="769" data-sameheightmediumheight="200" data-sameheightsmallscreen="415" data-sameheightsmallheight="150" data-triggerresizedelay="100" data-lightboxslideinterval="5000" data-lightboxtimerposition="bottom" data-lightboxtimercolor="#dc572e" data-lightboxtimeropacity="1" data-lightboxbordersize="8" data-lightboxborderradius="0" data-screenquery='{ "tablet": { "screenwidth": 800, "visibleitems": 2 }, "mobile": { "screenwidth": 480, "visibleitems": 1 } }' data-jsfolder="http://yestopeople.com/content/plugins/wonderplugin-carousel-trial/engine/" style="display:none;position:relative;margin:0 auto;width:100%;max-width:1110px;">
-        <div class="amazingcarousel-list-container" style="overflow:hidden;">
-            <ul class="amazingcarousel-list">
-                <li class="amazingcarousel-item">
-                    <div class="amazingcarousel-item-container">
-                        <div class="amazingcarousel-image">
-                            <a href="content/uploads/2021/01/Web-Design-Company-video-background.mp4" data-thumbnail="http://yestopeople.com/content/uploads/2021/01/video-01-300x222.jpg" class="wondercarousellightbox wondercarousellightbox-4" data-group="wondercarousellightbox-4" data-mediatype="2">
-                                <img class="amazingcarousel-image-img" src="content/uploads/2021/01/video-01.jpg" alt="" data-description="">
+                    <div class="secondary_menu_wrapper"></div>
+                    <div class="banner_wrapper"></div>
+                    <div class="search_wrapper">
+                        <form method="get" id="searchform" action="http://yestopeople.com/">
+                            <i class="icon_search icon-search-fine">
+                            </i>
+                            <a href="#" class="icon_close">
+                                <i class="icon-cancel-fine">
+                                </i>
                             </a>
-                        </div>
+                            <input type="text" class="field" name="s" placeholder="Enter your search">
+                            <input type="submit" class="display-none" value="">
+                        </form>
+                    </div>
+                </div>
+                <div class="top_bar_right">
+                    <div class="top_bar_right_wrapper">
+                        <a id="search_button" href="#">
+                            <i class="icon-search-fine"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="mfn-main-slider mfn-rev-slider">
+                <!-- START Slider 1 REVOLUTION SLIDER 6.2.22 -->
+                <p class="rs-p-wp-fix"></p>
+                <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="background:transparent;padding:0 margin:0px auto;margin-top:0;margin-bottom:0;">
+                    <rs-module id="rev_slider_1_1" style="" data-version="6.2.22">
+                        <rs-slides>
+                            <rs-slide data-key="rs-1" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                                <img src="content/plugins/revslider/public/assets/assets/transparent.png" alt="Slide" title="Home" class="rev-slidebg" data-no-retina=""><!---->
+                                <rs-layer id="slider-1-slide-1-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="content/uploads/2021/01/SLIDER-IMG.png" width="544" height="535" data-no-retina=""> 
+                                </rs-layer><!---->
+                                <rs-layer id="slider-1-slide-1-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;">
+                                    <div class="slide-head">WELL BEGINNING<br> IS HAlf Done<br>
+                                    </div>
+                                </rs-layer><!---->
+                                <rs-layer id="slider-1-slide-1-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;">
+                                    <a class="slide-btn" href="products-services/index.htm">Take A Tour
+                                    </a> 
+                                </rs-layer><!---->
+                                <rs-layer id="slider-1-slide-1-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:430px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">We will build Sonar Bangla with your love. 
+                                </rs-layer>
+                            </rs-slide>
+                            <rs-slide data-key="rs-6" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                                <img src="content/plugins/revslider/public/assets/assets/transparent.png" alt="Slide" title="Home" class="rev-slidebg" data-no-retina=""><!---->
+                                <rs-layer id="slider-1-slide-6-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="content/uploads/2021/01/SLIDER-IMG-000.png" width="544" height="535" data-no-retina=""> 
+                                </rs-layer><!---->
+                                <rs-layer id="slider-1-slide-6-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;"><div class="slide-head">WELL BEGINNING<br> IS HAlf Done<br>
+                                </div>
+                                </rs-layer><!---->
+                                <rs-layer id="slider-1-slide-6-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;"><a class="slide-btn" href="products-services/index.htm">Take A Tour</a> 
+                                </rs-layer><!---->
+                                <rs-layer id="slider-1-slide-6-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:430px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">Fulfilling your dreams is our dream. 
+                                </rs-layer><!---->
+                            </rs-slide>
+                            <rs-slide data-key="rs-7" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                                <img src="content/plugins/revslider/public/assets/assets/transparent.png" alt="Slide" title="Home" class="rev-slidebg" data-no-retina=""><!---->
+                                <rs-layer id="slider-1-slide-7-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="content/uploads/2021/01/SLIDER-IMG.png" width="544" height="535" data-no-retina=""> 
+                                </rs-layer><!--
 
-                        <div class="amazingcarousel-title"></div>
+                                --><rs-layer id="slider-1-slide-7-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;"><div class="slide-head">WELL BEGINNING<br> IS HAlf Done<br>
+                                </div> 
+                                </rs-layer><!---->
+                                <rs-layer id="slider-1-slide-7-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;"><a class="slide-btn" href="products-services/index.htm">Take A Tour</a> 
+                                </rs-layer><!---->
+                                <rs-layer id="slider-1-slide-7-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:415px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">We have come to fulfill your dreams <br>by insuring our quality of work 
+                                </rs-layer><!---->						
+                            </rs-slide>
+                        </rs-slides>
+                    </rs-module>
+                    <script type="text/javascript">
+                        setREVStartSize({c: 'rev_slider_1_1',rl:[1240,1024,778,480],el:[750],gw:[1240],gh:[750],type:'standard',justify:'',layout:'fullwidth',mh:"0"});
+                        var	revapi1,
+                            tpj;
+                        function revinit_revslider11() {
+                        jQuery(function() {
+                            tpj = jQuery;
+                            revapi1 = tpj("#rev_slider_1_1");
+                            if(revapi1==undefined || revapi1.revolution == undefined){
+                                revslider_showDoubleJqueryError("rev_slider_1_1");
+                            }else{
+                                revapi1.revolution({
+                                    sliderLayout:"fullwidth",
+                                    visibilityLevels:"1240,1024,778,480",
+                                    gridwidth:1240,
+                                    gridheight:750,
+                                    spinner:"spinner0",
+                                    perspective:600,
+                                    perspectiveType:"global",
+                                    editorheight:"750,768,960,720",
+                                    responsiveLevels:"1240,1024,778,480",
+                                    progressBar:{disableProgressBar:true},
+                                    navigation: {
+                                        onHoverStop:false,
+                                        bullets: {
+                                            enable:true,
+                                            tmp:"",
+                                            style:"hesperiden"
+                                        }
+                                    },
+                                    fallbacks: {
+                                        allowHTML5AutoPlayOnAndroid:true
+                                    },
+                                });
+                            }
+                            
+                        });
+                        } // End of RevInitScript
+                    var once_revslider11 = false;
+                    if (document.readyState === "loading") {document.addEventListener('readystatechange',function() { if((document.readyState === "interactive" || document.readyState === "complete") && !once_revslider11 ) { once_revslider11 = true; revinit_revslider11();}});} else {once_revslider11 = true; revinit_revslider11();}
+                    </script>
+                    <script>
+                        var htmlDivCss = unescape("%23rev_slider_1_1_wrapper%20.hesperiden.tp-bullets%20%7B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden.tp-bullets%3Abefore%20%7B%0A%09content%3A%27%20%27%3B%0A%09position%3Aabsolute%3B%0A%09width%3A100%25%3B%0A%09height%3A100%25%3B%0A%09background%3Atransparent%3B%0A%09padding%3A10px%3B%0A%09margin-left%3A-10px%3Bmargin-top%3A-10px%3B%0A%09box-sizing%3Acontent-box%3B%0A%20%20%20border-radius%3A8px%3B%0A%20%20%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet%20%7B%0A%09width%3A12px%3B%0A%09height%3A12px%3B%0A%09position%3Aabsolute%3B%0A%09background%3A%20%23999999%3B%20%2F%2A%20old%20browsers%20%2A%2F%0A%20%20%20%20background%3A%20-moz-linear-gradient%28top%2C%20%20%23999999%200%25%2C%20%23e1e1e1%20100%25%29%3B%20%2F%2A%20ff3.6%2B%20%2A%2F%0A%20%20%20%20background%3A%20-webkit-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20chrome10%2B%2Csafari5.1%2B%20%2A%2F%0A%20%20%20%20background%3A%20-o-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20opera%2011.10%2B%20%2A%2F%0A%20%20%20%20background%3A%20-ms-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20ie10%2B%20%2A%2F%0A%20%20%20%20background%3A%20linear-gradient%28to%20bottom%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20w3c%20%2A%2F%0A%20%20%20%20filter%3A%20progid%3Adximagetransform.microsoft.gradient%28%20%0A%20%20%20%20startcolorstr%3D%27%23999999%27%2C%20endcolorstr%3D%27%23e1e1e1%27%2Cgradienttype%3D0%20%29%3B%20%2F%2A%20ie6-9%20%2A%2F%0A%09border%3A3px%20solid%20%23e5e5e5%3B%0A%09border-radius%3A50%25%3B%0A%09cursor%3A%20pointer%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet%3Ahover%2C%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet.selected%20%7B%0A%09background%3A%23666666%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet-image%20%7B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet-title%20%7B%0A%7D%0A%0A");
+                        var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+                        if(htmlDiv) {
+                            htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+                        }else{
+                            var htmlDiv = document.createElement('div');
+                            htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+                            document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+                        }
+                    </script>
+                    <script>
+                        var htmlDivCss = unescape("%0A%0A%0A");
+                        var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+                        if(htmlDiv) {
+                            htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+                        }else{
+                            var htmlDiv = document.createElement('div');
+                            htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+                            document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+                        }
+                    </script>
+                </rs-module-wrap>
+                <!-- END REVOLUTION SLIDER -->
+    </div></header>
+                
+            </div>
 
-                        <div class="amazingcarousel-description"></div>
+            
+            <!-- mfn_hook_content_before --><!-- mfn_hook_content_before -->
+    <div id="Content">
+        <div class="content_wrapper clearfix">
 
-                        <div class="amazingcarousel-button">
-                            </div>
-                        </div>
-                    </li>
+            <div class="sections_group">
+
+                <div class="entry-content" itemprop="mainContentOfPage">
+
+                    <div class="section mcb-section mcb-section-kxqvu9eeg" style="padding-top:30px"><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-4r57vrfmp one-second  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-848hiun4r one column_image animatid-image"><div class="image_frame image_item no_link scale-with-grid no_border"><div class="image_wrapper"><img class="scale-with-grid" src="content/uploads/2021/01/left-img.png" alt="" title="" width="574" height="370"></div></div>
+    </div></div></div><div class="wrap mcb-wrap mcb-wrap-n1yzxrezt one-second  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-h0sy8mtar one column_column column-margin-20px"><div class="column_attr clearfix animate" data-anim-type="fadeInUp" style=""><h1>About Us</h1>
+    <p>Founded on November 15th 2020, YES TO PEOPLE Concerns of M E Chowdhury LLC is a private limited liability company established in U.S.A inspired by Mohammed E Chowdhury...</p>
+
+    <h1>Mission & Vision</h1>
+    <p>Creativity, innovation and bright ideas continue to drive us forward in our belief that we can complete your demands with best products & services.</p>
+
+    <p>Yes To People provide incredible products & services for millions of people with their demands & dream in everyday life with our mission from well start to end well</p>
+    </div></div><div class="column mcb-column mcb-item-n5bekcpph one column_column"><div class="column_attr clearfix animate" data-anim-type="fadeInUp" style=""><a class="slide-btn" href="about-us/index.htm">Read More</a> <a class="slide-btn" href="products-services/index.htm">Take A Tour</a></div></div></div></div></div></div><div class="section mcb-section mcb-section-i99a6j9sy" style="padding-top:30px"><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-79ah2hhfn one  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-rtgiujnyi one column_column column-margin-20px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><h1>our products & services</h1></div></div><div class="column mcb-column mcb-item-tzxobgu5e one column_column"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><div class="wondercarousellightbox_options" data-skinsfoldername="" data-jsfolder="http://yestopeople.com/content/plugins/wonderplugin-carousel-trial/engine/" style="display:none;"></div>
+    <div class="wonderplugincarousel-container" id="wonderplugincarousel-container-2" style="padding: 0px 0px 30px 0px;"><div class="wonderplugincarousel" id="wonderplugincarousel-2" data-carouselid="2" data-width="357" data-height="354" data-skin="gallery" data-donotzoomin="false" data-addpreloading="false" data-multiplebyrow="false" data-showimgtitle="false" data-sameheight="false" data-sameheightresponsive="false" data-fullwidth="false" data-centerimage="true" data-fitimage="false" data-fitcenterimage="true" data-fixaspectratio="true" data-autoplay="true" data-random="false" data-circular="true" data-pauseonmouseover="true" data-continuous="false" data-responsive="true" data-showhoveroverlay="false" data-showhoveroverlayalways="false" data-hidehoveroverlayontouch="false" data-lightboxresponsive="true" data-lightboxshownavigation="false" data-lightboxnogroup="false" data-lightboxshowtitle="true" data-lightboxshowdescription="false" data-lightboxaddsocialmedia="false" data-usescreenquery="false" data-donotinit="false" data-addinitscript="false" data-doshortcodeontext="false" data-lightboxshowsocial="false" data-lightboxshowemail="true" data-lightboxshowfacebook="true" data-lightboxshowtwitter="true" data-lightboxshowpinterest="true" data-lightboxsocialrotateeffect="true" data-donotcircularforless="false" data-deferloading="false" data-enablelazyload="false" data-usebase64="true" data-limitvisibleitemstolength="true" data-hidearrowsandbulletsforonepage="true" data-showfirstlasthalf="false" data-verticalflexheight="false" data-hidebulletssmallscreen="false" data-removeinlinecss="true" data-lightboxinityoutube="true" data-lightboxinitvimeo="true" data-hidecontainerbeforeloaded="false" data-hidecontaineroninit="true" data-lightboximagekeepratio="true" data-showplayvideo="false" data-triggerresize="false" data-lightboxfullscreenmode="false" data-lightboxcloseonoverlay="true" data-lightboxvideohidecontrols="false" data-lightboxautoslide="false" data-lightboxshowtimer="true" data-lightboxshowplaybutton="false" data-lightboxalwaysshownavarrows="false" data-lightboxshowtitleprefix="false" data-preloadingimage="loading-0.gif" data-spacing="4" data-rownumber="1" data-visibleitems="3" data-arrowstyle="always" data-arrowimage="arrows-28-28-0.png" data-arrowwidth="28" data-arrowheight="28" data-navstyle="none" data-navimage="bullet-16-16-0.png" data-navwidth="16" data-navheight="16" data-navspacing="8" data-hoveroverlayimage="hoveroverlay-64-64-5.png" data-lightboxthumbwidth="90" data-lightboxthumbheight="60" data-lightboxthumbtopmargin="12" data-lightboxthumbbottommargin="4" data-lightboxbarheight="64" data-lightboxtitlebottomcss="{color:#333; font-size:14px; font-family:Armata,sans-serif,Arial; overflow:hidden; text-align:left;}" data-lightboxdescriptionbottomcss="{color:#333; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;}" data-continuousduration="5000" data-autoplaydir="left" data-scrollmode="page" data-interval="3000" data-transitionduration="1000" data-lightboxtitlestyle="bottom" data-lightboximagepercentage="75" data-lightboxdefaultvideovolume="1" data-lightboxoverlaybgcolor="#000" data-lightboxoverlayopacity="0.9" data-lightboxbgcolor="#fff" data-lightboxtitleprefix="%NUM / %TOTAL" data-lightboxtitleinsidecss="color:#fff; font-size:16px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left;" data-lightboxdescriptioninsidecss="color:#fff; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;" data-playvideoimage="playvideo-64-64-0.png" data-playvideoimagepos="center" data-imgtitle="title" data-circularlimit="3" data-deferloadingdelay="0" data-firstlasthalfsmallscreen="640" data-hidebulletssmallscreensize="480" data-movemode="carousel" data-moveduration="500" data-lightboxsocialposition="position:absolute;top:100%;right:0;" data-lightboxsocialpositionsmallscreen="position:absolute;top:100%;right:0;left:0;" data-lightboxsocialdirection="horizontal" data-lightboxsocialbuttonsize="32" data-lightboxsocialbuttonfontsize="18" data-sameheightmediumscreen="769" data-sameheightmediumheight="200" data-sameheightsmallscreen="415" data-sameheightsmallheight="150" data-triggerresizedelay="100" data-lightboxslideinterval="5000" data-lightboxtimerposition="bottom" data-lightboxtimercolor="#dc572e" data-lightboxtimeropacity="1" data-lightboxbordersize="8" data-lightboxborderradius="0" data-screenquery='{ "tablet": { "screenwidth": 800, "visibleitems": 2 }, "mobile": { "screenwidth": 480, "visibleitems": 1 } }' data-jsfolder="http://yestopeople.com/content/plugins/wonderplugin-carousel-trial/engine/" style="display:none;position:relative;margin:0 auto;width:100%;max-width:1071px;"><div class="amazingcarousel-list-container" style="overflow:hidden;"><ul class="amazingcarousel-list"><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="e-commerce/index.htm" onclick="http://yestopeople.com/e-commerce/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/ser-01.jpg" alt="E-Commerce" data-description=""></a></div>
+    <div class="amazingcarousel-title">E-Commerce</div>
+    <div class="amazingcarousel-description"></div>
+    <div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="health-pharma/index.htm" onclick="http://yestopeople.com/health-pharma/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/services-02.jpg" alt="Health &amp; Pharma" data-description=""></a></div>
+    <div class="amazingcarousel-title">Health &amp; Pharma</div>
+    <div class="amazingcarousel-description"></div>
+    <div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="it/index.htm" onclick="http://yestopeople.com/it/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/services-03.jpg" alt="IT" data-description=""></a></div>
+    <div class="amazingcarousel-title">IT</div>
+    <div class="amazingcarousel-description"></div>
+    <div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="real-estate/index.htm" onclick="http://yestopeople.com/real-estate/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/services-05.jpg" alt="Real Estate" data-description=""></a></div>
+    <div class="amazingcarousel-title">Real Estate</div>
+    <div class="amazingcarousel-description"></div>
+    <div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="new-biz/index.htm" onclick="http://yestopeople.com/new-biz/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/services-04.jpg" alt="New BIZ" data-description=""></a></div>
+    <div class="amazingcarousel-title">New BIZ</div>
+    <div class="amazingcarousel-description"></div>
+    <div class="amazingcarousel-button"></div></div></li></ul><div class="amazingcarousel-prev"></div><div class="amazingcarousel-next"></div></div><div class="amazingcarousel-nav"></div><div class="wonderplugin-engine"><a href="http://www.wonderplugin.com/wordpress-carousel/" title="Responsive WordPress Image Carousel Plugin">Responsive WordPress Image Carousel Plugin</a></div></div></div>
+    <script>
+        function wondercarousel_2_appendcss(csscode) {var head=document.head || document.getElementsByTagName("head")[0];var style=document.createElement("style");head.appendChild(style);style.type="text/css";if (style.styleSheet){style.styleSheet.cssText=csscode;} else {style.appendChild(document.createTextNode(csscode));}};wondercarousel_2_appendcss("@import url(https://fonts.googleapis.com/css?family=Open+Sans);  #wonderplugincarousel-2 .amazingcarousel-image {	 	position: relative; 	padding: 4px; 	background-color: #fff; 	-moz-box-shadow:  0 1px 4px rgba(0, 0, 0, 0.2); 	-webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); 	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); }  #wonderplugincarousel-2 .amazingcarousel-image img { 	display: block; 	width: 100%; 	max-width: 100%; 	border: 0; 	margin: 0; 	padding: 0; 	-moz-border-radius: 0px; 	-webkit-border-radius: 0px; 	border-radius: 0px; }  #wonderplugincarousel-2 .amazingcarousel-title { 	position:relative; 	font: bold 12px Open Sans, sans-serif; 	color:#333333; 	margin:6px; 	text-align:center; 	line-height: 14px; 	overflow: hidden; }  #wonderplugincarousel-2 .amazingcarousel-description { 	position:relative; 	font: 12px Open Sans, sans-serif; 	color:#333333; 	margin:6px; 	text-align:center; 	line-height: 14px;		 	overflow: hidden; }  #wonderplugincarousel-2 .amazingcarousel-list-container {  	padding: 8px 0; }  #wonderplugincarousel-2 .amazingcarousel-item-container { 	text-align: center; 	padding: 4px; }  #wonderplugincarousel-2 .amazingcarousel-prev { 	left: 0%; 	top: 50%; 	margin-left: -60px; 	margin-top: -24px; }  #wonderplugincarousel-2 .amazingcarousel-next { 	right: 0%; 	top: 50%; 	margin-right: -60px; 	margin-top: -24px; }  #wonderplugincarousel-2 .amazingcarousel-nav { 	position: absolute; 	width: 100%; 	top: 100%; }  #wonderplugincarousel-2 .amazingcarousel-bullet-wrapper { 	margin: 4px auto; }  .amazingcarousel-socialmedia-button { 	display: inline-block; 	margin: 4px; }  .amazingcarousel-socialmedia-button a { 	box-shadow: none; }  .amazingcarousel-socialmedia-icon { 	display:table-cell; 	width:32px; 	height:32px; 	font-size:18px; 	border-radius:50%; 	color:#fff; 	vertical-align:middle; 	text-align:center; 	cursor:pointer; 	padding:0; }  .amazingcarousel-socialmedia-rotate { 	transition: transform .4s ease-in;  }   .amazingcarousel-socialmedia-rotate:hover {  	transform: rotate(360deg);  } #wonderplugincarousel-2 .star-rating { 	display: inline-block; }");
+    </script>
+    </div></div></div></div></div></div><div class="section mcb-section mcb-section-ti7y89bqv bg-cover" style="background-image:url(content/uploads/2021/01/bg-3232233.jpg);background-repeat:no-repeat;background-position:left top"><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-bx3ohrqe2 one  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-r5vunl6ba one column_column column-margin-20px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><h1>Our Latest Listing</h1></div></div><div class="column mcb-column mcb-item-0537puawg one column_column listing-Class column-margin-20px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><div class="wondercarousellightbox_options" data-skinsfoldername="" data-jsfolder="http://yestopeople.com/content/plugins/wonderplugin-carousel-trial/engine/" style="display:none;"></div>
+    <div class="wonderplugincarousel-container" id="wonderplugincarousel-container-3" style="padding: 0px 0px 30px 0px;"><div class="wonderplugincarousel" id="wonderplugincarousel-3" data-carouselid="3" data-width="371" data-height="339" data-skin="gallery" data-donotzoomin="false" data-addpreloading="false" data-multiplebyrow="false" data-showimgtitle="false" data-sameheight="false" data-sameheightresponsive="false" data-fullwidth="false" data-centerimage="true" data-fitimage="false" data-fitcenterimage="true" data-fixaspectratio="true" data-autoplay="true" data-random="false" data-circular="true" data-pauseonmouseover="true" data-continuous="false" data-responsive="true" data-showhoveroverlay="false" data-showhoveroverlayalways="false" data-hidehoveroverlayontouch="false" data-lightboxresponsive="true" data-lightboxshownavigation="false" data-lightboxnogroup="false" data-lightboxshowtitle="true" data-lightboxshowdescription="false" data-lightboxaddsocialmedia="false" data-usescreenquery="false" data-donotinit="false" data-addinitscript="false" data-doshortcodeontext="false" data-lightboxshowsocial="false" data-lightboxshowemail="true" data-lightboxshowfacebook="true" data-lightboxshowtwitter="true" data-lightboxshowpinterest="true" data-lightboxsocialrotateeffect="true" data-donotcircularforless="false" data-deferloading="false" data-enablelazyload="false" data-usebase64="true" data-limitvisibleitemstolength="true" data-hidearrowsandbulletsforonepage="true" data-showfirstlasthalf="false" data-verticalflexheight="false" data-hidebulletssmallscreen="false" data-removeinlinecss="true" data-lightboxinityoutube="true" data-lightboxinitvimeo="true" data-hidecontainerbeforeloaded="false" data-hidecontaineroninit="true" data-lightboximagekeepratio="true" data-showplayvideo="true" data-triggerresize="false" data-lightboxfullscreenmode="false" data-lightboxcloseonoverlay="true" data-lightboxvideohidecontrols="false" data-lightboxautoslide="false" data-lightboxshowtimer="true" data-lightboxshowplaybutton="false" data-lightboxalwaysshownavarrows="false" data-lightboxshowtitleprefix="false" data-preloadingimage="loading-0.gif" data-spacing="4" data-rownumber="1" data-visibleitems="3" data-arrowstyle="always" data-arrowimage="arrows-28-28-0.png" data-arrowwidth="28" data-arrowheight="28" data-navstyle="none" data-navimage="bullet-16-16-0.png" data-navwidth="16" data-navheight="16" data-navspacing="8" data-hoveroverlayimage="hoveroverlay-64-64-5.png" data-lightboxthumbwidth="90" data-lightboxthumbheight="60" data-lightboxthumbtopmargin="12" data-lightboxthumbbottommargin="4" data-lightboxbarheight="64" data-lightboxtitlebottomcss="{color:#333; font-size:14px; font-family:Armata,sans-serif,Arial; overflow:hidden; text-align:left;}" data-lightboxdescriptionbottomcss="{color:#333; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;}" data-continuousduration="5000" data-autoplaydir="left" data-scrollmode="page" data-interval="3000" data-transitionduration="1000" data-lightboxtitlestyle="bottom" data-lightboximagepercentage="75" data-lightboxdefaultvideovolume="1" data-lightboxoverlaybgcolor="#000" data-lightboxoverlayopacity="0.9" data-lightboxbgcolor="#fff" data-lightboxtitleprefix="%NUM / %TOTAL" data-lightboxtitleinsidecss="color:#fff; font-size:16px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left;" data-lightboxdescriptioninsidecss="color:#fff; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;" data-playvideoimage="playvideo-64-64-0.png" data-playvideoimagepos="center" data-imgtitle="title" data-circularlimit="3" data-deferloadingdelay="0" data-firstlasthalfsmallscreen="640" data-hidebulletssmallscreensize="480" data-movemode="carousel" data-moveduration="500" data-lightboxsocialposition="position:absolute;top:100%;right:0;" data-lightboxsocialpositionsmallscreen="position:absolute;top:100%;right:0;left:0;" data-lightboxsocialdirection="horizontal" data-lightboxsocialbuttonsize="32" data-lightboxsocialbuttonfontsize="18" data-sameheightmediumscreen="769" data-sameheightmediumheight="200" data-sameheightsmallscreen="415" data-sameheightsmallheight="150" data-triggerresizedelay="100" data-lightboxslideinterval="5000" data-lightboxtimerposition="bottom" data-lightboxtimercolor="#dc572e" data-lightboxtimeropacity="1" data-lightboxbordersize="8" data-lightboxborderradius="0" data-screenquery='{ "tablet": { "screenwidth": 800, "visibleitems": 2 }, "mobile": { "screenwidth": 480, "visibleitems": 1 } }' data-jsfolder="http://yestopeople.com/content/plugins/wonderplugin-carousel-trial/engine/" style="display:none;position:relative;margin:0 auto;width:100%;max-width:1113px;"><div class="amazingcarousel-list-container" style="overflow:hidden;"><ul class="amazingcarousel-list"><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="it/index.htm" onclick="http://yestopeople.com/it/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/listing-03.jpg" alt="IT" data-description="&lt;i class=&quot;icon-location&quot;&gt;&lt;/i&gt; 34-42 Montgomery St , NY, USA"></a></div>
+    <div class="amazingcarousel-title">IT</div>
+    <div class="amazingcarousel-description"><i class="icon-location"></i> 34-42 Montgomery St , NY, USA</div>
+    <div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="health-pharma/index.htm" onclick="http://yestopeople.com/health-pharma/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/listing-02.jpg" alt="Health &amp; Pharma" data-description="&lt;i class=&quot;icon-location&quot;&gt;&lt;/i&gt; 34-42 Montgomery St , NY, USA"></a></div>
+    <div class="amazingcarousel-title">Health &amp; Pharma</div>
+    <div class="amazingcarousel-description"><i class="icon-location"></i> 34-42 Montgomery St , NY, USA</div>
+    <div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="e-commerce/index.htm" onclick="http://yestopeople.com/e-commerce/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/listing-01.jpg" alt="E-commerce" data-description="&lt;i class=&quot;icon-location&quot;&gt;&lt;/i&gt; 34-42 Montgomery St , NY, USA"></a></div>
+    <div class="amazingcarousel-title">E-commerce</div>
+    <div class="amazingcarousel-description"><i class="icon-location"></i> 34-42 Montgomery St , NY, USA</div>
+    <div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="real-estate/index.htm" onclick="http://yestopeople.com/real-estate/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/listing-04.png" alt="REAL ESTATE" data-description="&lt;i class=&quot;icon-location&quot;&gt;&lt;/i&gt; 34-42 Montgomery St , NY, USA"></a></div>
+    <div class="amazingcarousel-title">REAL ESTATE</div>
+    <div class="amazingcarousel-description"><i class="icon-location"></i> 34-42 Montgomery St , NY, USA</div>
+    <div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="new-biz/index.htm" onclick="http://yestopeople.com/new-biz/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/listing-0345.png" alt="NEW BIZ" data-description="&lt;i class=&quot;icon-location&quot;&gt;&lt;/i&gt; 34-42 Montgomery St , NY, USA"></a></div>
+    <div class="amazingcarousel-title">NEW BIZ</div>
+    <div class="amazingcarousel-description"><i class="icon-location"></i> 34-42 Montgomery St , NY, USA</div>
+    <div class="amazingcarousel-button"></div></div></li></ul><div class="amazingcarousel-prev"></div><div class="amazingcarousel-next"></div></div><div class="amazingcarousel-nav"></div><div class="wonderplugin-engine"><a href="http://www.wonderplugin.com/wordpress-carousel/" title="Responsive WordPress Image Carousel Plugin">Responsive WordPress Image Carousel Plugin</a></div></div></div>
+    <script>
+        function wondercarousel_3_appendcss(csscode) {var head=document.head || document.getElementsByTagName("head")[0];var style=document.createElement("style");head.appendChild(style);style.type="text/css";if (style.styleSheet){style.styleSheet.cssText=csscode;} else {style.appendChild(document.createTextNode(csscode));}};wondercarousel_3_appendcss("@import url(https://fonts.googleapis.com/css?family=Open+Sans);  #wonderplugincarousel-3 .amazingcarousel-image {	 	position: relative; 	padding: 4px; 	background-color: #fff; 	-moz-box-shadow:  0 1px 4px rgba(0, 0, 0, 0.2); 	-webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); 	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); }  #wonderplugincarousel-3 .amazingcarousel-image img { 	display: block; 	width: 100%; 	max-width: 100%; 	border: 0; 	margin: 0; 	padding: 0; 	-moz-border-radius: 0px; 	-webkit-border-radius: 0px; 	border-radius: 0px; }  #wonderplugincarousel-3 .amazingcarousel-title { 	position:relative; 	font: bold 12px Open Sans, sans-serif; 	color:#333333; 	margin:6px; 	text-align:center; 	line-height: 14px; 	overflow: hidden; }  #wonderplugincarousel-3 .amazingcarousel-description { 	position:relative; 	font: 12px Open Sans, sans-serif; 	color:#333333; 	margin:6px; 	text-align:center; 	line-height: 14px;		 	overflow: hidden; }  #wonderplugincarousel-3 .amazingcarousel-list-container {  	padding: 8px 0; }  #wonderplugincarousel-3 .amazingcarousel-item-container { 	text-align: center; 	padding: 4px; }  #wonderplugincarousel-3 .amazingcarousel-prev { 	left: 0%; 	top: 50%; 	margin-left: -60px; 	margin-top: -24px; }  #wonderplugincarousel-3 .amazingcarousel-next { 	right: 0%; 	top: 50%; 	margin-right: -60px; 	margin-top: -24px; }  #wonderplugincarousel-3 .amazingcarousel-nav { 	position: absolute; 	width: 100%; 	top: 100%; }  #wonderplugincarousel-3 .amazingcarousel-bullet-wrapper { 	margin: 4px auto; }  .amazingcarousel-socialmedia-button { 	display: inline-block; 	margin: 4px; }  .amazingcarousel-socialmedia-button a { 	box-shadow: none; }  .amazingcarousel-socialmedia-icon { 	display:table-cell; 	width:32px; 	height:32px; 	font-size:18px; 	border-radius:50%; 	color:#fff; 	vertical-align:middle; 	text-align:center; 	cursor:pointer; 	padding:0; }  .amazingcarousel-socialmedia-rotate { 	transition: transform .4s ease-in;  }   .amazingcarousel-socialmedia-rotate:hover {  	transform: rotate(360deg);  } #wonderplugincarousel-3 .star-rating { 	display: inline-block; }");
+    </script>
+    </div></div></div></div></div></div><div class="section mcb-section mcb-section-jfnslilb7 bg-cover" style="background-image:url(content/uploads/2021/01/bg-3232233.jpg);background-repeat:no-repeat;background-position:left top"><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-e06x16k36 one  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-uu690fnh3 one column_column column-margin-20px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><h1>Watch Our Videos</h1>
+    </div></div></div></div><div class="wrap mcb-wrap mcb-wrap-zildi10co one  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-qk68vcb66 one column_column video-Class column-margin-0px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><div class="wondercarousellightbox_options" data-skinsfoldername="" data-jsfolder="http://yestopeople.com/content/plugins/wonderplugin-carousel-trial/engine/" style="display:none;"></div>
+    <div class="wonderplugincarousel-container" id="wonderplugincarousel-container-4" style="padding: 0px 0px 30px 0px;">
+        <div class="wonderplugincarousel" id="wonderplugincarousel-4" data-carouselid="4" data-width="370" data-height="274" data-skin="gallery" data-donotzoomin="false" data-addpreloading="false" data-multiplebyrow="false" data-showimgtitle="false" data-sameheight="false" data-sameheightresponsive="false" data-fullwidth="false" data-centerimage="true" data-fitimage="false" data-fitcenterimage="true" data-fixaspectratio="true" data-autoplay="true" data-random="false" data-circular="true" data-pauseonmouseover="true" data-continuous="false" data-responsive="true" data-showhoveroverlay="false" data-showhoveroverlayalways="false" data-hidehoveroverlayontouch="false" data-lightboxresponsive="true" data-lightboxshownavigation="false" data-lightboxnogroup="false" data-lightboxshowtitle="true" data-lightboxshowdescription="false" data-lightboxaddsocialmedia="false" data-usescreenquery="false" data-donotinit="false" data-addinitscript="false" data-doshortcodeontext="false" data-lightboxshowsocial="false" data-lightboxshowemail="true" data-lightboxshowfacebook="true" data-lightboxshowtwitter="true" data-lightboxshowpinterest="true" data-lightboxsocialrotateeffect="true" data-donotcircularforless="false" data-deferloading="false" data-enablelazyload="false" data-usebase64="true" data-limitvisibleitemstolength="true" data-hidearrowsandbulletsforonepage="true" data-showfirstlasthalf="false" data-verticalflexheight="false" data-hidebulletssmallscreen="false" data-removeinlinecss="true" data-lightboxinityoutube="true" data-lightboxinitvimeo="true" data-hidecontainerbeforeloaded="false" data-hidecontaineroninit="true" data-lightboximagekeepratio="true" data-showplayvideo="true" data-triggerresize="false" data-lightboxfullscreenmode="false" data-lightboxcloseonoverlay="true" data-lightboxvideohidecontrols="false" data-lightboxautoslide="false" data-lightboxshowtimer="true" data-lightboxshowplaybutton="false" data-lightboxalwaysshownavarrows="false" data-lightboxshowtitleprefix="false" data-preloadingimage="loading-0.gif" data-spacing="4" data-rownumber="1" data-visibleitems="3" data-arrowstyle="always" data-arrowimage="arrows-28-28-0.png" data-arrowwidth="28" data-arrowheight="28" data-navstyle="none" data-navimage="bullet-16-16-0.png" data-navwidth="16" data-navheight="16" data-navspacing="8" data-hoveroverlayimage="hoveroverlay-64-64-3.png" data-lightboxthumbwidth="90" data-lightboxthumbheight="60" data-lightboxthumbtopmargin="12" data-lightboxthumbbottommargin="4" data-lightboxbarheight="64" data-lightboxtitlebottomcss="{color:#333; font-size:14px; font-family:Armata,sans-serif,Arial; overflow:hidden; text-align:left;}" data-lightboxdescriptionbottomcss="{color:#333; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;}" data-continuousduration="5000" data-autoplaydir="left" data-scrollmode="page" data-interval="3000" data-transitionduration="1000" data-lightboxtitlestyle="bottom" data-lightboximagepercentage="75" data-lightboxdefaultvideovolume="1" data-lightboxoverlaybgcolor="#000" data-lightboxoverlayopacity="0.9" data-lightboxbgcolor="#fff" data-lightboxtitleprefix="%NUM / %TOTAL" data-lightboxtitleinsidecss="color:#fff; font-size:16px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left;" data-lightboxdescriptioninsidecss="color:#fff; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;" data-playvideoimage="playvideo-64-64-0.png" data-playvideoimagepos="center" data-imgtitle="title" data-circularlimit="3" data-deferloadingdelay="0" data-firstlasthalfsmallscreen="640" data-hidebulletssmallscreensize="480" data-movemode="carousel" data-moveduration="500" data-lightboxsocialposition="position:absolute;top:100%;right:0;" data-lightboxsocialpositionsmallscreen="position:absolute;top:100%;right:0;left:0;" data-lightboxsocialdirection="horizontal" data-lightboxsocialbuttonsize="32" data-lightboxsocialbuttonfontsize="18" data-sameheightmediumscreen="769" data-sameheightmediumheight="200" data-sameheightsmallscreen="415" data-sameheightsmallheight="150" data-triggerresizedelay="100" data-lightboxslideinterval="5000" data-lightboxtimerposition="bottom" data-lightboxtimercolor="#dc572e" data-lightboxtimeropacity="1" data-lightboxbordersize="8" data-lightboxborderradius="0" data-screenquery='{ "tablet": { "screenwidth": 800, "visibleitems": 2 }, "mobile": { "screenwidth": 480, "visibleitems": 1 } }' data-jsfolder="http://yestopeople.com/content/plugins/wonderplugin-carousel-trial/engine/" style="display:none;position:relative;margin:0 auto;width:100%;max-width:1110px;">
+            <div class="amazingcarousel-list-container" style="overflow:hidden;">
+                <ul class="amazingcarousel-list">
                     <li class="amazingcarousel-item">
                         <div class="amazingcarousel-item-container">
                             <div class="amazingcarousel-image">
-                                <a href="content/uploads/2021/01/Web-Design-Company-video-background.mp4" data-thumbnail="http://yestopeople.com/content/uploads/2021/01/video-02-300x222.jpg" class="wondercarousellightbox wondercarousellightbox-4" data-group="wondercarousellightbox-4" data-mediatype="2">
-                                    <img class="amazingcarousel-image-img" src="content/uploads/2021/01/video-02.jpg" alt="" data-description="">
+                                <a href="content/uploads/2021/01/Web-Design-Company-video-background.mp4" data-thumbnail="http://yestopeople.com/content/uploads/2021/01/video-01-300x222.jpg" class="wondercarousellightbox wondercarousellightbox-4" data-group="wondercarousellightbox-4" data-mediatype="2">
+                                    <img class="amazingcarousel-image-img" src="content/uploads/2021/01/video-01.jpg" alt="" data-description="">
                                 </a>
                             </div>
-<div class="amazingcarousel-title"></div>
-<div class="amazingcarousel-description"></div>
-<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="content/uploads/2021/01/Web-Design-Company-video-background.mp4" data-thumbnail="http://yestopeople.com/content/uploads/2021/01/video-03-300x222.jpg" class="wondercarousellightbox wondercarousellightbox-4" data-group="wondercarousellightbox-4" data-mediatype="2"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/video-03.jpg" alt="" data-description=""></a></div>
-<div class="amazingcarousel-title"></div>
-<div class="amazingcarousel-description"></div>
-<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="content/uploads/2021/01/Web-Design-Company-video-background.mp4" data-thumbnail="http://yestopeople.com/content/uploads/2021/01/video-02-300x222.jpg" class="wondercarousellightbox wondercarousellightbox-4" data-group="wondercarousellightbox-4" data-mediatype="2"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/video-02.jpg" alt="" data-description=""></a></div>
-<div class="amazingcarousel-title"></div>
-<div class="amazingcarousel-description"></div>
-<div class="amazingcarousel-button"></div></div></li></ul><div class="amazingcarousel-prev"></div><div class="amazingcarousel-next"></div></div><div class="amazingcarousel-nav"></div><div class="wonderplugin-engine"><a href="http://www.wonderplugin.com/wordpress-carousel/" title="Responsive WordPress Image Carousel Plugin">Responsive WordPress Image Carousel Plugin</a></div></div></div>
-<script>
-    function wondercarousel_4_appendcss(csscode) {var head=document.head || document.getElementsByTagName("head")[0];var style=document.createElement("style");head.appendChild(style);style.type="text/css";if (style.styleSheet){style.styleSheet.cssText=csscode;} else {style.appendChild(document.createTextNode(csscode));}};wondercarousel_4_appendcss("@import url(https://fonts.googleapis.com/css?family=Open+Sans);  #wonderplugincarousel-4 .amazingcarousel-image {	 	position: relative; 	padding: 4px; 	background-color: #fff; 	-moz-box-shadow:  0 1px 4px rgba(0, 0, 0, 0.2); 	-webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); 	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); }  #wonderplugincarousel-4 .amazingcarousel-image img { 	display: block; 	width: 100%; 	max-width: 100%; 	border: 0; 	margin: 0; 	padding: 0; 	-moz-border-radius: 0px; 	-webkit-border-radius: 0px; 	border-radius: 0px; }  #wonderplugincarousel-4 .amazingcarousel-title { 	position:relative; 	font: bold 12px Open Sans, sans-serif; 	color:#333333; 	margin:6px; 	text-align:center; 	line-height: 14px; 	overflow: hidden; }  #wonderplugincarousel-4 .amazingcarousel-description { 	position:relative; 	font: 12px Open Sans, sans-serif; 	color:#333333; 	margin:6px; 	text-align:center; 	line-height: 14px;		 	overflow: hidden; }  #wonderplugincarousel-4 .amazingcarousel-list-container {  	padding: 8px 0; }  #wonderplugincarousel-4 .amazingcarousel-item-container { 	text-align: center; 	padding: 4px; }  #wonderplugincarousel-4 .amazingcarousel-prev { 	left: 0%; 	top: 50%; 	margin-left: -60px; 	margin-top: -24px; }  #wonderplugincarousel-4 .amazingcarousel-next { 	right: 0%; 	top: 50%; 	margin-right: -60px; 	margin-top: -24px; }  #wonderplugincarousel-4 .amazingcarousel-nav { 	position: absolute; 	width: 100%; 	top: 100%; }  #wonderplugincarousel-4 .amazingcarousel-bullet-wrapper { 	margin: 4px auto; }  .amazingcarousel-socialmedia-button { 	display: inline-block; 	margin: 4px; }  .amazingcarousel-socialmedia-button a { 	box-shadow: none; }  .amazingcarousel-socialmedia-icon { 	display:table-cell; 	width:32px; 	height:32px; 	font-size:18px; 	border-radius:50%; 	color:#fff; 	vertical-align:middle; 	text-align:center; 	cursor:pointer; 	padding:0; }  .amazingcarousel-socialmedia-rotate { 	transition: transform .4s ease-in;  }   .amazingcarousel-socialmedia-rotate:hover {  	transform: rotate(360deg);  } #wonderplugincarousel-4 .star-rating { 	display: inline-block; }");
-</script>
 
-</div></div><div class="column mcb-column mcb-item-949rcwgri one column_column"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><a class="slide-btn" href="#">View More Videos</a></div></div></div></div></div></div><div class="section mcb-section mcb-section-zd0fx7rec" style=""><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-qs26o919n one  valign-top bg-cover clearfix" style="background-image:url(content/uploads/2021/01/bg-00021212.jpg);background-repeat:no-repeat;background-position:left top"><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-hyjvbeqt8 one-second column_column"><div class="column_attr clearfix animate" data-anim-type="fadeInUp" style="padding:170px 20px;"><h1>See Our IT Services</h1>
-<h1>Simple & Easy</h1>
-<br>
-<a class="slide-btn" href="it/index.htm">IT Services</a></div></div></div></div></div></div><div class="section mcb-section mcb-section-t95ghz1jq bg-cover" style="padding-top:80px;background-image:url(content/uploads/2021/01/bg-3232233.jpg);background-repeat:no-repeat;background-position:left top"><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-mg1nnmm1r one  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-qmmzuxily one column_column column-margin-20px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><h1>Our Testimonials</h1>
+                            <div class="amazingcarousel-title"></div>
 
+                            <div class="amazingcarousel-description"></div>
 
-</div></div></div></div><div class="wrap mcb-wrap mcb-wrap-ttkqqy23l one-sixth  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-nksamwqdf one column_placeholder"><div class="placeholder">&nbsp;</div></div></div></div><div class="wrap mcb-wrap mcb-wrap-gjh40g62k two-third  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-azsebil9v one column_column"><div class="column_attr clearfix align_center animate bg-cover" data-anim-type="fadeInUp" style="background-image:url('content/uploads/2021/01/testmnls-bg.jpg');background-repeat:no-repeat;background-position:left top;padding:50px 20px 30px;color: #fff;"><img src="content/uploads/2021/01/img-43894.png">
-<p>Yes To People team are on a mission to make your working and living life simpler, more pleasant, more happy and last not the least your dream come true motto.</p></div></div><div class="column mcb-column mcb-item-d19vso3tw one column_column"><div class="column_attr clearfix align_center animate" data-anim-type="zoomIn" style=""><img src="content/uploads/2021/01/img-8923.png">
-<p style="color: #0000a0; margin: 0px;">M E Chowdhury</p>
-<p>Founder & CEO</p></div></div></div></div><div class="wrap mcb-wrap mcb-wrap-61yp9ubax one-sixth  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-ssdpk2bnk one column_placeholder"><div class="placeholder">&nbsp;</div></div></div></div></div></div><div class="section mcb-section mcb-section-5ar6cs607" style="padding-top:40px"><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-d1cvuk05b one  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-b9cj2rfdh one-third column_image animatid-image"><div class="image_frame image_item no_link scale-with-grid no_border"><div class="image_wrapper">
-    
-<!--    <img class="scale-with-grid" src="content/uploads/2021/01/67374627.png" alt="" title="" width="417" height="307"></div></div>-->
-<!--</div><div class="column mcb-column mcb-item-36hc7ooym two-third column_column"><div class="column_attr clearfix animate" data-anim-type="fadeInUp" style="padding:30px 0px 0px;"><h1>Join our online community</h1>-->
-<!--<p>Under Construction</p>-->
+                            <div class="amazingcarousel-button">
+                                </div>
+                            </div>
+                        </li>
+                        <li class="amazingcarousel-item">
+                            <div class="amazingcarousel-item-container">
+                                <div class="amazingcarousel-image">
+                                    <a href="content/uploads/2021/01/Web-Design-Company-video-background.mp4" data-thumbnail="http://yestopeople.com/content/uploads/2021/01/video-02-300x222.jpg" class="wondercarousellightbox wondercarousellightbox-4" data-group="wondercarousellightbox-4" data-mediatype="2">
+                                        <img class="amazingcarousel-image-img" src="content/uploads/2021/01/video-02.jpg" alt="" data-description="">
+                                    </a>
+                                </div>
+    <div class="amazingcarousel-title"></div>
+    <div class="amazingcarousel-description"></div>
+    <div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="content/uploads/2021/01/Web-Design-Company-video-background.mp4" data-thumbnail="http://yestopeople.com/content/uploads/2021/01/video-03-300x222.jpg" class="wondercarousellightbox wondercarousellightbox-4" data-group="wondercarousellightbox-4" data-mediatype="2"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/video-03.jpg" alt="" data-description=""></a></div>
+    <div class="amazingcarousel-title"></div>
+    <div class="amazingcarousel-description"></div>
+    <div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="content/uploads/2021/01/Web-Design-Company-video-background.mp4" data-thumbnail="http://yestopeople.com/content/uploads/2021/01/video-02-300x222.jpg" class="wondercarousellightbox wondercarousellightbox-4" data-group="wondercarousellightbox-4" data-mediatype="2"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/video-02.jpg" alt="" data-description=""></a></div>
+    <div class="amazingcarousel-title"></div>
+    <div class="amazingcarousel-description"></div>
+    <div class="amazingcarousel-button"></div></div></li></ul><div class="amazingcarousel-prev"></div><div class="amazingcarousel-next"></div></div><div class="amazingcarousel-nav"></div><div class="wonderplugin-engine"><a href="http://www.wonderplugin.com/wordpress-carousel/" title="Responsive WordPress Image Carousel Plugin">Responsive WordPress Image Carousel Plugin</a></div></div></div>
+    <script>
+        function wondercarousel_4_appendcss(csscode) {var head=document.head || document.getElementsByTagName("head")[0];var style=document.createElement("style");head.appendChild(style);style.type="text/css";if (style.styleSheet){style.styleSheet.cssText=csscode;} else {style.appendChild(document.createTextNode(csscode));}};wondercarousel_4_appendcss("@import url(https://fonts.googleapis.com/css?family=Open+Sans);  #wonderplugincarousel-4 .amazingcarousel-image {	 	position: relative; 	padding: 4px; 	background-color: #fff; 	-moz-box-shadow:  0 1px 4px rgba(0, 0, 0, 0.2); 	-webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); 	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); }  #wonderplugincarousel-4 .amazingcarousel-image img { 	display: block; 	width: 100%; 	max-width: 100%; 	border: 0; 	margin: 0; 	padding: 0; 	-moz-border-radius: 0px; 	-webkit-border-radius: 0px; 	border-radius: 0px; }  #wonderplugincarousel-4 .amazingcarousel-title { 	position:relative; 	font: bold 12px Open Sans, sans-serif; 	color:#333333; 	margin:6px; 	text-align:center; 	line-height: 14px; 	overflow: hidden; }  #wonderplugincarousel-4 .amazingcarousel-description { 	position:relative; 	font: 12px Open Sans, sans-serif; 	color:#333333; 	margin:6px; 	text-align:center; 	line-height: 14px;		 	overflow: hidden; }  #wonderplugincarousel-4 .amazingcarousel-list-container {  	padding: 8px 0; }  #wonderplugincarousel-4 .amazingcarousel-item-container { 	text-align: center; 	padding: 4px; }  #wonderplugincarousel-4 .amazingcarousel-prev { 	left: 0%; 	top: 50%; 	margin-left: -60px; 	margin-top: -24px; }  #wonderplugincarousel-4 .amazingcarousel-next { 	right: 0%; 	top: 50%; 	margin-right: -60px; 	margin-top: -24px; }  #wonderplugincarousel-4 .amazingcarousel-nav { 	position: absolute; 	width: 100%; 	top: 100%; }  #wonderplugincarousel-4 .amazingcarousel-bullet-wrapper { 	margin: 4px auto; }  .amazingcarousel-socialmedia-button { 	display: inline-block; 	margin: 4px; }  .amazingcarousel-socialmedia-button a { 	box-shadow: none; }  .amazingcarousel-socialmedia-icon { 	display:table-cell; 	width:32px; 	height:32px; 	font-size:18px; 	border-radius:50%; 	color:#fff; 	vertical-align:middle; 	text-align:center; 	cursor:pointer; 	padding:0; }  .amazingcarousel-socialmedia-rotate { 	transition: transform .4s ease-in;  }   .amazingcarousel-socialmedia-rotate:hover {  	transform: rotate(360deg);  } #wonderplugincarousel-4 .star-rating { 	display: inline-block; }");
+    </script>
 
-<!--<a class="slide-btn" href="#">Sign In Now</a> </div>-->
-
-</div></div></div></div></div><div class="section mcb-section mcb-section-lporg8mrh" style=""><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-y0fu2om53 one  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-sd1371f7p one column_column column-margin-20px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><h1>Upcomming News & Events</h1>
-
-</div></div><div class="column mcb-column mcb-item-3u5ryho4l one column_column column-margin-0px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><!-- Markup Starts -->
-<div id="pcp_wrapper-134" class="sp-pcp-section sp-pcp-container pcp-wrapper-134 pcp-carousel-wrapper standard" data-sid="134">
-	<div id="sp-pcp-id-134" class="swiper-container sp-pcp-carousel top_right" dir="ltr" data-carousel='{ "speed":600, "items":3, "spaceBetween":20, "navigation":true, "pagination": false, "autoplay": true, "autoplay_speed": 2000, "loop": true, "autoHeight": false, "lazy":  true, "simulateTouch": true, "slider_mouse_wheel": false,"allowTouchMove": true, "slidesPerView": {"lg_desktop": 3, "desktop": 3, "tablet": 3, "mobile_landscape": 2, "mobile": 1}, "navigation_mobile": true, "pagination_mobile": false, "stop_onHover": true, "enabled": true, "prevSlideMessage": "Previous slide", "nextSlideMessage": "Next slide", "firstSlideMessage": "This is the first slide", "lastSlideMessage": "This is the last slide", "paginationBulletMessage": "Go to slide " }'>
-			<div class="swiper-wrapper">
-						<div class=" swiper-slide swiper-lazy">
-			<div class="sp-pcp-post pcp-item-56" data-id="56">
-								<div class="pcp-post-thumb-wrapper">
-					<div class="sp-pcp-post-thumb-area">
-												<a class="sp-pcp-thumb" href="2021/01/14/blog-1/index.htm" target="_self" rel="&#039;nofollow&#039;">
-													<img src="content/uploads/2021/01/blog-03.jpg" width="378" height="210" alt="">
-						</a>
-					</div>
-				</div>
-							<h2 class="sp-pcp-title">
-									<a href="2021/01/14/blog-1/index.htm" rel="&#039;nofollow&#039;" target="_self">Blog 1</a>							</h2>
-						<div class="sp-pcp-post-content">
-			Under Construction		<div class="sp-pcp-readmore">
-							<a class="pcp-readmore-link" target="_self" href="2021/01/14/blog-1/index.htm" rel="&#039;nofollow&#039;">
-						Read More </a>
-		</div>
-					</div>
-						</div>
-		</div>
-				<div class=" swiper-slide swiper-lazy">
-			<div class="sp-pcp-post pcp-item-54" data-id="54">
-								<div class="pcp-post-thumb-wrapper">
-					<div class="sp-pcp-post-thumb-area">
-												<a class="sp-pcp-thumb" href="2021/01/14/lorem-ipsum-dummy-text-2/index.htm" target="_self" rel="&#039;nofollow&#039;">
-													<img src="content/uploads/2021/01/blog-02.jpg" width="378" height="210" alt="">
-						</a>
-					</div>
-				</div>
-							<h2 class="sp-pcp-title">
-									<a href="2021/01/14/lorem-ipsum-dummy-text-2/index.htm" rel="&#039;nofollow&#039;" target="_self">Blog 2</a>							</h2>
-						<div class="sp-pcp-post-content">
-			Under Construction		<div class="sp-pcp-readmore">
-							<a class="pcp-readmore-link" target="_self" href="2021/01/14/lorem-ipsum-dummy-text-2/index.htm" rel="&#039;nofollow&#039;">
-						Read More </a>
-		</div>
-					</div>
-						</div>
-		</div>
-				<div class=" swiper-slide swiper-lazy">
-			<div class="sp-pcp-post pcp-item-49" data-id="49">
-								<div class="pcp-post-thumb-wrapper">
-					<div class="sp-pcp-post-thumb-area">
-												<a class="sp-pcp-thumb" href="2021/01/14/blog-3/index.htm" target="_self" rel="&#039;nofollow&#039;">
-													<img src="content/uploads/2021/01/blog-01.jpg" width="378" height="210" alt="">
-						</a>
-					</div>
-				</div>
-							<h2 class="sp-pcp-title">
-									<a href="2021/01/14/blog-3/index.htm" rel="&#039;nofollow&#039;" target="_self">Blog 3</a>							</h2>
-						<div class="sp-pcp-post-content">
-			Under Construction		<div class="sp-pcp-readmore">
-							<a class="pcp-readmore-link" target="_self" href="2021/01/14/blog-3/index.htm" rel="&#039;nofollow&#039;">
-						Read More </a>
-		</div>
-					</div>
-						</div>
-		</div>
-					</div>
-										<div class="pcp-button-next swiper-button-next top_right"><i class="fa fa-angle-right"></i></div>
-				<div class="pcp-button-prev swiper-button-prev top_right"><i class="fa fa-angle-left"></i></div>	</div>
-</div>
+    </div></div><div class="column mcb-column mcb-item-949rcwgri one column_column"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><a class="slide-btn" href="#">View More Videos</a></div></div></div></div></div></div><div class="section mcb-section mcb-section-zd0fx7rec" style=""><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-qs26o919n one  valign-top bg-cover clearfix" style="background-image:url(content/uploads/2021/01/bg-00021212.jpg);background-repeat:no-repeat;background-position:left top"><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-hyjvbeqt8 one-second column_column"><div class="column_attr clearfix animate" data-anim-type="fadeInUp" style="padding:170px 20px;"><h1>See Our IT Services</h1>
+    <h1>Simple & Easy</h1>
+    <br>
+    <a class="slide-btn" href="it/index.htm">IT Services</a></div></div></div></div></div></div><div class="section mcb-section mcb-section-t95ghz1jq bg-cover" style="padding-top:80px;background-image:url(content/uploads/2021/01/bg-3232233.jpg);background-repeat:no-repeat;background-position:left top"><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-mg1nnmm1r one  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-qmmzuxily one column_column column-margin-20px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><h1>Our Testimonials</h1>
 
 
-</div></div><div class="column mcb-column mcb-item-ngvjg9dgr one column_column"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><a class="slide-btn" href="news-events/index.htm">View More</a> <a class="slide-btn" href="products-services/index.htm">Take A Tour</a></div></div></div></div></div></div><div class="section the_content no_content"><div class="section_wrapper"><div class="the_content_wrapper "></div></div></div>
-				<div class="section section-page-footer">
-					<div class="section_wrapper clearfix">
+    </div></div></div></div><div class="wrap mcb-wrap mcb-wrap-ttkqqy23l one-sixth  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-nksamwqdf one column_placeholder"><div class="placeholder">&nbsp;</div></div></div></div><div class="wrap mcb-wrap mcb-wrap-gjh40g62k two-third  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-azsebil9v one column_column"><div class="column_attr clearfix align_center animate bg-cover" data-anim-type="fadeInUp" style="background-image:url('content/uploads/2021/01/testmnls-bg.jpg');background-repeat:no-repeat;background-position:left top;padding:50px 20px 30px;color: #fff;"><img src="content/uploads/2021/01/img-43894.png">
+    <p>Yes To People team are on a mission to make your working and living life simpler, more pleasant, more happy and last not the least your dream come true motto.</p></div></div><div class="column mcb-column mcb-item-d19vso3tw one column_column"><div class="column_attr clearfix align_center animate" data-anim-type="zoomIn" style=""><img src="content/uploads/2021/01/img-8923.png">
+    <p style="color: #0000a0; margin: 0px;">M E Chowdhury</p>
+    <p>Founder & CEO</p></div></div></div></div><div class="wrap mcb-wrap mcb-wrap-61yp9ubax one-sixth  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-ssdpk2bnk one column_placeholder"><div class="placeholder">&nbsp;</div></div></div></div></div></div><div class="section mcb-section mcb-section-5ar6cs607" style="padding-top:40px"><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-d1cvuk05b one  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-b9cj2rfdh one-third column_image animatid-image"><div class="image_frame image_item no_link scale-with-grid no_border"><div class="image_wrapper">
+        
+    <!--    <img class="scale-with-grid" src="content/uploads/2021/01/67374627.png" alt="" title="" width="417" height="307"></div></div>-->
+    <!--</div><div class="column mcb-column mcb-item-36hc7ooym two-third column_column"><div class="column_attr clearfix animate" data-anim-type="fadeInUp" style="padding:30px 0px 0px;"><h1>Join our online community</h1>-->
+    <!--<p>Under Construction</p>-->
 
-						<div class="column one page-pager">
-													</div>
+    <!--<a class="slide-btn" href="#">Sign In Now</a> </div>-->
 
-					</div>
-				</div>
+    </div></div></div></div></div><div class="section mcb-section mcb-section-lporg8mrh" style=""><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-y0fu2om53 one  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-sd1371f7p one column_column column-margin-20px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><h1>Upcomming News & Events</h1>
 
-			</div>
-
-			
-		</div>
-
-		
-	</div>
-</div>
-
-
-<!-- mfn_hook_content_after --><!-- mfn_hook_content_after -->
-
-	<footer id="Footer" class="clearfix ">
-
-				<div class="footer_action">
-			<div class="container">
-				<div class="column one column_column">
-					<div class="left-content"><h1>Do You Have Questions?</h1></div>
-
-<a class="slide-btn" href="contact-us/index.htm">Contact Us</a>				</div>
-			</div>
-		</div>
-		
-		<div class="widgets_wrapper "><div class="container"><div class="column one-third"><aside id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><img src="content/uploads/2021/01/footer-bg.png"></div></aside></div><div class="column one-third"><aside id="custom_html-3" class="widget_text widget widget_custom_html"><h4>Quick Links</h4><div class="textwidget custom-html-widget"><ul class="flot-left">
-<li> <a href="index.htm">Home</a></li>
-<li> <a href="about-us/index.htm">About Us</a></li>
-<li> <a href="products-services/index.htm">Products & Services</a></li>
-<li> <a href="reviews/index.htm">Reviews</a></li>
-<li> <a href="news-events/index.htm">Blogs</a></li>
-</ul>
-
-<ul class="flot-Right">
-<li> <a href="faqs/index.htm">Faq’s</a></li>
-<li> <a href="mission-vision/index.htm">Mission & Vision</a></li>
-<li> <a href="privacy-policy/index.htm">Privacy Policy</a></li>
-<li> <a href="terms-conditions/index.htm">Terms & Conditions</a></li>
-<li> <a href="contact-us/index.htm">Contact Us</a></li>
-</ul></div></aside></div><div class="column one-third"><aside id="custom_html-5" class="widget_text widget widget_custom_html"><h4>Join Our Mailling List</h4><div class="textwidget custom-html-widget"><p>Subscribe to our newsletter to get the latest news and updates</p>
-<div><div role="form" class="wpcf7" id="wpcf7-f5-o1" lang="en-US" dir="ltr">
-<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="/#wpcf7-f5-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
-<div style="display: none;">
-<input type="hidden" name="_wpcf7" value="5">
-<input type="hidden" name="_wpcf7_version" value="5.3.2">
-<input type="hidden" name="_wpcf7_locale" value="en_US">
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f5-o1">
-<input type="hidden" name="_wpcf7_container_post" value="0">
-<input type="hidden" name="_wpcf7_posted_data_hash" value="">
-</div>
-<p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Enter Your Email"></span><input type="submit" value="➤" class="wpcf7-form-control wpcf7-submit"></p>
-<div class="wpcf7-response-output" aria-hidden="true"></div></form></div></div>
-
-
-<ul class="social"><li class="facebook"><a href="https://www.facebook.com/" title="Facebook"><i class="icon-facebook">
-    </i></a></li><li class="twitter"><a href="https://twitter.com/" title="Twitter"><i class="icon-twitter"></i></a></li><li class="linkedin"><a href="https://www.linkedin.com/" title="LinkedIn"><i class="icon-linkedin"></i></a></li><li class="pinterest"><a href="https://www.pinterest.com/" title="Pinterest"><i class="icon-pinterest"></i></a></li><li class="instagram"><a href="https://www.instagram.com/" title="Instagram"><i class="icon-instagram"></i></a></li>
-</ul>
-</div>
-</aside>
-</div>
-</div>
-</div>
-		
-			<div class="footer_copy">
-				<div class="container">
-					<div class="column one">						
-						<div class="copyright">
-							Copyright © 2020 YES TO PEOPLE. All Rights Reserved.
-                                <img src="content/uploads/2021/01/pay.png">	
+    </div></div><div class="column mcb-column mcb-item-3u5ryho4l one column_column column-margin-0px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><!-- Markup Starts -->
+    <div id="pcp_wrapper-134" class="sp-pcp-section sp-pcp-container pcp-wrapper-134 pcp-carousel-wrapper standard" data-sid="134">
+        <div id="sp-pcp-id-134" class="swiper-container sp-pcp-carousel top_right" dir="ltr" data-carousel='{ "speed":600, "items":3, "spaceBetween":20, "navigation":true, "pagination": false, "autoplay": true, "autoplay_speed": 2000, "loop": true, "autoHeight": false, "lazy":  true, "simulateTouch": true, "slider_mouse_wheel": false,"allowTouchMove": true, "slidesPerView": {"lg_desktop": 3, "desktop": 3, "tablet": 3, "mobile_landscape": 2, "mobile": 1}, "navigation_mobile": true, "pagination_mobile": false, "stop_onHover": true, "enabled": true, "prevSlideMessage": "Previous slide", "nextSlideMessage": "Next slide", "firstSlideMessage": "This is the first slide", "lastSlideMessage": "This is the last slide", "paginationBulletMessage": "Go to slide " }'>
+                <div class="swiper-wrapper">
+                            <div class=" swiper-slide swiper-lazy">
+                <div class="sp-pcp-post pcp-item-56" data-id="56">
+                                    <div class="pcp-post-thumb-wrapper">
+                        <div class="sp-pcp-post-thumb-area">
+                                                    <a class="sp-pcp-thumb" href="2021/01/14/blog-1/index.htm" target="_self" rel="&#039;nofollow&#039;">
+                                                        <img src="content/uploads/2021/01/blog-03.jpg" width="378" height="210" alt="">
+                            </a>
                         </div>
-						<ul class="social"><li class="facebook"><a href="#" title="Facebook"><i class="icon-facebook"></i></a></li><li class="twitter"><a href="#" title="Twitter"><i class="icon-twitter"></i></a></li><li class="linkedin"><a href="#" title="LinkedIn"><i class="icon-linkedin"></i></a></li><li class="pinterest"><a href="#" title="Pinterest"><i class="icon-pinterest"></i></a></li><li class="instagram"><a href="#" title="Instagram"><i class="icon-instagram"></i></a></li></ul>
-					</div>
-				</div>
-			</div>
-
-		
-		
-	</footer>
-
-</div>
-
-<div id="Side_slide" class="right dark" data-width="250"><div class="close-wrapper"><a href="#" class="close"><i class="icon-cancel-fine"></i></a></div><div class="extras"><div class="extras-wrapper"><a class="icon search" href="#"><i class="icon-search-fine"></i></a></div></div><div class="search-wrapper"><form id="side-form" method="get" action="http://yestopeople.com/"><input type="text" class="field" name="s" placeholder="Enter your search"><input type="submit" class="display-none" value=""><a class="submit" href="#"><i class="icon-search-fine"></i></a></form></div><div class="lang-wrapper"></div><div class="menu_wrapper"></div><nav id="social-menu" class="menu-login-menu-container"><ul id="menu-login-menu-1" class="social-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17">
-    <!--<a href="#"><i class="icon-login"></i> Login/Sign Up</a></li>-->
-    
-</ul>
-</nav></div><div id="body_overlay">
-    
-</div>
-
-
-<!-- mfn_hook_bottom --><!-- mfn_hook_bottom -->
-<div style="position:fixed;top:0px;right:8%;z-index:999999;" id="gtranslate_wrapper"><!-- GTranslate: https://gtranslate.io/ -->
-
-<style>
-    .switcher {font-family:Arial;font-size:12pt;text-align:left;cursor:pointer;overflow:hidden;width:173px;line-height:17px;}
-    .switcher a {text-decoration:none;display:block;font-size:12pt;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;}
-    .switcher a img {vertical-align:middle;display:inline;border:0;padding:0;margin:0;opacity:0.8;}
-    .switcher a:hover img {opacity:1;}
-    .switcher .selected {background:#fff linear-gradient(180deg, #efefef 0%, #fff 70%);position:relative;z-index:9999;}
-    .switcher .selected a {border:1px solid #ccc;color:#666;padding:3px 5px;width:161px;}
-    .switcher .selected a:after {height:24px;display:inline-block;position:absolute;right:10px;width:15px;background-position:50%;background-size:11px;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 285 285'><path d='M282 76.5l-14.2-14.3a9 9 0 0 0-13.1 0L142.5 174.4 30.3 62.2a9 9 0 0 0-13.2 0L3 76.5a9 9 0 0 0 0 13.1l133 133a9 9 0 0 0 13.1 0l133-133a9 9 0 0 0 0-13z' style='fill:%23666'/></svg>");background-repeat:no-repeat;content:""!important;transition:all .2s;}
-    .switcher .selected a.open:after {-webkit-transform: rotate(-180deg);transform:rotate(-180deg);}
-    .switcher .selected a:hover {background:#fff}
-    .switcher .option {position:relative;z-index:9998;border-left:1px solid #ccc;border-right:1px solid #ccc;border-bottom:1px solid #ccc;background-color:#eee;display:none;width:171px;max-height:198px;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;overflow-y:auto;overflow-x:hidden;}
-    .switcher .option a {color:#000;padding:3px 5px;}
-    .switcher .option a:hover {background:#fff;}
-    .switcher .option a.selected {background:#fff;}
-    #selected_lang_name {float: none;}
-    .l_name {float: none !important;margin: 0;}
-    .switcher .option::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 3px rgba(0,0,0,0.3);border-radius:5px;background-color:#f5f5f5;}
-    .switcher .option::-webkit-scrollbar {width:5px;}
-    .switcher .option::-webkit-scrollbar-thumb {border-radius:5px;-webkit-box-shadow: inset 0 0 3px rgba(0,0,0,.3);background-color:#888;}
-</style>
-
-<div class="switcher notranslate">
-<div class="selected">
-<a href="#" onclick="return false;">
-        <!--<img src="content/plugins/gtranslate/flags/24/en-us.png" height="24" width="24" alt="en">-->
-
-    English
-</a>
-</div>
-<div class="option">
-<a href="#" onclick="doGTranslate('en|bn');jQuery('div.switcher div.selected a').html(jQuery(this).html());return false;" title="Bengali" class="nturl">
-    
-    <!--<img data-gt-lazy-src="content/plugins/gtranslate/flags/24/bn.png" height="24" width="24" alt="bn"> -->
-
-Bengali</a><a href="#" onclick="doGTranslate('en|en');jQuery('div.switcher div.selected a').html(jQuery(this).html());return false;" title="English" class="nturl selected">
-    
-    <!--<img data-gt-lazy-src="content/plugins/gtranslate/flags/24/en-us.png" height="24" width="24" alt="en">-->
-
-English</a><a href="#" onclick="doGTranslate('en|es');jQuery('div.switcher div.selected a').html(jQuery(this).html());return false;" title="Spanish" class="nturl">
-    
-    <!--<img data-gt-lazy-src="content/plugins/gtranslate/flags/24/es.png" height="24" width="24" alt="es"> -->
-
-Spanish
-</a>
-</div>
-</div>
-<script>
-    jQuery('.switcher .selected').click(function() {jQuery('.switcher .option a img').each(function() {if(!jQuery(this)[0].hasAttribute('src'))jQuery(this).attr('src', jQuery(this).attr('data-gt-lazy-src'))});if(!(jQuery('.switcher .option').is(':visible'))) {jQuery('.switcher .option').stop(true,true).delay(100).slideDown(500);jQuery('.switcher .selected a').toggleClass('open')}});
-    jQuery('.switcher .option').bind('mousewheel', function(e) {var options = jQuery('.switcher .option');if(options.is(':visible'))options.scrollTop(options.scrollTop() - e.originalEvent.wheelDelta);return false;});
-    jQuery('body').not('.switcher').click(function(e) {if(jQuery('.switcher .option').is(':visible') && e.target != jQuery('.switcher .option').get(0)) {jQuery('.switcher .option').stop(true,true).delay(100).slideUp(500);jQuery('.switcher .selected a').toggleClass('open')}});
-</script>
-<style>
-    #goog-gt-tt {display:none !important;}
-    .goog-te-banner-frame {display:none !important;}
-    .goog-te-menu-value:hover {text-decoration:none !important;}
-    .goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
-    body {top:0 !important;}
-    #google_translate_element2 {display:none!important;}
-</style>
-
-<div id="google_translate_element2"></div>
-<script>
-    function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
-</script>
-<script src="translate_a/element.js?cb=googleTranslateElementInit2"></script>
+                    </div>
+                                <h2 class="sp-pcp-title">
+                                        <a href="2021/01/14/blog-1/index.htm" rel="&#039;nofollow&#039;" target="_self">Blog 1</a>							</h2>
+                            <div class="sp-pcp-post-content">
+                Under Construction		<div class="sp-pcp-readmore">
+                                <a class="pcp-readmore-link" target="_self" href="2021/01/14/blog-1/index.htm" rel="&#039;nofollow&#039;">
+                            Read More </a>
+            </div>
+                        </div>
+                            </div>
+            </div>
+                    <div class=" swiper-slide swiper-lazy">
+                <div class="sp-pcp-post pcp-item-54" data-id="54">
+                                    <div class="pcp-post-thumb-wrapper">
+                        <div class="sp-pcp-post-thumb-area">
+                                                    <a class="sp-pcp-thumb" href="2021/01/14/lorem-ipsum-dummy-text-2/index.htm" target="_self" rel="&#039;nofollow&#039;">
+                                                        <img src="content/uploads/2021/01/blog-02.jpg" width="378" height="210" alt="">
+                            </a>
+                        </div>
+                    </div>
+                                <h2 class="sp-pcp-title">
+                                        <a href="2021/01/14/lorem-ipsum-dummy-text-2/index.htm" rel="&#039;nofollow&#039;" target="_self">Blog 2</a>							</h2>
+                            <div class="sp-pcp-post-content">
+                Under Construction		<div class="sp-pcp-readmore">
+                                <a class="pcp-readmore-link" target="_self" href="2021/01/14/lorem-ipsum-dummy-text-2/index.htm" rel="&#039;nofollow&#039;">
+                            Read More </a>
+            </div>
+                        </div>
+                            </div>
+            </div>
+                    <div class=" swiper-slide swiper-lazy">
+                <div class="sp-pcp-post pcp-item-49" data-id="49">
+                                    <div class="pcp-post-thumb-wrapper">
+                        <div class="sp-pcp-post-thumb-area">
+                                                    <a class="sp-pcp-thumb" href="2021/01/14/blog-3/index.htm" target="_self" rel="&#039;nofollow&#039;">
+                                                        <img src="content/uploads/2021/01/blog-01.jpg" width="378" height="210" alt="">
+                            </a>
+                        </div>
+                    </div>
+                                <h2 class="sp-pcp-title">
+                                        <a href="2021/01/14/blog-3/index.htm" rel="&#039;nofollow&#039;" target="_self">Blog 3</a>							</h2>
+                            <div class="sp-pcp-post-content">
+                Under Construction		<div class="sp-pcp-readmore">
+                                <a class="pcp-readmore-link" target="_self" href="2021/01/14/blog-3/index.htm" rel="&#039;nofollow&#039;">
+                            Read More </a>
+            </div>
+                        </div>
+                            </div>
+            </div>
+                        </div>
+                                            <div class="pcp-button-next swiper-button-next top_right"><i class="fa fa-angle-right"></i></div>
+                    <div class="pcp-button-prev swiper-button-prev top_right"><i class="fa fa-angle-left"></i></div>	</div>
+    </div>
 
 
-<script>
-    function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
-    function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
-    function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
-    if(GTranslateGetCurrentLang() != null)jQuery(document).ready(function() {var lang_html = jQuery('div.switcher div.option').find('img[alt="'+GTranslateGetCurrentLang()+'"]').parent().html();if(typeof lang_html != 'undefined')jQuery('div.switcher div.selected a').html(lang_html.replace('data-gt-lazy-', ''));});
-</script>
-</div><link href="css-1?family=Roboto:400%7CMontserrat:700" rel="stylesheet" property="stylesheet" media="all" type="text/css">
+    </div></div><div class="column mcb-column mcb-item-ngvjg9dgr one column_column"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><a class="slide-btn" href="news-events/index.htm">View More</a> <a class="slide-btn" href="products-services/index.htm">Take A Tour</a></div></div></div></div></div></div><div class="section the_content no_content"><div class="section_wrapper"><div class="the_content_wrapper "></div></div></div>
+                    <div class="section section-page-footer">
+                        <div class="section_wrapper clearfix">
 
-		<script type="text/javascript">
-		if(typeof revslider_showDoubleJqueryError === "undefined") {
-			function revslider_showDoubleJqueryError(sliderID) {
-				var err = "<div class='rs_error_message_box'>";
-				err += "<div class='rs_error_message_oops'>Oops...</div>";
-				err += "<div class='rs_error_message_content'>";
-				err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
-				err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
-				err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
-				err += "</div>";
-			err += "</div>";
-				var slider = document.getElementById(sliderID); slider.innerHTML = err; slider.style.display = "block";
-			}
-		}
-		</script>
-<script type='text/javascript' id='contact-form-7-js-extra'>
-/* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"http:\/\/yestopeople.com\/json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2' id='contact-form-7-js'></script>
-<script type='text/javascript' src='includes/js/jquery/ui/core.min.js?ver=1.13.0' id='jquery-ui-core-js'></script>
-<script type='text/javascript' src='includes/js/jquery/ui/mouse.min.js?ver=1.13.0' id='jquery-ui-mouse-js'></script>
-<script type='text/javascript' src='includes/js/jquery/ui/sortable.min.js?ver=1.13.0' id='jquery-ui-sortable-js'></script>
-<script type='text/javascript' src='includes/js/jquery/ui/tabs.min.js?ver=1.13.0' id='jquery-ui-tabs-js'></script>
-<script type='text/javascript' src='includes/js/jquery/ui/accordion.min.js?ver=1.13.0' id='jquery-ui-accordion-js'></script>
-<script type='text/javascript' id='mfn-plugins-js-extra'>
+                            <div class="column one page-pager">
+                                                        </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                
+            </div>
+
+            
+        </div>
+    </div>
+
+
+    <!-- mfn_hook_content_after --><!-- mfn_hook_content_after -->
+
+        <footer id="Footer" class="clearfix ">
+
+                    <div class="footer_action">
+                <div class="container">
+                    <div class="column one column_column">
+                        <div class="left-content"><h1>Do You Have Questions?</h1></div>
+
+    <a class="slide-btn" href="contact-us/index.htm">Contact Us</a>				</div>
+                </div>
+            </div>
+            
+            <div class="widgets_wrapper "><div class="container"><div class="column one-third"><aside id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><img src="content/uploads/2021/01/footer-bg.png"></div></aside></div><div class="column one-third"><aside id="custom_html-3" class="widget_text widget widget_custom_html"><h4>Quick Links</h4><div class="textwidget custom-html-widget"><ul class="flot-left">
+    <li> <a href="index.htm">Home</a></li>
+    <li> <a href="about-us/index.htm">About Us</a></li>
+    <li> <a href="products-services/index.htm">Products & Services</a></li>
+    <li> <a href="reviews/index.htm">Reviews</a></li>
+    <li> <a href="news-events/index.htm">Blogs</a></li>
+    </ul>
+
+    <ul class="flot-Right">
+    <li> <a href="faqs/index.htm">Faq’s</a></li>
+    <li> <a href="mission-vision/index.htm">Mission & Vision</a></li>
+    <li> <a href="privacy-policy/index.htm">Privacy Policy</a></li>
+    <li> <a href="terms-conditions/index.htm">Terms & Conditions</a></li>
+    <li> <a href="contact-us/index.htm">Contact Us</a></li>
+    </ul></div></aside></div><div class="column one-third"><aside id="custom_html-5" class="widget_text widget widget_custom_html"><h4>Join Our Mailling List</h4><div class="textwidget custom-html-widget"><p>Subscribe to our newsletter to get the latest news and updates</p>
+    <div><div role="form" class="wpcf7" id="wpcf7-f5-o1" lang="en-US" dir="ltr">
+    <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+    <form action="/#wpcf7-f5-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+    <div style="display: none;">
+    <input type="hidden" name="_wpcf7" value="5">
+    <input type="hidden" name="_wpcf7_version" value="5.3.2">
+    <input type="hidden" name="_wpcf7_locale" value="en_US">
+    <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f5-o1">
+    <input type="hidden" name="_wpcf7_container_post" value="0">
+    <input type="hidden" name="_wpcf7_posted_data_hash" value="">
+    </div>
+    <p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Enter Your Email"></span><input type="submit" value="➤" class="wpcf7-form-control wpcf7-submit"></p>
+    <div class="wpcf7-response-output" aria-hidden="true"></div></form></div></div>
+
+
+    <ul class="social"><li class="facebook"><a href="https://www.facebook.com/" title="Facebook"><i class="icon-facebook">
+        </i></a></li><li class="twitter"><a href="https://twitter.com/" title="Twitter"><i class="icon-twitter"></i></a></li><li class="linkedin"><a href="https://www.linkedin.com/" title="LinkedIn"><i class="icon-linkedin"></i></a></li><li class="pinterest"><a href="https://www.pinterest.com/" title="Pinterest"><i class="icon-pinterest"></i></a></li><li class="instagram"><a href="https://www.instagram.com/" title="Instagram"><i class="icon-instagram"></i></a></li>
+    </ul>
+    </div>
+    </aside>
+    </div>
+    </div>
+    </div>
+            
+                <div class="footer_copy">
+                    <div class="container">
+                        <div class="column one">						
+                            <div class="copyright">
+                                Copyright © 2020 YES TO PEOPLE. All Rights Reserved.
+                                    <img src="content/uploads/2021/01/pay.png">	
+                            </div>
+                            <ul class="social"><li class="facebook"><a href="#" title="Facebook"><i class="icon-facebook"></i></a></li><li class="twitter"><a href="#" title="Twitter"><i class="icon-twitter"></i></a></li><li class="linkedin"><a href="#" title="LinkedIn"><i class="icon-linkedin"></i></a></li><li class="pinterest"><a href="#" title="Pinterest"><i class="icon-pinterest"></i></a></li><li class="instagram"><a href="#" title="Instagram"><i class="icon-instagram"></i></a></li></ul>
+                        </div>
+                    </div>
+                </div>
+
+            
+            
+        </footer>
+
+    </div>
+
+    <div id="Side_slide" class="right dark" data-width="250"><div class="close-wrapper"><a href="#" class="close"><i class="icon-cancel-fine"></i></a></div><div class="extras"><div class="extras-wrapper"><a class="icon search" href="#"><i class="icon-search-fine"></i></a></div></div><div class="search-wrapper"><form id="side-form" method="get" action="http://yestopeople.com/"><input type="text" class="field" name="s" placeholder="Enter your search"><input type="submit" class="display-none" value=""><a class="submit" href="#"><i class="icon-search-fine"></i></a></form></div><div class="lang-wrapper"></div><div class="menu_wrapper"></div><nav id="social-menu" class="menu-login-menu-container"><ul id="menu-login-menu-1" class="social-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17">
+        <!--<a href="#"><i class="icon-login"></i> Login/Sign Up</a></li>-->
+        
+    </ul>
+    </nav></div><div id="body_overlay">
+        
+    </div>
+
+
+    <!-- mfn_hook_bottom --><!-- mfn_hook_bottom -->
+    <div style="position:fixed;top:0px;right:8%;z-index:999999;" id="gtranslate_wrapper"><!-- GTranslate: https://gtranslate.io/ -->
+
+    <style>
+        .switcher {font-family:Arial;font-size:12pt;text-align:left;cursor:pointer;overflow:hidden;width:173px;line-height:17px;}
+        .switcher a {text-decoration:none;display:block;font-size:12pt;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;}
+        .switcher a img {vertical-align:middle;display:inline;border:0;padding:0;margin:0;opacity:0.8;}
+        .switcher a:hover img {opacity:1;}
+        .switcher .selected {background:#fff linear-gradient(180deg, #efefef 0%, #fff 70%);position:relative;z-index:9999;}
+        .switcher .selected a {border:1px solid #ccc;color:#666;padding:3px 5px;width:161px;}
+        .switcher .selected a:after {height:24px;display:inline-block;position:absolute;right:10px;width:15px;background-position:50%;background-size:11px;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 285 285'><path d='M282 76.5l-14.2-14.3a9 9 0 0 0-13.1 0L142.5 174.4 30.3 62.2a9 9 0 0 0-13.2 0L3 76.5a9 9 0 0 0 0 13.1l133 133a9 9 0 0 0 13.1 0l133-133a9 9 0 0 0 0-13z' style='fill:%23666'/></svg>");background-repeat:no-repeat;content:""!important;transition:all .2s;}
+        .switcher .selected a.open:after {-webkit-transform: rotate(-180deg);transform:rotate(-180deg);}
+        .switcher .selected a:hover {background:#fff}
+        .switcher .option {position:relative;z-index:9998;border-left:1px solid #ccc;border-right:1px solid #ccc;border-bottom:1px solid #ccc;background-color:#eee;display:none;width:171px;max-height:198px;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;overflow-y:auto;overflow-x:hidden;}
+        .switcher .option a {color:#000;padding:3px 5px;}
+        .switcher .option a:hover {background:#fff;}
+        .switcher .option a.selected {background:#fff;}
+        #selected_lang_name {float: none;}
+        .l_name {float: none !important;margin: 0;}
+        .switcher .option::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 3px rgba(0,0,0,0.3);border-radius:5px;background-color:#f5f5f5;}
+        .switcher .option::-webkit-scrollbar {width:5px;}
+        .switcher .option::-webkit-scrollbar-thumb {border-radius:5px;-webkit-box-shadow: inset 0 0 3px rgba(0,0,0,.3);background-color:#888;}
+    </style>
+
+    <div class="switcher notranslate">
+    <div class="selected">
+    <a href="#" onclick="return false;">
+            <!--<img src="content/plugins/gtranslate/flags/24/en-us.png" height="24" width="24" alt="en">-->
+
+        English
+    </a>
+    </div>
+    <div class="option">
+    <a href="#" onclick="doGTranslate('en|bn');jQuery('div.switcher div.selected a').html(jQuery(this).html());return false;" title="Bengali" class="nturl">
+        
+        <!--<img data-gt-lazy-src="content/plugins/gtranslate/flags/24/bn.png" height="24" width="24" alt="bn"> -->
+
+    Bengali</a><a href="#" onclick="doGTranslate('en|en');jQuery('div.switcher div.selected a').html(jQuery(this).html());return false;" title="English" class="nturl selected">
+        
+        <!--<img data-gt-lazy-src="content/plugins/gtranslate/flags/24/en-us.png" height="24" width="24" alt="en">-->
+
+    English</a><a href="#" onclick="doGTranslate('en|es');jQuery('div.switcher div.selected a').html(jQuery(this).html());return false;" title="Spanish" class="nturl">
+        
+        <!--<img data-gt-lazy-src="content/plugins/gtranslate/flags/24/es.png" height="24" width="24" alt="es"> -->
+
+    Spanish
+    </a>
+    </div>
+    </div>
+    <script>
+        jQuery('.switcher .selected').click(function() {jQuery('.switcher .option a img').each(function() {if(!jQuery(this)[0].hasAttribute('src'))jQuery(this).attr('src', jQuery(this).attr('data-gt-lazy-src'))});if(!(jQuery('.switcher .option').is(':visible'))) {jQuery('.switcher .option').stop(true,true).delay(100).slideDown(500);jQuery('.switcher .selected a').toggleClass('open')}});
+        jQuery('.switcher .option').bind('mousewheel', function(e) {var options = jQuery('.switcher .option');if(options.is(':visible'))options.scrollTop(options.scrollTop() - e.originalEvent.wheelDelta);return false;});
+        jQuery('body').not('.switcher').click(function(e) {if(jQuery('.switcher .option').is(':visible') && e.target != jQuery('.switcher .option').get(0)) {jQuery('.switcher .option').stop(true,true).delay(100).slideUp(500);jQuery('.switcher .selected a').toggleClass('open')}});
+    </script>
+    <style>
+        #goog-gt-tt {display:none !important;}
+        .goog-te-banner-frame {display:none !important;}
+        .goog-te-menu-value:hover {text-decoration:none !important;}
+        .goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+        body {top:0 !important;}
+        #google_translate_element2 {display:none!important;}
+    </style>
+
+    <div id="google_translate_element2"></div>
+    <script>
+        function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+    </script>
+    <script src="translate_a/element.js?cb=googleTranslateElementInit2"></script>
+
+
+    <script>
+        function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+        function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+        function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+        if(GTranslateGetCurrentLang() != null)jQuery(document).ready(function() {var lang_html = jQuery('div.switcher div.option').find('img[alt="'+GTranslateGetCurrentLang()+'"]').parent().html();if(typeof lang_html != 'undefined')jQuery('div.switcher div.selected a').html(lang_html.replace('data-gt-lazy-', ''));});
+    </script>
+    </div><link href="css-1?family=Roboto:400%7CMontserrat:700" rel="stylesheet" property="stylesheet" media="all" type="text/css">
+
+            <script type="text/javascript">
+            if(typeof revslider_showDoubleJqueryError === "undefined") {
+                function revslider_showDoubleJqueryError(sliderID) {
+                    var err = "<div class='rs_error_message_box'>";
+                    err += "<div class='rs_error_message_oops'>Oops...</div>";
+                    err += "<div class='rs_error_message_content'>";
+                    err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+                    err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+                    err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+                    err += "</div>";
+                err += "</div>";
+                    var slider = document.getElementById(sliderID); slider.innerHTML = err; slider.style.display = "block";
+                }
+            }
+            </script>
+    <script type='text/javascript' id='contact-form-7-js-extra'>
     /* <![CDATA[ */
-    var mfn = {"mobileInit":"1240","parallax":"translate3d","responsive":"1","sidebarSticky":"","lightbox":{"disable":false,"disableMobile":false,"title":false},"slider":{"blog":0,"clients":0,"offer":0,"portfolio":0,"shop":0,"slider":0,"testimonials":0},"ajax":"http:\/\/yestopeople.com\/wp-admin\/admin-ajax.php"};
+    var wpcf7 = {"apiSettings":{"root":"http:\/\/yestopeople.com\/json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
     /* ]]> */
-</script>
-<script type='text/javascript' src='content/themes/betheme/js/plugins.js?ver=21.9.6' id='mfn-plugins-js'></script>
-<script type='text/javascript' src='content/themes/betheme/js/menu.js?ver=21.9.6' id='mfn-menu-js'></script>
-<script type='text/javascript' src='content/themes/betheme/assets/animations/animations.min.js?ver=21.9.6' id='mfn-animations-js'></script>
-<script type='text/javascript' src='content/themes/betheme/assets/jplayer/jplayer.min.js?ver=21.9.6' id='mfn-jplayer-js'></script>
-<script type='text/javascript' src='content/themes/betheme/js/parallax/translate3d.js?ver=21.9.6' id='mfn-parallax-js'></script>
-<script type='text/javascript' src='content/themes/betheme/js/scripts.js?ver=21.9.6' id='mfn-scripts-js'></script>
-<script type='text/javascript' src='content/plugins/post-carousel/public/assets/js/scripts.min.js?ver=2.2.5' id='pcp_script-js'></script>
-<script type='text/javascript' src='content/plugins/post-carousel/public/assets/js/swiper-bundle.min.js?ver=2.2.5' id='pcp_swiper-js'></script>
+    </script>
+    <script type='text/javascript' src='content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2' id='contact-form-7-js'></script>
+    <script type='text/javascript' src='includes/js/jquery/ui/core.min.js?ver=1.13.0' id='jquery-ui-core-js'></script>
+    <script type='text/javascript' src='includes/js/jquery/ui/mouse.min.js?ver=1.13.0' id='jquery-ui-mouse-js'></script>
+    <script type='text/javascript' src='includes/js/jquery/ui/sortable.min.js?ver=1.13.0' id='jquery-ui-sortable-js'></script>
+    <script type='text/javascript' src='includes/js/jquery/ui/tabs.min.js?ver=1.13.0' id='jquery-ui-tabs-js'></script>
+    <script type='text/javascript' src='includes/js/jquery/ui/accordion.min.js?ver=1.13.0' id='jquery-ui-accordion-js'></script>
+    <script type='text/javascript' id='mfn-plugins-js-extra'>
+        /* <![CDATA[ */
+        var mfn = {"mobileInit":"1240","parallax":"translate3d","responsive":"1","sidebarSticky":"","lightbox":{"disable":false,"disableMobile":false,"title":false},"slider":{"blog":0,"clients":0,"offer":0,"portfolio":0,"shop":0,"slider":0,"testimonials":0},"ajax":"http:\/\/yestopeople.com\/wp-admin\/admin-ajax.php"};
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='content/themes/betheme/js/plugins.js?ver=21.9.6' id='mfn-plugins-js'></script>
+    <script type='text/javascript' src='content/themes/betheme/js/menu.js?ver=21.9.6' id='mfn-menu-js'></script>
+    <script type='text/javascript' src='content/themes/betheme/assets/animations/animations.min.js?ver=21.9.6' id='mfn-animations-js'></script>
+    <script type='text/javascript' src='content/themes/betheme/assets/jplayer/jplayer.min.js?ver=21.9.6' id='mfn-jplayer-js'></script>
+    <script type='text/javascript' src='content/themes/betheme/js/parallax/translate3d.js?ver=21.9.6' id='mfn-parallax-js'></script>
+    <script type='text/javascript' src='content/themes/betheme/js/scripts.js?ver=21.9.6' id='mfn-scripts-js'></script>
+    <script type='text/javascript' src='content/plugins/post-carousel/public/assets/js/scripts.min.js?ver=2.2.5' id='pcp_script-js'></script>
+    <script type='text/javascript' src='content/plugins/post-carousel/public/assets/js/swiper-bundle.min.js?ver=2.2.5' id='pcp_swiper-js'></script>
 
 </body>
+
+
 </html>
