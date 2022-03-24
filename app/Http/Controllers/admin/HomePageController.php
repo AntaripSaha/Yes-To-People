@@ -13,4 +13,7 @@ class HomePageController extends Controller
     public function store(Request $req){
         return $req;
     }
+    public function about(){
+        
+    }
 }
