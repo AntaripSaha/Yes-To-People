@@ -30,7 +30,9 @@ Route::any('/admin', function(){
 
 Route::prefix('admin')->middleware('admin')->group(function(){
 
-    Route::get('/home', [HomePageController::class, 'index'])->name('admin.home');
+    Route::get('/info', [HomePageController::class, 'info'])->name('admin.info');
+
+    Route::get('/home', [HomePageController::class, 'home'])->name('admin.home');
     Route::any('/home/store', [HomePageController::class, 'store'])->name('admin.home.store');
 
 });

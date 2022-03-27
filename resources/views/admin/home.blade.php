@@ -23,96 +23,42 @@
                             </div>
                         </div>
                         </div>
+                        <button type="button" style="margin-top: 20px" class="btn btn-outline-info btn-sm" data-toggle="modal" data-target="#staticBackdrop">
+                            Add More
+                        </button>
                     </div>
                 </div>
-                <div class="card card-info">
-                    <div class="card-header">
-                    <h3 class="card-title">Social Media</h3>
-                    </div>
-                    <!-- /.card-header -->
-                    <!-- form start -->
-                    <div class="card-body">
-                        <div class="form-group">
-                            <label for="">Facebook</label>
-                            <input type="email" class="form-control" name="facebook" placeholder="Enter email">
-                        </div>
-                        <div class="form-group">
-                            <label for="">Twitter</label>
-                            <input type="text" class="form-control" name="twitter" placeholder="Phone">
-                        </div>
-                        <div class="form-group">
-                            <label for="">LinkedIn</label>
-                            <input type="text" class="form-control" name="linkedin" placeholder="LinkedIn">
-                        </div>
-                        <div class="form-group">
-                            <label for="">Pinterest</label>
-                            <input type="text" class="form-control" name="pinterest" placeholder="Pinterest">
-                        </div>
-                        <div class="form-group">
-                            <label for="">Instagram</label>
-                            <input type="text" class="form-control" name="instagram" placeholder="Instagram">
-                        </div>
-                    </div>
-                    <!-- /.card-body -->
-                </div>
+                
                     <!-- /.card -->
             </div>
-            <div class="col-md-6">
-                <div class="card card-primary">
-                    <div class="card-header">
-                    <h3 class="card-title">Logo White</h3>
-                    </div>
-                    <!-- /.card-header -->
-                    <div class="card-body" style="background-color:black">
-                        <div class="form-group">
-                            <div class="">
-                                <img src="{{asset('/assets/images/logo/logo-img.png')}}">
-                            </div>
-                        <div class="input-group">
-                            <div class="custom-file">
-                            <input type="file" class="custom-file-input" name="logo">
-                            <label class="custom-file-label" style="margin-top: 20px">Choose Logo</label>
-                            </div>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card card-success">
-                    <div class="card-header">
-                    <h3 class="card-title">Contact Information</h3>
-                    </div>
-                    <!-- /.card-header -->
-                    <!-- form start -->
-                    <div class="card-body">
-                        <div class="form-group">
-                            <label for="">Name</label>
-                            <input type="email" class="form-control" id="" placeholder="Enter Name" name="name">
-                        </div>
-                        <div class="form-group">
-                            <label for="">Title</label>
-                            <textarea name="title" id="" class="form-control" cols="20" rows="4"></textarea>
-                        </div>
-                        <div class="form-group">
-                            <label for="">Email address</label>
-                            <input type="email" class="form-control" id="" placeholder="Enter email" name="email">
-                        </div>
-                        <div class="form-group">
-                            <label for="">Phone</label>
-                            <input type="text" class="form-control"  placeholder="Phone" name="phone">
-                        </div>
-                        <div class="form-group">
-                            <label for="">Tel.</label>
-                            <input type="text" class="form-control"  placeholder="Telephone" name="tel">
-                        </div>
-                    </div>
-                    <!-- /.card-body -->
-                </div>
-            </div>
+           
         </div>
-        <button type="submit" class="btn btn-outline-success btn-sm">
-            Save ALL
-        </button>
     </form>
+    <!-- Modal -->
+    <div class="modal fade" id="staticBackdrop" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="staticBackdropLabel">Modal title</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+              ...
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Understood</button>
+            </div>
+          </div>
+        </div>
+      </div>
 </main>
+<script>
+    $('#myModal').on('shown.bs.modal', function () {
+    $('#myInput').trigger('focus')
+    })
+</script>
 
 @endsection

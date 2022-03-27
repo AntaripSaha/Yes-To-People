@@ -53,7 +53,7 @@
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
           <li class="nav-item">
-            <a href="{{route('admin.home')}}" class="nav-link">
+            <a href="{{route('admin.info')}}" class="nav-link">
               <i class="nav-icon fas fa-info-circle"></i>
               <p>
                 General Information
@@ -64,7 +64,7 @@
             <a href="{{route('admin.home')}}" class="nav-link">
               <i class="nav-icon fas fa-tachometer-alt"></i>
               <p>
-                Request
+                Home
               </p>
             </a>
           </li>
