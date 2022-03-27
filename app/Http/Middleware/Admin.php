@@ -18,7 +18,8 @@ class Admin
     {
         if(auth()->user()->admin == 1){
             return $next($request);
+        }else{
+            return redirect()->route('/')->with('error', 'You Are Not Authorized');
         }
-        return redirect()->route('/')->with('error', 'You Are Not Authorized');
     }
 }

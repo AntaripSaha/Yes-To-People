@@ -6,12 +6,12 @@
         @csrf
         <div class="row">
             <div class="col-md-6">
-                <div class="card card-primary">
+                <div class="card card-danger">
                     <div class="card-header">
-                    <h3 class="card-title">Logo</h3>
+                    <h3 class="card-title">Logo Dark</h3>
                     </div>
                     <!-- /.card-header -->
-                    <div class="card-body">
+                    <div class="card-body" >
                         <div class="form-group">
                             <div class="">
                                 <img src="{{asset('/assets/images/logo/logo-img.png')}}">
@@ -19,10 +19,7 @@
                         <div class="input-group">
                             <div class="custom-file">
                             <input type="file" class="custom-file-input" name="logo">
-                            <label class="custom-file-label" >Choose Logo</label>
-                            </div>
-                            <div class="input-group-append">
-                            <span class="input-group-text">Upload</span>
+                            <label class="custom-file-label" style="margin-top: 20px" >Choose Logo</label>
                             </div>
                         </div>
                         </div>
@@ -61,6 +58,25 @@
                     <!-- /.card -->
             </div>
             <div class="col-md-6">
+                <div class="card card-primary">
+                    <div class="card-header">
+                    <h3 class="card-title">Logo White</h3>
+                    </div>
+                    <!-- /.card-header -->
+                    <div class="card-body" style="background-color:black">
+                        <div class="form-group">
+                            <div class="">
+                                <img src="{{asset('/assets/images/logo/logo-img.png')}}">
+                            </div>
+                        <div class="input-group">
+                            <div class="custom-file">
+                            <input type="file" class="custom-file-input" name="logo">
+                            <label class="custom-file-label" style="margin-top: 20px">Choose Logo</label>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="card card-success">
                     <div class="card-header">
                     <h3 class="card-title">Contact Information</h3>
