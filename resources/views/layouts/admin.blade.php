@@ -52,22 +52,7 @@
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
-          <li class="nav-item">
-            <a href="{{route('admin.info')}}" class="nav-link">
-              <i class="nav-icon fas fa-info-circle"></i>
-              <p>
-                General Information
-              </p>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a href="{{route('admin.home')}}" class="nav-link">
-              <i class="nav-icon fas fa-tachometer-alt"></i>
-              <p>
-                Home
-              </p>
-            </a>
-          </li>
+
           <li class="nav-item">
             <a href="#" class="nav-link">
               <i class="nav-icon fas fa-book"></i>
@@ -78,57 +63,25 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="pages/examples/invoice.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Invoice</p>
+                <a href="{{route('admin.info')}}" class="nav-link">
+                  <i class="nav-icon fas fa-info-circle"></i>
+                  <p>
+                    General Information
+                  </p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="pages/examples/profile.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Profile</p>
+                <a href="{{route('admin.home')}}" class="nav-link">
+                  <i class="nav-icon fas fa-tachometer-alt"></i>
+                  <p>
+                    Home
+                  </p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="pages/examples/e-commerce.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>E-commerce</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="pages/examples/projects.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Projects</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="pages/examples/project-add.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Project Add</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="pages/examples/project-edit.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Project Edit</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="pages/examples/project-detail.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Project Detail</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="pages/examples/contacts.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Contacts</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="pages/examples/faq.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>FAQ</p>
+                <a href="{{route('admin.about')}}" class="nav-link">
+                  <i class="far fa-user nav-icon"></i>
+                  <p>About us</p>
                 </a>
               </li>
               <li class="nav-item">
@@ -175,7 +128,16 @@
 <!-- ./wrapper -->
 
 <!-- REQUIRED SCRIPTS -->
-
+<script>
+  function myFunction() {
+      if(!confirm("Are You Sure to Delete This"))
+       event.preventDefault();
+  }
+  function savefunction() {
+      if(!confirm("Please Recheck All before Save All. Once Save, You Can Not Undo"))
+       event.preventDefault();
+  }
+</script>
 <!-- jQuery -->
 <script src="{{asset('backend/plugins/jquery/jquery.min.js')}}"></script>
 <!-- Bootstrap -->

@@ -32,8 +32,14 @@ Route::prefix('admin')->middleware('admin')->group(function(){
 
     Route::get('/info', [HomePageController::class, 'info'])->name('admin.info');
 
+    // Home Pages Start 
     Route::get('/home', [HomePageController::class, 'home'])->name('admin.home');
     Route::any('/home/store', [HomePageController::class, 'store'])->name('admin.home.store');
-
+    Route::any('/home/store/{id}', [HomePageController::class, 'delete'])->name('admin.home.delete');
+    // Home Pages End
+    
+    //About Pages Start
+    Route::any('/about', [HomePageController::class, 'about'])->name('admin.about');
+    //About Pages End
 });
 
