@@ -18,8 +18,8 @@
                     </div>
                     <div class="card-body">
                         <div class="form-group">
-                            <label for="">Image</label>
-                            <input type="file" class="form-control" id="" placeholder="Enter Name" name="img">
+                            <label for="img">Image</label>
+                            <input type="file" class="form-control" id="img" placeholder="Enter Name" name="img">
                         </div>
                         <div class="form-group">
                             <label for="">Description</label>

@@ -12,7 +12,6 @@ class HomePageController extends Controller
     public function info(){
         return view('admin.info');
     }
-
     //Home Section Start 
     public function home(){
         $homes = Home::all();
@@ -36,11 +35,9 @@ class HomePageController extends Controller
         return redirect()->back()->with('danger', 'Data Deleted');
     }
     //Home Section End 
-
     //About Section Start 
     public function about(){
         return view('admin.about');
     }
     //About Section End 
-
 }
