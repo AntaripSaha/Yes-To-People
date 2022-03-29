@@ -10,9 +10,7 @@
   <link rel="stylesheet" href="{{asset('backend/plugins/fontawesome-free/css/all.min.css')}}">
   <!-- IonIcons -->
   <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
-
   <link rel="stylesheet" href="{{asset('backend/plugins/summernote/summernote-bs4.min.css')}}">
-
   <!-- Theme style -->
   <link rel="stylesheet" href="{{asset('backend/css/adminlte.min.css')}}">
   <style>
@@ -77,9 +75,7 @@
       <!-- Sidebar Menu -->
       <nav class="mt-2">
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
-          <!-- Add icons to the links using the .nav-icon class
-               with font-awesome or any other icon font library -->
-
+          <!-- Add icons to the links using the .nav-icon class with font-awesome or any other icon font library -->
           <li class="nav-item">
             <a href="#" class="nav-link">
               <i class="nav-icon fas fa-book"></i>
@@ -125,7 +121,6 @@
     </div>
     <!-- /.sidebar -->
   </aside>
-
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
     <!-- Main content -->
@@ -142,18 +137,15 @@
     <!-- Control sidebar content goes here -->
   </aside>
   <!-- /.control-sidebar -->
-
   <!-- Main Footer -->
   <footer class="main-footer">
     <strong>Copyright &copy; 2022.</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
-      <b>Version</b> 3.2.0
     </div>
   </footer>
 </div>
 <!-- ./wrapper -->
-
 <!-- REQUIRED SCRIPTS -->
 <script>
   function myFunction() {
@@ -171,14 +163,12 @@
 <script src="{{asset('backend/plugins/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
 <!-- AdminLTE -->
 <script src="{{asset('backend/js/adminlte.js')}}"></script>
-
 <!-- OPTIONAL SCRIPTS -->
 <script src="{{asset('backend/plugins/chart.js/Chart.min.js')}}"></script>
 <!-- AdminLTE for demo purposes -->
 <script src="{{asset('backend/js/demo.js')}}"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
 <script src="{{asset('backend/js/pages/dashboard3.js')}}"></script>
-
 <script src="{{asset('backend/plugins/summernote/summernote-bs4.min.js')}}"></script>
 <script>
 $(function () {
@@ -186,7 +176,5 @@ $(function () {
     $('.compose-textarea').summernote()
   })
 </script>
-
-
 </body>
 </html>
