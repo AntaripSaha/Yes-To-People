@@ -10,6 +10,9 @@
   <link rel="stylesheet" href="{{asset('backend/plugins/fontawesome-free/css/all.min.css')}}">
   <!-- IonIcons -->
   <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+
+  <link rel="stylesheet" href="{{asset('backend/plugins/summernote/summernote-bs4.min.css')}}">
+
   <!-- Theme style -->
   <link rel="stylesheet" href="{{asset('backend/css/adminlte.min.css')}}">
   <style>
@@ -109,9 +112,9 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a href="pages/examples/contact-us.html" class="nav-link">
+                <a href="{{route('admin.description')}}" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Contact us</p>
+                  <p>Description</p>
                 </a>
               </li>
             </ul>
@@ -175,5 +178,15 @@
 <script src="{{asset('backend/js/demo.js')}}"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
 <script src="{{asset('backend/js/pages/dashboard3.js')}}"></script>
+
+<script src="{{asset('backend/plugins/summernote/summernote-bs4.min.js')}}"></script>
+<script>
+$(function () {
+    //Add text editor
+    $('.compose-textarea').summernote()
+  })
+</script>
+
+
 </body>
 </html>

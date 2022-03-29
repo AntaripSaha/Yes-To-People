@@ -42,5 +42,12 @@ Route::prefix('admin')->middleware('admin')->group(function(){
     Route::any('/about', [HomePageController::class, 'about'])->name('admin.about');
     Route::any('/about/store', [HomePageController::class, 'about_store'])->name('admin.about.store');
     //About Pages End
+
+    // Description Pages Start
+    Route::any('/description', [HomePageController::class, 'description'])->name('admin.description');
+    Route::any('/mission/store', [HomePageController::class, 'mission_store'])->name('admin.mission.store');
+    Route::any('/privacy/store', [HomePageController::class, 'privacy_store'])->name('admin.privacy.store');
+    Route::any('/terms/store', [HomePageController::class, 'terms_store'])->name('admin.terms.store');
+    // Description Pages End
 });
 

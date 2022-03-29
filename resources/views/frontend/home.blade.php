@@ -559,123 +559,129 @@
     </div>
     <div class="mfn-main-slider mfn-rev-slider">
                 <!-- START Slider 1 REVOLUTION SLIDER 6.2.22 -->
+
                 <p class="rs-p-wp-fix"></p>
-                <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="background:transparent;padding:0 margin:0px auto;margin-top:0;margin-bottom:0;">
-                    @foreach($homes as $home)
-                        <rs-module id="rev_slider_1_1" style="" data-version="6.2.22">
-                            <rs-slides>
-                                <rs-slide data-key="rs-6" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-                                    <img src="" alt="Slide" title="Home" class="rev-slidebg" data-no-retina=""><!---->
-                                    <rs-layer id="slider-1-slide-6-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="{{$home->image}}" width="544" height="535" data-no-retina=""> 
-                                    </rs-layer><!---->
-                                    <rs-layer id="slider-1-slide-6-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;">
-                                        <div class="slide-head">{{$home->title}}<br>
-                                    </div>
-                                    </rs-layer><!---->
-                                    <rs-layer id="slider-1-slide-6-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;"><a class="slide-btn" href="products-services/index.htm">Take A Tour</a> 
-                                    </rs-layer><!---->
-                                    <rs-layer id="slider-1-slide-6-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:430px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">{{$home->sub_title}} 
-                                    </rs-layer><!---->
-                                </rs-slide>                        
-                            </rs-slides>
-                        </rs-module>
-                        <rs-module id="rev_slider_1_1" style="" data-version="6.2.22">
-                            <rs-slides>
-                                <rs-slide data-key="rs-6" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-                                    <img src="" alt="Slide" title="Home" class="rev-slidebg" data-no-retina=""><!---->
-                                    <rs-layer id="slider-1-slide-6-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="{{$home->image}}" width="544" height="535" data-no-retina=""> 
-                                    </rs-layer><!---->
-                                    <rs-layer id="slider-1-slide-6-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;"><div class="slide-head">{{$home->title}}<br>
-                                    </div>
-                                    </rs-layer><!---->
-                                    <rs-layer id="slider-1-slide-6-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;"><a class="slide-btn" href="products-services/index.htm">Take A Tour</a> 
-                                    </rs-layer><!---->
-                                    <rs-layer id="slider-1-slide-6-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:430px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">{{$home->sub_title}} 
-                                    </rs-layer><!---->
-                                </rs-slide>                        
-                            </rs-slides>
-                        </rs-module>
-                        <rs-module id="rev_slider_1_1" style="" data-version="6.2.22">
-                            <rs-slides>
-                                <rs-slide data-key="rs-6" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-                                    <img src="" alt="Slide" title="Home" class="rev-slidebg" data-no-retina=""><!---->
-                                    <rs-layer id="slider-1-slide-6-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="{{$home->image}}" width="544" height="535" data-no-retina=""> 
-                                    </rs-layer><!---->
-                                    <rs-layer id="slider-1-slide-6-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;"><div class="slide-head">{{$home->title}}<br>
-                                    </div>
-                                    </rs-layer><!---->
-                                    <rs-layer id="slider-1-slide-6-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;"><a class="slide-btn" href="products-services/index.htm">Take A Tour</a> 
-                                    </rs-layer><!---->
-                                    <rs-layer id="slider-1-slide-6-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:430px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">{{$home->sub_title}} 
-                                    </rs-layer><!---->
-                                </rs-slide>                        
-                            </rs-slides>
-                        </rs-module>
-                    @endforeach
-                    <script type="text/javascript">
-                        setREVStartSize({c: 'rev_slider_1_1',rl:[1240,1024,778,480],el:[750],gw:[1240],gh:[750],type:'standard',justify:'',layout:'fullwidth',mh:"0"});
-                        var	revapi1,
-                            tpj;
-                        function revinit_revslider11() {
-                        jQuery(function() {
-                            tpj = jQuery;
-                            revapi1 = tpj("#rev_slider_1_1");
-                            if(revapi1==undefined || revapi1.revolution == undefined){
-                                revslider_showDoubleJqueryError("rev_slider_1_1");
-                            }else{
-                                revapi1.revolution({
-                                    sliderLayout:"fullwidth",
-                                    visibilityLevels:"1240,1024,778,480",
-                                    gridwidth:1240,
-                                    gridheight:750,
-                                    spinner:"spinner0",
-                                    perspective:600,
-                                    perspectiveType:"global",
-                                    editorheight:"750,768,960,720",
-                                    responsiveLevels:"1240,1024,778,480",
-                                    progressBar:{disableProgressBar:true},
-                                    navigation: {
-                                        onHoverStop:false,
-                                        bullets: {
-                                            enable:true,
-                                            tmp:"",
-                                            style:"hesperiden"
-                                        }
-                                    },
-                                    fallbacks: {
-                                        allowHTML5AutoPlayOnAndroid:true
-                                    },
-                                });
-                            }
-                            
-                        });
-                        } // End of RevInitScript
-                    var once_revslider11 = false;
-                    if (document.readyState === "loading") {document.addEventListener('readystatechange',function() { if((document.readyState === "interactive" || document.readyState === "complete") && !once_revslider11 ) { once_revslider11 = true; revinit_revslider11();}});} else {once_revslider11 = true; revinit_revslider11();}
-                    </script>
-                    <script>
-                        var htmlDivCss = unescape("%23rev_slider_1_1_wrapper%20.hesperiden.tp-bullets%20%7B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden.tp-bullets%3Abefore%20%7B%0A%09content%3A%27%20%27%3B%0A%09position%3Aabsolute%3B%0A%09width%3A100%25%3B%0A%09height%3A100%25%3B%0A%09background%3Atransparent%3B%0A%09padding%3A10px%3B%0A%09margin-left%3A-10px%3Bmargin-top%3A-10px%3B%0A%09box-sizing%3Acontent-box%3B%0A%20%20%20border-radius%3A8px%3B%0A%20%20%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet%20%7B%0A%09width%3A12px%3B%0A%09height%3A12px%3B%0A%09position%3Aabsolute%3B%0A%09background%3A%20%23999999%3B%20%2F%2A%20old%20browsers%20%2A%2F%0A%20%20%20%20background%3A%20-moz-linear-gradient%28top%2C%20%20%23999999%200%25%2C%20%23e1e1e1%20100%25%29%3B%20%2F%2A%20ff3.6%2B%20%2A%2F%0A%20%20%20%20background%3A%20-webkit-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20chrome10%2B%2Csafari5.1%2B%20%2A%2F%0A%20%20%20%20background%3A%20-o-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20opera%2011.10%2B%20%2A%2F%0A%20%20%20%20background%3A%20-ms-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20ie10%2B%20%2A%2F%0A%20%20%20%20background%3A%20linear-gradient%28to%20bottom%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20w3c%20%2A%2F%0A%20%20%20%20filter%3A%20progid%3Adximagetransform.microsoft.gradient%28%20%0A%20%20%20%20startcolorstr%3D%27%23999999%27%2C%20endcolorstr%3D%27%23e1e1e1%27%2Cgradienttype%3D0%20%29%3B%20%2F%2A%20ie6-9%20%2A%2F%0A%09border%3A3px%20solid%20%23e5e5e5%3B%0A%09border-radius%3A50%25%3B%0A%09cursor%3A%20pointer%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet%3Ahover%2C%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet.selected%20%7B%0A%09background%3A%23666666%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet-image%20%7B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet-title%20%7B%0A%7D%0A%0A");
-                        var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
-                        if(htmlDiv) {
-                            htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-                        }else{
-                            var htmlDiv = document.createElement('div');
-                            htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
-                            document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
-                        }
-                    </script>
-                    <script>
-                        var htmlDivCss = unescape("%0A%0A%0A");
-                        var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
-                        if(htmlDiv) {
-                            htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-                        }else{
-                            var htmlDiv = document.createElement('div');
-                            htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
-                            document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
-                        }
-                    </script>
-                </rs-module-wrap>
+
+			<rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+				<rs-module id="rev_slider_1_1" style="" data-version="6.2.22">
+					<rs-slides>
+						<rs-slide data-key="rs-1" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+							<img src="content/plugins/revslider/public/assets/assets/transparent.png" alt="Slide" title="Home" class="rev-slidebg" data-no-retina="">
+<!--
+							--><rs-layer id="slider-1-slide-1-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="content/uploads/2021/01/SLIDER-IMG.png" width="544" height="535" data-no-retina=""> 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-1-slide-1-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;"><div class="slide-head">WELL BEGINNING<br> IS HAlf Done<br>
+</div> 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-1-slide-1-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;"><a class="slide-btn" href="products-services/index.htm">Take A Tour</a> 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-1-slide-1-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:430px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">We will build Sonar Bangla with your love. 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide data-key="rs-6" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+							<img src="content/plugins/revslider/public/assets/assets/transparent.png" alt="Slide" title="Home" class="rev-slidebg" data-no-retina="">
+<!--
+							--><rs-layer id="slider-1-slide-6-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="content/uploads/2021/01/SLIDER-IMG-000.png" width="544" height="535" data-no-retina=""> 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-1-slide-6-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;"><div class="slide-head">WELL BEGINNING<br> IS HAlf Done<br>
+</div> 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-1-slide-6-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;"><a class="slide-btn" href="products-services/index.htm">Take A Tour</a> 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-1-slide-6-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:430px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">Fulfilling your dreams is our dream. 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide data-key="rs-7" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+							<img src="content/plugins/revslider/public/assets/assets/transparent.png" alt="Slide" title="Home" class="rev-slidebg" data-no-retina="">
+<!--
+							--><rs-layer id="slider-1-slide-7-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="content/uploads/2021/01/SLIDER-IMG.png" width="544" height="535" data-no-retina=""> 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-1-slide-7-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;"><div class="slide-head">WELL BEGINNING<br> IS HAlf Done<br>
+</div> 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-1-slide-7-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;"><a class="slide-btn" href="products-services/index.htm">Take A Tour</a> 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-1-slide-7-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:415px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">We have come to fulfill your dreams <br>by insuring our quality of work 
+							</rs-layer><!--
+-->						</rs-slide>
+					</rs-slides>
+				</rs-module>
+				<script type="text/javascript">
+					setREVStartSize({c: 'rev_slider_1_1',rl:[1240,1024,778,480],el:[750],gw:[1240],gh:[750],type:'standard',justify:'',layout:'fullwidth',mh:"0"});
+					var	revapi1,
+						tpj;
+					function revinit_revslider11() {
+					jQuery(function() {
+						tpj = jQuery;
+						revapi1 = tpj("#rev_slider_1_1");
+						if(revapi1==undefined || revapi1.revolution == undefined){
+							revslider_showDoubleJqueryError("rev_slider_1_1");
+						}else{
+							revapi1.revolution({
+								sliderLayout:"fullwidth",
+								visibilityLevels:"1240,1024,778,480",
+								gridwidth:1240,
+								gridheight:750,
+								spinner:"spinner0",
+								perspective:600,
+								perspectiveType:"global",
+								editorheight:"750,768,960,720",
+								responsiveLevels:"1240,1024,778,480",
+								progressBar:{disableProgressBar:true},
+								navigation: {
+									onHoverStop:false,
+									bullets: {
+										enable:true,
+										tmp:"",
+										style:"hesperiden"
+									}
+								},
+								fallbacks: {
+									allowHTML5AutoPlayOnAndroid:true
+								},
+							});
+						}
+						
+					});
+					} // End of RevInitScript
+				var once_revslider11 = false;
+				if (document.readyState === "loading") {document.addEventListener('readystatechange',function() { if((document.readyState === "interactive" || document.readyState === "complete") && !once_revslider11 ) { once_revslider11 = true; revinit_revslider11();}});} else {once_revslider11 = true; revinit_revslider11();}
+				</script>
+				<script>
+					var htmlDivCss = unescape("%23rev_slider_1_1_wrapper%20.hesperiden.tp-bullets%20%7B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden.tp-bullets%3Abefore%20%7B%0A%09content%3A%27%20%27%3B%0A%09position%3Aabsolute%3B%0A%09width%3A100%25%3B%0A%09height%3A100%25%3B%0A%09background%3Atransparent%3B%0A%09padding%3A10px%3B%0A%09margin-left%3A-10px%3Bmargin-top%3A-10px%3B%0A%09box-sizing%3Acontent-box%3B%0A%20%20%20border-radius%3A8px%3B%0A%20%20%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet%20%7B%0A%09width%3A12px%3B%0A%09height%3A12px%3B%0A%09position%3Aabsolute%3B%0A%09background%3A%20%23999999%3B%20%2F%2A%20old%20browsers%20%2A%2F%0A%20%20%20%20background%3A%20-moz-linear-gradient%28top%2C%20%20%23999999%200%25%2C%20%23e1e1e1%20100%25%29%3B%20%2F%2A%20ff3.6%2B%20%2A%2F%0A%20%20%20%20background%3A%20-webkit-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20chrome10%2B%2Csafari5.1%2B%20%2A%2F%0A%20%20%20%20background%3A%20-o-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20opera%2011.10%2B%20%2A%2F%0A%20%20%20%20background%3A%20-ms-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20ie10%2B%20%2A%2F%0A%20%20%20%20background%3A%20linear-gradient%28to%20bottom%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20w3c%20%2A%2F%0A%20%20%20%20filter%3A%20progid%3Adximagetransform.microsoft.gradient%28%20%0A%20%20%20%20startcolorstr%3D%27%23999999%27%2C%20endcolorstr%3D%27%23e1e1e1%27%2Cgradienttype%3D0%20%29%3B%20%2F%2A%20ie6-9%20%2A%2F%0A%09border%3A3px%20solid%20%23e5e5e5%3B%0A%09border-radius%3A50%25%3B%0A%09cursor%3A%20pointer%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet%3Ahover%2C%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet.selected%20%7B%0A%09background%3A%23666666%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet-image%20%7B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden%20.tp-bullet-title%20%7B%0A%7D%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				</script>
+				<script>
+					var htmlDivCss = unescape("%0A%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				</script>
+			</rs-module-wrap>
+
+            
+
                 <!-- END REVOLUTION SLIDER -->
     </div></header>
                 

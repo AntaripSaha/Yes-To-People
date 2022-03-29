@@ -7,6 +7,9 @@ use App\Models\Home;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Storage;
 use App\Models\About;
+use App\Models\Mission;
+use App\Models\Privacy;
+use App\Models\Term;
 
 class HomePageController extends Controller
 {
@@ -36,6 +39,7 @@ class HomePageController extends Controller
         return redirect()->back()->with('danger', 'Data Deleted');
     }
     //Home Section End 
+
     //About Section Start 
     public function about(){
         $about = About::All();
@@ -52,6 +56,37 @@ class HomePageController extends Controller
         }
         if($about->save()){
             return redirect()->back()->with('success', 'Successfully Saved Data');
+        }
+    }
+    //About Section End 
+
+    //Description Section Start 
+    public function description(){
+        $mission = Mission::first();
+        $privacy = Privacy::first();
+        $term =Term::first();
+        $about = About::All();
+        return view('admin.description', compact('about','mission', 'privacy', 'term'));
+    }
+    public function mission_store(Request $req){
+        $mission = Mission::first();
+        $mission->description = $req->mission;
+        if($mission->save()){
+            return redirect()->back()->with('success', 'Data Saved Successfully');
+        }
+    }
+    public function privacy_store(Request $req){
+        $privacy = Privacy::first();
+        $privacy->description = $req->privacy;
+        if($privacy->save()){
+            return redirect()->back()->with('success', 'Data Saved Successfully');
+        }
+    }
+    public function terms_store(Request $req){
+        $terms =Term::first();
+        $terms->description = $req->terms;
+        if($terms->save()){
+            return redirect()->back()->with('success', 'Data Saved Successfully');
         }
     }
     //About Section End 
