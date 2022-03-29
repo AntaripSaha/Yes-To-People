@@ -561,50 +561,57 @@
                 <!-- START Slider 1 REVOLUTION SLIDER 6.2.22 -->
                 <p class="rs-p-wp-fix"></p>
                 <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="background:transparent;padding:0 margin:0px auto;margin-top:0;margin-bottom:0;">
-                    <rs-module id="rev_slider_1_1" style="" data-version="6.2.22">
-                        <rs-slides>
-                            <rs-slide data-key="rs-1" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-                                <img src="content/plugins/revslider/public/assets/assets/transparent.png" alt="Slide" title="Home" class="rev-slidebg" data-no-retina=""><!---->
-                                <rs-layer id="slider-1-slide-1-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="content/uploads/2021/01/SLIDER-IMG.png" width="544" height="535" data-no-retina=""> 
-                                </rs-layer><!---->
-                                <rs-layer id="slider-1-slide-1-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;">
-                                    <div class="slide-head">WELL BEGINNING<br> IS HAlf Done<br>
+                    @foreach($homes as $home)
+                        <rs-module id="rev_slider_1_1" style="" data-version="6.2.22">
+                            <rs-slides>
+                                <rs-slide data-key="rs-6" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                                    <img src="" alt="Slide" title="Home" class="rev-slidebg" data-no-retina=""><!---->
+                                    <rs-layer id="slider-1-slide-6-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="{{$home->image}}" width="544" height="535" data-no-retina=""> 
+                                    </rs-layer><!---->
+                                    <rs-layer id="slider-1-slide-6-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;">
+                                        <div class="slide-head">{{$home->title}}<br>
                                     </div>
-                                </rs-layer><!---->
-                                <rs-layer id="slider-1-slide-1-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;">
-                                    <a class="slide-btn" href="products-services/index.htm">Take A Tour
-                                    </a> 
-                                </rs-layer><!---->
-                                <rs-layer id="slider-1-slide-1-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:430px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">We will build Sonar Bangla with your love. 
-                                </rs-layer>
-                            </rs-slide>
-                            <rs-slide data-key="rs-6" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-                                <img src="content/plugins/revslider/public/assets/assets/transparent.png" alt="Slide" title="Home" class="rev-slidebg" data-no-retina=""><!---->
-                                <rs-layer id="slider-1-slide-6-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="content/uploads/2021/01/SLIDER-IMG-000.png" width="544" height="535" data-no-retina=""> 
-                                </rs-layer><!---->
-                                <rs-layer id="slider-1-slide-6-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;"><div class="slide-head">WELL BEGINNING<br> IS HAlf Done<br>
-                                </div>
-                                </rs-layer><!---->
-                                <rs-layer id="slider-1-slide-6-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;"><a class="slide-btn" href="products-services/index.htm">Take A Tour</a> 
-                                </rs-layer><!---->
-                                <rs-layer id="slider-1-slide-6-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:430px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">Fulfilling your dreams is our dream. 
-                                </rs-layer><!---->
-                            </rs-slide>
-                            <rs-slide data-key="rs-7" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-                                <img src="content/plugins/revslider/public/assets/assets/transparent.png" alt="Slide" title="Home" class="rev-slidebg" data-no-retina=""><!---->
-                                <rs-layer id="slider-1-slide-7-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="content/uploads/2021/01/SLIDER-IMG.png" width="544" height="535" data-no-retina=""> 
-                                </rs-layer><!--
-
-                                --><rs-layer id="slider-1-slide-7-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;"><div class="slide-head">WELL BEGINNING<br> IS HAlf Done<br>
-                                </div> 
-                                </rs-layer><!---->
-                                <rs-layer id="slider-1-slide-7-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;"><a class="slide-btn" href="products-services/index.htm">Take A Tour</a> 
-                                </rs-layer><!---->
-                                <rs-layer id="slider-1-slide-7-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:415px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">We have come to fulfill your dreams <br>by insuring our quality of work 
-                                </rs-layer><!---->						
-                            </rs-slide>
-                        </rs-slides>
-                    </rs-module>
+                                    </rs-layer><!---->
+                                    <rs-layer id="slider-1-slide-6-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;"><a class="slide-btn" href="products-services/index.htm">Take A Tour</a> 
+                                    </rs-layer><!---->
+                                    <rs-layer id="slider-1-slide-6-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:430px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">{{$home->sub_title}} 
+                                    </rs-layer><!---->
+                                </rs-slide>                        
+                            </rs-slides>
+                        </rs-module>
+                        <rs-module id="rev_slider_1_1" style="" data-version="6.2.22">
+                            <rs-slides>
+                                <rs-slide data-key="rs-6" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                                    <img src="" alt="Slide" title="Home" class="rev-slidebg" data-no-retina=""><!---->
+                                    <rs-layer id="slider-1-slide-6-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="{{$home->image}}" width="544" height="535" data-no-retina=""> 
+                                    </rs-layer><!---->
+                                    <rs-layer id="slider-1-slide-6-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;"><div class="slide-head">{{$home->title}}<br>
+                                    </div>
+                                    </rs-layer><!---->
+                                    <rs-layer id="slider-1-slide-6-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;"><a class="slide-btn" href="products-services/index.htm">Take A Tour</a> 
+                                    </rs-layer><!---->
+                                    <rs-layer id="slider-1-slide-6-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:430px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">{{$home->sub_title}} 
+                                    </rs-layer><!---->
+                                </rs-slide>                        
+                            </rs-slides>
+                        </rs-module>
+                        <rs-module id="rev_slider_1_1" style="" data-version="6.2.22">
+                            <rs-slides>
+                                <rs-slide data-key="rs-6" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                                    <img src="" alt="Slide" title="Home" class="rev-slidebg" data-no-retina=""><!---->
+                                    <rs-layer id="slider-1-slide-6-layer-0" data-type="image" data-rsp_ch="on" data-xy="x:666px;y:184px;" data-text="w:normal;" data-dim="w:544px;h:535px;" data-frame_0="rY:360deg;" data-frame_1="e:back.out;sp:500;" data-frame_999="o:0;st:w;" style="z-index:5;"><img src="{{$home->image}}" width="544" height="535" data-no-retina=""> 
+                                    </rs-layer><!---->
+                                    <rs-layer id="slider-1-slide-6-layer-1" data-type="text" data-color="#dbae2b" data-rsp_ch="on" data-xy="x:77px;y:330px;" data-text="w:normal;s:33;l:40;fw:700;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:6;font-family:Montserrat;"><div class="slide-head">{{$home->title}}<br>
+                                    </div>
+                                    </rs-layer><!---->
+                                    <rs-layer id="slider-1-slide-6-layer-3" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:79px;y:476px;" data-text="w:normal;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:8;font-family:Roboto;"><a class="slide-btn" href="products-services/index.htm">Take A Tour</a> 
+                                    </rs-layer><!---->
+                                    <rs-layer id="slider-1-slide-6-layer-10" data-type="text" data-color="#333333" data-rsp_ch="on" data-xy="x:79px;y:430px;" data-text="w:normal;s:19;" data-frame_0="sX:0.8;sY:0.8;" data-frame_1="e:power4.out;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:9;font-family:Roboto;">{{$home->sub_title}} 
+                                    </rs-layer><!---->
+                                </rs-slide>                        
+                            </rs-slides>
+                        </rs-module>
+                    @endforeach
                     <script type="text/javascript">
                         setREVStartSize({c: 'rev_slider_1_1',rl:[1240,1024,778,480],el:[750],gw:[1240],gh:[750],type:'standard',justify:'',layout:'fullwidth',mh:"0"});
                         var	revapi1,
@@ -683,9 +690,20 @@
 
                 <div class="entry-content" itemprop="mainContentOfPage">
 
-                    <div class="section mcb-section mcb-section-kxqvu9eeg" style="padding-top:30px"><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-4r57vrfmp one-second  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-848hiun4r one column_image animatid-image"><div class="image_frame image_item no_link scale-with-grid no_border"><div class="image_wrapper"><img class="scale-with-grid" src="content/uploads/2021/01/left-img.png" alt="" title="" width="574" height="370"></div></div>
-    </div></div></div><div class="wrap mcb-wrap mcb-wrap-n1yzxrezt one-second  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-h0sy8mtar one column_column column-margin-20px"><div class="column_attr clearfix animate" data-anim-type="fadeInUp" style=""><h1>About Us</h1>
-    <p>Founded on November 15th 2020, YES TO PEOPLE Concerns of M E Chowdhury LLC is a private limited liability company established in U.S.A inspired by Mohammed E Chowdhury...</p>
+                    <div class="section mcb-section mcb-section-kxqvu9eeg" style="padding-top:30px">
+                        <div class="section_wrapper mcb-section-inner">
+                            <div class="wrap mcb-wrap mcb-wrap-4r57vrfmp one-second  valign-top clearfix" style="">
+                                <div class="mcb-wrap-inner">
+                                    <div class="column mcb-column mcb-item-848hiun4r one column_image animatid-image">
+                                        <div class="image_frame image_item no_link scale-with-grid no_border">
+                                            <div class="image_wrapper">
+                                                <img class="scale-with-grid" src="{{asset($about->img)}}" alt="" title="" width="574" height="370">
+                                            </div>
+                                        </div>
+    </div></div></div>
+    <div class="wrap mcb-wrap mcb-wrap-n1yzxrezt one-second  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-h0sy8mtar one column_column column-margin-20px"><div class="column_attr clearfix animate" data-anim-type="fadeInUp" style=""><h1>About Us</h1>
+    <p>{{ Str::limit($about->description, 170)}}
+    </p>
 
     <h1>Mission & Vision</h1>
     <p>Creativity, innovation and bright ideas continue to drive us forward in our belief that we can complete your demands with best products & services.</p>

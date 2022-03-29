@@ -40,6 +40,7 @@ Route::prefix('admin')->middleware('admin')->group(function(){
     
     //About Pages Start
     Route::any('/about', [HomePageController::class, 'about'])->name('admin.about');
+    Route::any('/about/store', [HomePageController::class, 'about_store'])->name('admin.about.store');
     //About Pages End
 });
 

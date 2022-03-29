@@ -1,20 +1,19 @@
 @extends('layouts.admin')
 @section('admin_content')
-
 <main>
-    <form action="{{route('admin.home.store')}}" method="post" enctype="multipart/form-data">
+    <!-- form start -->
+    <form action="{{route('admin.about.store')}}" method="post" enctype="multipart/form-data">
         @csrf
         <div class="row">
             <div class="col-md-12">
-             
-                <div class="card card-success">
+                <div class="card card-info">
                     <div class="card-header">
-                    <h3 class="card-title">Contact Information</h3>
+                        <h3 class="card-title">About US</h3>
                     </div>
+                    @foreach($about as $about)
                     <!-- /.card-header -->
-                    <!-- form start -->
                     <div style="margin-left: 250px; margin-top:30px !important" >
-                        <img src="{{asset('/assets/images/logo/logo-img.png')}}" width="80px" height="70px">
+                        <img src="{{asset($about->img)}}" width="280px" height="170px">
                     </div>
                     <div class="card-body">
                         <div class="form-group">
@@ -23,18 +22,17 @@
                         </div>
                         <div class="form-group">
                             <label for="">Description</label>
-                            <textarea name="title" id="" class="form-control" cols="20" rows="4"></textarea>
+                            <textarea name="description" id="" class="form-control" cols="20" rows="4">{{$about->description}}</textarea>
                         </div>
+                        @endforeach
                         <button type="submit" class="btn btn-outline-success btn-sm">
                             Submit
                         </button>
                     </div>
-                    
                     <!-- /.card-body -->
                 </div>
             </div>
         </div>
     </form>
 </main>
-
 @endsection
