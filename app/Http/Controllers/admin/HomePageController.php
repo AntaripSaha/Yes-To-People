@@ -72,7 +72,7 @@ class HomePageController extends Controller
         return redirect()->back()->with('danger', 'Data Deleted');
     }
     //Home Section End 
-    
+
     // Service Section Start 
     public function service(){
         $services = Service::all();
@@ -122,7 +122,6 @@ class HomePageController extends Controller
         return view('admin.about', compact('about'));
     }
     public function about_store(Request $req){
-
         $about = About::first();
         $about->description = $req->description;
         if($req->file('img')){

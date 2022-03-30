@@ -19,21 +19,17 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 Auth::routes();
-
 Route::any('/', [HomeController::class, 'index'])->name('home');
-
-
 Route::any('/admin', function(){
     return view('auth.login');
 });
-
-
 Route::prefix('admin')->middleware('admin')->group(function(){
 
     // Information Start
     Route::get('/info', [HomePageController::class, 'info'])->name('admin.info');
     Route::post('/info/store', [HomePageController::class, 'info_store'])->name('admin.info.store');
     // Information End
+    
     // Home Pages Start 
     Route::get('/home', [HomePageController::class, 'home'])->name('admin.home');
     Route::any('/home/store', [HomePageController::class, 'store'])->name('admin.home.store');
