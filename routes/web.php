@@ -30,12 +30,20 @@ Route::any('/admin', function(){
 
 Route::prefix('admin')->middleware('admin')->group(function(){
 
+    // Information Start
     Route::get('/info', [HomePageController::class, 'info'])->name('admin.info');
-
+    Route::post('/info/store', [HomePageController::class, 'info_store'])->name('admin.info.store');
+    // Information End
     // Home Pages Start 
     Route::get('/home', [HomePageController::class, 'home'])->name('admin.home');
     Route::any('/home/store', [HomePageController::class, 'store'])->name('admin.home.store');
-    Route::any('/home/store/{id}', [HomePageController::class, 'delete'])->name('admin.home.delete');
+    Route::any('/home/delete/{id}', [HomePageController::class, 'delete'])->name('admin.home.delete');
+    // Home Pages End
+
+    // Home Pages Start 
+    Route::get('/service', [HomePageController::class, 'service'])->name('admin.home');
+    Route::any('/service/store', [HomePageController::class, 'service_store'])->name('admin.service.store');
+    Route::any('/service/delete/{id}', [HomePageController::class, 'service_delete'])->name('admin.service.delete');
     // Home Pages End
     
     //About Pages Start

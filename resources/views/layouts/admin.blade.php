@@ -20,7 +20,13 @@
         right: 120px;
         font-size: 15px;
     }
-    </style>
+    .center {
+      margin: auto;
+      width: 50%;
+      padding: 10px;
+    }
+  </style>
+
 </head>
 <body class="hold-transition sidebar-mini">
 <div class="wrapper">

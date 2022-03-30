@@ -12,7 +12,7 @@
                     </div>
                     @foreach($about as $about)
                     <!-- /.card-header -->
-                    <div style="margin-left: 250px; margin-top:30px !important" >
+                    <div class="center">
                         <img src="{{asset($about->img)}}" width="280px" height="170px">
                     </div>
                     <div class="card-body">
