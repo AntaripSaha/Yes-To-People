@@ -39,12 +39,6 @@ Route::prefix('admin')->middleware('admin')->group(function(){
     Route::any('/home/store', [HomePageController::class, 'store'])->name('admin.home.store');
     Route::any('/home/delete/{id}', [HomePageController::class, 'delete'])->name('admin.home.delete');
     // Home Pages End
-
-    // Home Pages Start 
-    Route::get('/service', [HomePageController::class, 'service'])->name('admin.home');
-    Route::any('/service/store', [HomePageController::class, 'service_store'])->name('admin.service.store');
-    Route::any('/service/delete/{id}', [HomePageController::class, 'service_delete'])->name('admin.service.delete');
-    // Home Pages End
     
     //About Pages Start
     Route::any('/about', [HomePageController::class, 'about'])->name('admin.about');
@@ -57,5 +51,13 @@ Route::prefix('admin')->middleware('admin')->group(function(){
     Route::any('/privacy/store', [HomePageController::class, 'privacy_store'])->name('admin.privacy.store');
     Route::any('/terms/store', [HomePageController::class, 'terms_store'])->name('admin.terms.store');
     // Description Pages End
+
+    // Service Pages Start 
+    Route::get('/service', [HomePageController::class, 'service'])->name('admin.service');
+    Route::any('/service/store', [HomePageController::class, 'service_store'])->name('admin.service.store');
+    Route::any('/service/view/{id}', [HomePageController::class, 'service_view'])->name('admin.service.view');
+    Route::any('/service/update/{id}', [HomePageController::class, 'service_update'])->name('admin.service.update');
+    Route::any('/service/delete/{id}', [HomePageController::class, 'service_delete'])->name('admin.service.delete');
+    // Service Pages End
 });
 

@@ -6,7 +6,7 @@
     <div class="col-12">
       <div class="card">
         <div class="card-header">
-          <h3 class="card-title">Responsive Hover Table</h3>
+          <h3 class="card-title">All Services</h3>
         </div>
         <!-- /.card-header -->
         <div class="card-body table-responsive p-0">
@@ -15,8 +15,9 @@
               <tr>
                 <th>S/L</th>
                 <th>Title</th>
-                <th>Sub Title</th>
+                <th>Description</th>
                 <th>Image</th>
+                <th>View</th>
                 <th>Delete</th>
               </tr>
             </thead>
@@ -24,16 +25,21 @@
               @php
                $i = 1;   
               @endphp
-              @foreach ($homes as $home)                       
+              @foreach ($services as $service)                       
               <tr>
                 <td>{{$i}}</td>
-                <td>{{$home->title}}</td>
-                <td>{{$home->sub_title}}</td>
+                <td>{{$service->title}}</td>
+                <td>{{ Str::limit( $service->description, 40) }}</td>
                 <td>
-                  <img src="{{asset($home->image)}}" width="80px" height="70px">
+                  <img src="{{asset($service->image)}}" width="80px" height="70px">
                 </td>
                 <td>
-                  <a type="button" class="btn btn-outline-danger btn-sm" onclick="return myFunction();" href="{{route('admin.home.delete', ['id'=>$home->id])}}">
+                  <a type="button" class="btn btn-outline-info btn-sm" href="{{route('admin.service.view', ['id'=>$service->id])}}">
+                    View
+                  </a>
+                </td>
+                <td>
+                  <a type="button" class="btn btn-outline-danger btn-sm" onclick="return myFunction();" href="{{route('admin.service.delete', ['id'=>$service->id])}}">
                     Delete
                   </a>
                 </td>
@@ -54,11 +60,11 @@
       <!-- /.card -->
     </div>
   </div>
-  <form action="{{route('admin.home.store')}}" method="post" enctype="multipart/form-data">
+  <form action="{{route('admin.service.store')}}" method="post" enctype="multipart/form-data">
     @csrf
     <!-- Modal -->
     <div class="modal fade" id="staticBackdrop" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-        <div class="modal-dialog modal-lg">
+        <div class="modal-dialog modal-xl">
           <div class="modal-content">
             <div class="modal-header">
               <h5 class="modal-title" id="staticBackdropLabel">Modal title</h5>
@@ -73,7 +79,7 @@
                     <thead>
                       <tr>
                         <th>Title</th>
-                        <th>Sub Title</th>
+                        <th>Description</th>
                         <th>Image</th>
                       </tr>
                     </thead>
@@ -83,7 +89,8 @@
                           <input type="text" class="form-control" name="title">
                         </td>
                         <td>
-                          <input type="text" class="form-control" name="sub_title">
+                            <textarea name="description" id="" class="form-control" cols="60" rows="2"></textarea>
+                          {{-- <input type="text" class="form-control" name="description"> --}}
                         </td>
                         <td>
                           <div class="custom-file">

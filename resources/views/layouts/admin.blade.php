@@ -121,6 +121,25 @@
               </li>
             </ul>
           </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link">
+              <i class="nav-icon fas fa-book"></i>
+              <p>
+                Services
+                <i class="fas fa-angle-left right"></i>
+              </p>
+            </a>
+            <ul class="nav nav-treeview">
+              <li class="nav-item">
+                <a href="{{route('admin.service')}}" class="nav-link">
+                  <i class="nav-icon fas fa-info-circle"></i>
+                  <p>
+                    Service
+                  </p>
+                </a>
+              </li>
+            </ul>
+          </li>
         </ul>
       </nav>
       <!-- /.sidebar-menu -->

@@ -10,6 +10,7 @@ use App\Models\About;
 use App\Models\Contact;
 use App\Models\Mission;
 use App\Models\Privacy;
+use App\Models\Service;
 use App\Models\Term;
 
 class HomePageController extends Controller
@@ -71,29 +72,50 @@ class HomePageController extends Controller
         return redirect()->back()->with('danger', 'Data Deleted');
     }
     //Home Section End 
-    //Home Section Start 
+    
+    // Service Section Start 
     public function service(){
-        $homes = Home::all();
-        return view('admin.home', compact('homes'));
+        $services = Service::all();
+        return view('admin.service', compact('services'));
     }
     public function service_store(Request $req){
-        $file_upload = new Home;
+        $file_upload = new Service;
         $file_upload->title = $req->title;
-        $file_upload->sub_title = $req->sub_title;
+        $file_upload->description = $req->description;
         if($req->file('img')){
             $file = $req->file('img');
-            Storage::putFile('public/home/image', $file);
-            $file_upload->image =  "storage/home/image/" . $file->hashName();
+            Storage::putFile('public/service/image', $file);
+            $file_upload->image =  "storage/service/image/" . $file->hashName();
         }
         if($file_upload->save()){
             return redirect()->back()->with('success', 'Successfully Saved Data');
         }
     }
+    public function service_view($id){
+        $service = Service::find($id);
+        return view('admin.service_details', compact('service'));
+    }
+    public function service_update($id, Request $req){
+        $service = Service::find($id);
+        $service->title = $req->title;
+        $service->description = $req->description;
+        if($req->file('image')){
+            $file = $req->file('image');
+            Storage::putFile('public/service/image', $file);
+            $service->image =  "storage/service/image/" . $file->hashName();
+        }else{
+            $service->image = $req->previous_image;
+        }
+        if($service->save()){
+            return redirect()->back()->with('success', 'Successfully Saved Data');
+        }
+    }
     public function service_delete($id){
-        Home::find($id)->delete();
+        Service::find($id)->delete();
         return redirect()->back()->with('danger', 'Data Deleted');
     }
-    //Home Section End 
+    //Service Section End 
+
     //About Section Start 
     public function about(){
         $about = About::All();
