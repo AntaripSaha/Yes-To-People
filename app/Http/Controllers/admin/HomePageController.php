@@ -115,7 +115,7 @@ class HomePageController extends Controller
         return redirect()->back()->with('danger', 'Data Deleted');
     }
     //Service Section End 
-
+    
     //About Section Start 
     public function about(){
         $about = About::All();

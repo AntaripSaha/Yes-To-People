@@ -112,10 +112,13 @@
                     <!-- /.card-body -->
                 </div>
             </div>
+            <div class="center">
+                <button type="submit" class="btn btn-outline-info btn-sm" style="width: 40% ; height:40px; margin-bottom:20px ">
+                    SAVE ALL
+                </button>
+            </div>
         </div>
-        <button type="submit" class="btn btn-outline-success btn-sm">
-            Save ALL
-        </button>
+
     </form>
 </main>
 
