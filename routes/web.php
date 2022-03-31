@@ -21,9 +21,20 @@ use Illuminate\Support\Facades\Route;
 // });
 Auth::routes();
 Route::any('/', [HomeController::class, 'index'])->name('home');
+
+Route::any('/about', [HomeController::class, 'about'])->name('about');
+
+Route::any('/blog', [HomeController::class, 'blog'])->name('blog');
+
+
 Route::any('/admin', function(){
     return view('auth.login');
 });
+
+
+
+
+
 Route::prefix('admin')->middleware('admin')->group(function(){
 
     // Information Start

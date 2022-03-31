@@ -504,7 +504,7 @@
                                     </a>
                                 </li>
                                 <li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                    <a href="{{route('home')}}">
+                                    <a href="{{route('about')}}">
                                         <span>About Us</span>
                                     </a>
                                 </li>
@@ -712,26 +712,56 @@
     </p>
 
     <h1>Mission & Vision</h1>
-    <p>Creativity, innovation and bright ideas continue to drive us forward in our belief that we can complete your demands with best products & services.</p>
+    <p>{{ Str::limit( strip_tags( $about->mission ), 500) }}</p>
 
-    <p>Yes To People provide incredible products & services for millions of people with their demands & dream in everyday life with our mission from well start to end well</p>
-    </div></div><div class="column mcb-column mcb-item-n5bekcpph one column_column"><div class="column_attr clearfix animate" data-anim-type="fadeInUp" style=""><a class="slide-btn" href="about-us/index.htm">Read More</a> <a class="slide-btn" href="products-services/index.htm">Take A Tour</a></div></div></div></div></div></div><div class="section mcb-section mcb-section-i99a6j9sy" style="padding-top:30px"><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-79ah2hhfn one  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-rtgiujnyi one column_column column-margin-20px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><h1>our products & services</h1></div></div><div class="column mcb-column mcb-item-tzxobgu5e one column_column"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><div class="wondercarousellightbox_options" data-skinsfoldername="" data-jsfolder="http://yestopeople.com/content/plugins/wonderplugin-carousel-trial/engine/" style="display:none;"></div>
-    <div class="wonderplugincarousel-container" id="wonderplugincarousel-container-2" style="padding: 0px 0px 30px 0px;"><div class="wonderplugincarousel" id="wonderplugincarousel-2" data-carouselid="2" data-width="357" data-height="354" data-skin="gallery" data-donotzoomin="false" data-addpreloading="false" data-multiplebyrow="false" data-showimgtitle="false" data-sameheight="false" data-sameheightresponsive="false" data-fullwidth="false" data-centerimage="true" data-fitimage="false" data-fitcenterimage="true" data-fixaspectratio="true" data-autoplay="true" data-random="false" data-circular="true" data-pauseonmouseover="true" data-continuous="false" data-responsive="true" data-showhoveroverlay="false" data-showhoveroverlayalways="false" data-hidehoveroverlayontouch="false" data-lightboxresponsive="true" data-lightboxshownavigation="false" data-lightboxnogroup="false" data-lightboxshowtitle="true" data-lightboxshowdescription="false" data-lightboxaddsocialmedia="false" data-usescreenquery="false" data-donotinit="false" data-addinitscript="false" data-doshortcodeontext="false" data-lightboxshowsocial="false" data-lightboxshowemail="true" data-lightboxshowfacebook="true" data-lightboxshowtwitter="true" data-lightboxshowpinterest="true" data-lightboxsocialrotateeffect="true" data-donotcircularforless="false" data-deferloading="false" data-enablelazyload="false" data-usebase64="true" data-limitvisibleitemstolength="true" data-hidearrowsandbulletsforonepage="true" data-showfirstlasthalf="false" data-verticalflexheight="false" data-hidebulletssmallscreen="false" data-removeinlinecss="true" data-lightboxinityoutube="true" data-lightboxinitvimeo="true" data-hidecontainerbeforeloaded="false" data-hidecontaineroninit="true" data-lightboximagekeepratio="true" data-showplayvideo="false" data-triggerresize="false" data-lightboxfullscreenmode="false" data-lightboxcloseonoverlay="true" data-lightboxvideohidecontrols="false" data-lightboxautoslide="false" data-lightboxshowtimer="true" data-lightboxshowplaybutton="false" data-lightboxalwaysshownavarrows="false" data-lightboxshowtitleprefix="false" data-preloadingimage="loading-0.gif" data-spacing="4" data-rownumber="1" data-visibleitems="3" data-arrowstyle="always" data-arrowimage="arrows-28-28-0.png" data-arrowwidth="28" data-arrowheight="28" data-navstyle="none" data-navimage="bullet-16-16-0.png" data-navwidth="16" data-navheight="16" data-navspacing="8" data-hoveroverlayimage="hoveroverlay-64-64-5.png" data-lightboxthumbwidth="90" data-lightboxthumbheight="60" data-lightboxthumbtopmargin="12" data-lightboxthumbbottommargin="4" data-lightboxbarheight="64" data-lightboxtitlebottomcss="{color:#333; font-size:14px; font-family:Armata,sans-serif,Arial; overflow:hidden; text-align:left;}" data-lightboxdescriptionbottomcss="{color:#333; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;}" data-continuousduration="5000" data-autoplaydir="left" data-scrollmode="page" data-interval="3000" data-transitionduration="1000" data-lightboxtitlestyle="bottom" data-lightboximagepercentage="75" data-lightboxdefaultvideovolume="1" data-lightboxoverlaybgcolor="#000" data-lightboxoverlayopacity="0.9" data-lightboxbgcolor="#fff" data-lightboxtitleprefix="%NUM / %TOTAL" data-lightboxtitleinsidecss="color:#fff; font-size:16px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left;" data-lightboxdescriptioninsidecss="color:#fff; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;" data-playvideoimage="playvideo-64-64-0.png" data-playvideoimagepos="center" data-imgtitle="title" data-circularlimit="3" data-deferloadingdelay="0" data-firstlasthalfsmallscreen="640" data-hidebulletssmallscreensize="480" data-movemode="carousel" data-moveduration="500" data-lightboxsocialposition="position:absolute;top:100%;right:0;" data-lightboxsocialpositionsmallscreen="position:absolute;top:100%;right:0;left:0;" data-lightboxsocialdirection="horizontal" data-lightboxsocialbuttonsize="32" data-lightboxsocialbuttonfontsize="18" data-sameheightmediumscreen="769" data-sameheightmediumheight="200" data-sameheightsmallscreen="415" data-sameheightsmallheight="150" data-triggerresizedelay="100" data-lightboxslideinterval="5000" data-lightboxtimerposition="bottom" data-lightboxtimercolor="#dc572e" data-lightboxtimeropacity="1" data-lightboxbordersize="8" data-lightboxborderradius="0" data-screenquery='{ "tablet": { "screenwidth": 800, "visibleitems": 2 }, "mobile": { "screenwidth": 480, "visibleitems": 1 } }' data-jsfolder="http://yestopeople.com/content/plugins/wonderplugin-carousel-trial/engine/" style="display:none;position:relative;margin:0 auto;width:100%;max-width:1071px;"><div class="amazingcarousel-list-container" style="overflow:hidden;"><ul class="amazingcarousel-list"><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="e-commerce/index.htm" onclick="http://yestopeople.com/e-commerce/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/ser-01.jpg" alt="E-Commerce" data-description=""></a></div>
-    <div class="amazingcarousel-title">E-Commerce</div>
-    <div class="amazingcarousel-description"></div>
-    <div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="health-pharma/index.htm" onclick="http://yestopeople.com/health-pharma/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/services-02.jpg" alt="Health &amp; Pharma" data-description=""></a></div>
-    <div class="amazingcarousel-title">Health &amp; Pharma</div>
-    <div class="amazingcarousel-description"></div>
-    <div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="it/index.htm" onclick="http://yestopeople.com/it/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/services-03.jpg" alt="IT" data-description=""></a></div>
-    <div class="amazingcarousel-title">IT</div>
-    <div class="amazingcarousel-description"></div>
-    <div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="real-estate/index.htm" onclick="http://yestopeople.com/real-estate/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/services-05.jpg" alt="Real Estate" data-description=""></a></div>
-    <div class="amazingcarousel-title">Real Estate</div>
-    <div class="amazingcarousel-description"></div>
-    <div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="new-biz/index.htm" onclick="http://yestopeople.com/new-biz/"><img class="amazingcarousel-image-img" src="content/uploads/2021/01/services-04.jpg" alt="New BIZ" data-description=""></a></div>
-    <div class="amazingcarousel-title">New BIZ</div>
-    <div class="amazingcarousel-description"></div>
-    <div class="amazingcarousel-button"></div></div></li></ul><div class="amazingcarousel-prev"></div><div class="amazingcarousel-next"></div></div><div class="amazingcarousel-nav"></div><div class="wonderplugin-engine"><a href="http://www.wonderplugin.com/wordpress-carousel/" title="Responsive WordPress Image Carousel Plugin">Responsive WordPress Image Carousel Plugin</a></div></div></div>
+    </div>
+</div>
+<div class="column mcb-column mcb-item-n5bekcpph one column_column">
+    <div class="column_attr clearfix animate" data-anim-type="fadeInUp" style="">
+        <a class="slide-btn" href="about-us/index.htm">Read More</a>
+         <a class="slide-btn" href="products-services/index.htm">Take A Tour</a>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+</div>
+<div class="section mcb-section mcb-section-i99a6j9sy" style="padding-top:30px">
+    <div class="section_wrapper mcb-section-inner">
+        <div class="wrap mcb-wrap mcb-wrap-79ah2hhfn one  valign-top clearfix" style="">
+            <div class="mcb-wrap-inner">
+                <div class="column mcb-column mcb-item-rtgiujnyi one column_column column-margin-20px">
+                    <div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style="">
+                        <h1>our products & services</h1>
+                    </div>
+                </div>
+                <div class="column mcb-column mcb-item-tzxobgu5e one column_column">
+                    <div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style="">
+                        <div class="wondercarousellightbox_options" data-skinsfoldername="" data-jsfolder="http://yestopeople.com/content/plugins/wonderplugin-carousel-trial/engine/" style="display:none;"></div>
+    <div class="wonderplugincarousel-container" id="wonderplugincarousel-container-2" style="padding: 0px 0px 30px 0px;">
+        <div class="wonderplugincarousel" id="wonderplugincarousel-2" data-carouselid="2" data-width="357" data-height="354" data-skin="gallery" data-donotzoomin="false" data-addpreloading="false" data-multiplebyrow="false" data-showimgtitle="false" data-sameheight="false" data-sameheightresponsive="false" data-fullwidth="false" data-centerimage="true" data-fitimage="false" data-fitcenterimage="true" data-fixaspectratio="true" data-autoplay="true" data-random="false" data-circular="true" data-pauseonmouseover="true" data-continuous="false" data-responsive="true" data-showhoveroverlay="false" data-showhoveroverlayalways="false" data-hidehoveroverlayontouch="false" data-lightboxresponsive="true" data-lightboxshownavigation="false" data-lightboxnogroup="false" data-lightboxshowtitle="true" data-lightboxshowdescription="false" data-lightboxaddsocialmedia="false" data-usescreenquery="false" data-donotinit="false" data-addinitscript="false" data-doshortcodeontext="false" data-lightboxshowsocial="false" data-lightboxshowemail="true" data-lightboxshowfacebook="true" data-lightboxshowtwitter="true" data-lightboxshowpinterest="true" data-lightboxsocialrotateeffect="true" data-donotcircularforless="false" data-deferloading="false" data-enablelazyload="false" data-usebase64="true" data-limitvisibleitemstolength="true" data-hidearrowsandbulletsforonepage="true" data-showfirstlasthalf="false" data-verticalflexheight="false" data-hidebulletssmallscreen="false" data-removeinlinecss="true" data-lightboxinityoutube="true" data-lightboxinitvimeo="true" data-hidecontainerbeforeloaded="false" data-hidecontaineroninit="true" data-lightboximagekeepratio="true" data-showplayvideo="false" data-triggerresize="false" data-lightboxfullscreenmode="false" data-lightboxcloseonoverlay="true" data-lightboxvideohidecontrols="false" data-lightboxautoslide="false" data-lightboxshowtimer="true" data-lightboxshowplaybutton="false" data-lightboxalwaysshownavarrows="false" data-lightboxshowtitleprefix="false" data-preloadingimage="loading-0.gif" data-spacing="4" data-rownumber="1" data-visibleitems="3" data-arrowstyle="always" data-arrowimage="arrows-28-28-0.png" data-arrowwidth="28" data-arrowheight="28" data-navstyle="none" data-navimage="bullet-16-16-0.png" data-navwidth="16" data-navheight="16" data-navspacing="8" data-hoveroverlayimage="hoveroverlay-64-64-5.png" data-lightboxthumbwidth="90" data-lightboxthumbheight="60" data-lightboxthumbtopmargin="12" data-lightboxthumbbottommargin="4" data-lightboxbarheight="64" data-lightboxtitlebottomcss="{color:#333; font-size:14px; font-family:Armata,sans-serif,Arial; overflow:hidden; text-align:left;}" data-lightboxdescriptionbottomcss="{color:#333; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;}" data-continuousduration="5000" data-autoplaydir="left" data-scrollmode="page" data-interval="3000" data-transitionduration="1000" data-lightboxtitlestyle="bottom" data-lightboximagepercentage="75" data-lightboxdefaultvideovolume="1" data-lightboxoverlaybgcolor="#000" data-lightboxoverlayopacity="0.9" data-lightboxbgcolor="#fff" data-lightboxtitleprefix="%NUM / %TOTAL" data-lightboxtitleinsidecss="color:#fff; font-size:16px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left;" data-lightboxdescriptioninsidecss="color:#fff; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;" data-playvideoimage="playvideo-64-64-0.png" data-playvideoimagepos="center" data-imgtitle="title" data-circularlimit="3" data-deferloadingdelay="0" data-firstlasthalfsmallscreen="640" data-hidebulletssmallscreensize="480" data-movemode="carousel" data-moveduration="500" data-lightboxsocialposition="position:absolute;top:100%;right:0;" data-lightboxsocialpositionsmallscreen="position:absolute;top:100%;right:0;left:0;" data-lightboxsocialdirection="horizontal" data-lightboxsocialbuttonsize="32" data-lightboxsocialbuttonfontsize="18" data-sameheightmediumscreen="769" data-sameheightmediumheight="200" data-sameheightsmallscreen="415" data-sameheightsmallheight="150" data-triggerresizedelay="100" data-lightboxslideinterval="5000" data-lightboxtimerposition="bottom" data-lightboxtimercolor="#dc572e" data-lightboxtimeropacity="1" data-lightboxbordersize="8" data-lightboxborderradius="0" data-screenquery='{ "tablet": { "screenwidth": 800, "visibleitems": 2 }, "mobile": { "screenwidth": 480, "visibleitems": 1 } }' data-jsfolder="http://yestopeople.com/content/plugins/wonderplugin-carousel-trial/engine/" style="display:none;position:relative;margin:0 auto;width:100%;max-width:1071px;">
+
+
+            <div class="amazingcarousel-list-container" style="overflow:hidden;">
+                <ul class="amazingcarousel-list">
+                    @foreach ($services as $service)
+                        <li class="amazingcarousel-item">
+                            <div class="amazingcarousel-item-container">
+                                <div class="amazingcarousel-image">
+                                    <a href="e-commerce/index.htm" onclick="http://yestopeople.com/e-commerce/">
+                                        <img class="amazingcarousel-image-img" src="{{asset($service->image)}}" alt="E-Commerce" data-description="">
+                                    </a>
+                                </div>
+                                <div class="amazingcarousel-title">{{$service->title}}</div>
+                                <div class="amazingcarousel-description"></div>
+                                <div class="amazingcarousel-button"></div>
+                            </div>
+                        </li>
+                    @endforeach
+</ul><div class="amazingcarousel-prev"></div><div class="amazingcarousel-next"></div></div><div class="amazingcarousel-nav"></div><div class="wonderplugin-engine"><a href="http://www.wonderplugin.com/wordpress-carousel/" title="Responsive WordPress Image Carousel Plugin">Responsive WordPress Image Carousel Plugin</a>
+    </div>
+</div>
+</div>
     <script>
         function wondercarousel_2_appendcss(csscode) {var head=document.head || document.getElementsByTagName("head")[0];var style=document.createElement("style");head.appendChild(style);style.type="text/css";if (style.styleSheet){style.styleSheet.cssText=csscode;} else {style.appendChild(document.createTextNode(csscode));}};wondercarousel_2_appendcss("@import url(https://fonts.googleapis.com/css?family=Open+Sans);  #wonderplugincarousel-2 .amazingcarousel-image {	 	position: relative; 	padding: 4px; 	background-color: #fff; 	-moz-box-shadow:  0 1px 4px rgba(0, 0, 0, 0.2); 	-webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); 	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); }  #wonderplugincarousel-2 .amazingcarousel-image img { 	display: block; 	width: 100%; 	max-width: 100%; 	border: 0; 	margin: 0; 	padding: 0; 	-moz-border-radius: 0px; 	-webkit-border-radius: 0px; 	border-radius: 0px; }  #wonderplugincarousel-2 .amazingcarousel-title { 	position:relative; 	font: bold 12px Open Sans, sans-serif; 	color:#333333; 	margin:6px; 	text-align:center; 	line-height: 14px; 	overflow: hidden; }  #wonderplugincarousel-2 .amazingcarousel-description { 	position:relative; 	font: 12px Open Sans, sans-serif; 	color:#333333; 	margin:6px; 	text-align:center; 	line-height: 14px;		 	overflow: hidden; }  #wonderplugincarousel-2 .amazingcarousel-list-container {  	padding: 8px 0; }  #wonderplugincarousel-2 .amazingcarousel-item-container { 	text-align: center; 	padding: 4px; }  #wonderplugincarousel-2 .amazingcarousel-prev { 	left: 0%; 	top: 50%; 	margin-left: -60px; 	margin-top: -24px; }  #wonderplugincarousel-2 .amazingcarousel-next { 	right: 0%; 	top: 50%; 	margin-right: -60px; 	margin-top: -24px; }  #wonderplugincarousel-2 .amazingcarousel-nav { 	position: absolute; 	width: 100%; 	top: 100%; }  #wonderplugincarousel-2 .amazingcarousel-bullet-wrapper { 	margin: 4px auto; }  .amazingcarousel-socialmedia-button { 	display: inline-block; 	margin: 4px; }  .amazingcarousel-socialmedia-button a { 	box-shadow: none; }  .amazingcarousel-socialmedia-icon { 	display:table-cell; 	width:32px; 	height:32px; 	font-size:18px; 	border-radius:50%; 	color:#fff; 	vertical-align:middle; 	text-align:center; 	cursor:pointer; 	padding:0; }  .amazingcarousel-socialmedia-rotate { 	transition: transform .4s ease-in;  }   .amazingcarousel-socialmedia-rotate:hover {  	transform: rotate(360deg);  } #wonderplugincarousel-2 .star-rating { 	display: inline-block; }");
     </script>
@@ -816,68 +846,45 @@
 
     </div></div></div></div></div><div class="section mcb-section mcb-section-lporg8mrh" style=""><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap mcb-wrap-y0fu2om53 one  valign-top clearfix" style=""><div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-sd1371f7p one column_column column-margin-20px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><h1>Upcomming News & Events</h1>
 
-    </div></div><div class="column mcb-column mcb-item-3u5ryho4l one column_column column-margin-0px"><div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><!-- Markup Starts -->
+    </div></div>
+    <div class="column mcb-column mcb-item-3u5ryho4l one column_column column-margin-0px">
+        <div class="column_attr clearfix align_center animate" data-anim-type="fadeInUp" style=""><!-- Markup Starts -->
     <div id="pcp_wrapper-134" class="sp-pcp-section sp-pcp-container pcp-wrapper-134 pcp-carousel-wrapper standard" data-sid="134">
         <div id="sp-pcp-id-134" class="swiper-container sp-pcp-carousel top_right" dir="ltr" data-carousel='{ "speed":600, "items":3, "spaceBetween":20, "navigation":true, "pagination": false, "autoplay": true, "autoplay_speed": 2000, "loop": true, "autoHeight": false, "lazy":  true, "simulateTouch": true, "slider_mouse_wheel": false,"allowTouchMove": true, "slidesPerView": {"lg_desktop": 3, "desktop": 3, "tablet": 3, "mobile_landscape": 2, "mobile": 1}, "navigation_mobile": true, "pagination_mobile": false, "stop_onHover": true, "enabled": true, "prevSlideMessage": "Previous slide", "nextSlideMessage": "Next slide", "firstSlideMessage": "This is the first slide", "lastSlideMessage": "This is the last slide", "paginationBulletMessage": "Go to slide " }'>
                 <div class="swiper-wrapper">
-                            <div class=" swiper-slide swiper-lazy">
-                <div class="sp-pcp-post pcp-item-56" data-id="56">
-                                    <div class="pcp-post-thumb-wrapper">
-                        <div class="sp-pcp-post-thumb-area">
-                                                    <a class="sp-pcp-thumb" href="2021/01/14/blog-1/index.htm" target="_self" rel="&#039;nofollow&#039;">
-                                                        <img src="content/uploads/2021/01/blog-03.jpg" width="378" height="210" alt="">
-                            </a>
-                        </div>
-                    </div>
-                                <h2 class="sp-pcp-title">
-                                        <a href="2021/01/14/blog-1/index.htm" rel="&#039;nofollow&#039;" target="_self">Blog 1</a>							</h2>
-                            <div class="sp-pcp-post-content">
-                Under Construction		<div class="sp-pcp-readmore">
-                                <a class="pcp-readmore-link" target="_self" href="2021/01/14/blog-1/index.htm" rel="&#039;nofollow&#039;">
-                            Read More </a>
-            </div>
-                        </div>
-                            </div>
-            </div>
+
+
+            @foreach($blogs as $blog)
                     <div class=" swiper-slide swiper-lazy">
-                <div class="sp-pcp-post pcp-item-54" data-id="54">
-                                    <div class="pcp-post-thumb-wrapper">
-                        <div class="sp-pcp-post-thumb-area">
-                                                    <a class="sp-pcp-thumb" href="2021/01/14/lorem-ipsum-dummy-text-2/index.htm" target="_self" rel="&#039;nofollow&#039;">
-                                                        <img src="content/uploads/2021/01/blog-02.jpg" width="378" height="210" alt="">
-                            </a>
-                        </div>
-                    </div>
-                                <h2 class="sp-pcp-title">
-                                        <a href="2021/01/14/lorem-ipsum-dummy-text-2/index.htm" rel="&#039;nofollow&#039;" target="_self">Blog 2</a>							</h2>
-                            <div class="sp-pcp-post-content">
-                Under Construction		<div class="sp-pcp-readmore">
-                                <a class="pcp-readmore-link" target="_self" href="2021/01/14/lorem-ipsum-dummy-text-2/index.htm" rel="&#039;nofollow&#039;">
-                            Read More </a>
-            </div>
-                        </div>
+                        <div class="sp-pcp-post pcp-item-56" data-id="56">
+                            <div class="pcp-post-thumb-wrapper">
+                                <div class="sp-pcp-post-thumb-area">
+                                    <a class="sp-pcp-thumb" href="2021/01/14/blog-1/index.htm" target="_self" rel="&#039;nofollow&#039;">
+                                        <img src="{{asset($blog->image)}}" width="378" height="210" alt="">
+                                    </a>
+                                </div>
                             </div>
-            </div>
-                    <div class=" swiper-slide swiper-lazy">
-                <div class="sp-pcp-post pcp-item-49" data-id="49">
-                                    <div class="pcp-post-thumb-wrapper">
-                        <div class="sp-pcp-post-thumb-area">
-                                                    <a class="sp-pcp-thumb" href="2021/01/14/blog-3/index.htm" target="_self" rel="&#039;nofollow&#039;">
-                                                        <img src="content/uploads/2021/01/blog-01.jpg" width="378" height="210" alt="">
-                            </a>
-                        </div>
+                            <h2 class="sp-pcp-title">
+                            <a href="2021/01/14/blog-1/index.htm" rel="&#039;nofollow&#039;" target="_self">{{$blog->title}}</a>							</h2>
+                        <div class="sp-pcp-post-content">
+                        <div class="sp-pcp-readmore">
+                        <a class="pcp-readmore-link" target="_self" href="2021/01/14/blog-1/index.htm" rel="&#039;nofollow&#039;">
+                            Read More 
+                        </a>
                     </div>
-                                <h2 class="sp-pcp-title">
-                                        <a href="2021/01/14/blog-3/index.htm" rel="&#039;nofollow&#039;" target="_self">Blog 3</a>							</h2>
-                            <div class="sp-pcp-post-content">
-                Under Construction		<div class="sp-pcp-readmore">
-                                <a class="pcp-readmore-link" target="_self" href="2021/01/14/blog-3/index.htm" rel="&#039;nofollow&#039;">
-                            Read More </a>
-            </div>
-                        </div>
-                            </div>
-            </div>
-                        </div>
+                    </div>
+                    </div>
+                    </div>
+
+            @endforeach
+
+
+      
+        </div>
+
+
+
+
                                             <div class="pcp-button-next swiper-button-next top_right"><i class="fa fa-angle-right"></i></div>
                     <div class="pcp-button-prev swiper-button-prev top_right"><i class="fa fa-angle-left"></i></div>	</div>
     </div>

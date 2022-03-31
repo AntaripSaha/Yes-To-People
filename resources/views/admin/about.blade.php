@@ -22,9 +22,31 @@
                             <label class="custom-file-label" style="margin-top: 20px" >Choose Image</label>
                             </div>
                         </div>
-                        <div class="form-group">
-                            <label for="">Description</label>
-                            <textarea name="description" id="" class="form-control" cols="20" rows="4">{{$about->description}}</textarea>
+                        <div class="card card-primary card-info" style="margin-top: 30px;">
+                            <div class="card-header">
+                                <h3 class="card-title">Description First Section</h3>
+                            </div>
+                            <!-- /.card-header -->
+                            <div class="card-body">
+                                <div class="form-group">
+                                    <textarea class="form-control compose-textarea" style="height: 250px" name="first_description">{{$about->first_description}}</textarea>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card card-primary card-info">
+                            <div class="card-header">
+                                <h3 class="card-title">Description Second Section</h3>
+                            </div>
+                            <!-- /.card-header -->
+                            <div class="card-body">
+                                <div class="form-group">
+                                    <textarea class="form-control compose-textarea" style="height: 250px" name="second_description">{{$about->second_description}}</textarea>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group" style="margin-top: 25px">
+                            <label for="des">Mission Vission Home Page</label>
+                            <textarea name="mission" id="des" class="form-control" cols="20" rows="4">{{$about->mission}}</textarea>
                         </div>
                         @endforeach
                         <button type="submit" class="btn btn-outline-success btn-sm">

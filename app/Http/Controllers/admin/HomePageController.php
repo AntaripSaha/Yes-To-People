@@ -80,7 +80,9 @@ class HomePageController extends Controller
     }
     public function about_store(Request $req){
         $about = About::first();
-        $about->description = $req->description;
+        $about->first_description = $req->first_description;
+        $about->second_description = $req->second_description;
+        $about->mission = $req->mission;
         if($req->file('img')){
             $file = $req->file('img');
             $file->storeAs('public/about/image/','about_img.'.$file->getClientOriginalExtension());
