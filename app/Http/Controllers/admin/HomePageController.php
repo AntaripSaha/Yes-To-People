@@ -3,9 +3,9 @@
 namespace App\Http\Controllers\admin;
 
 use App\Http\Controllers\Controller;
-use App\Models\Home;
-use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Storage;
+use Illuminate\Http\Request;
+use App\Models\Home;
 use App\Models\About;
 use App\Models\Contact;
 use App\Models\Mission;
@@ -73,49 +73,6 @@ class HomePageController extends Controller
     }
     //Home Section End 
 
-    // Service Section Start 
-    public function service(){
-        $services = Service::all();
-        return view('admin.service', compact('services'));
-    }
-    public function service_store(Request $req){
-        $file_upload = new Service;
-        $file_upload->title = $req->title;
-        $file_upload->description = $req->description;
-        if($req->file('img')){
-            $file = $req->file('img');
-            Storage::putFile('public/service/image', $file);
-            $file_upload->image =  "storage/service/image/" . $file->hashName();
-        }
-        if($file_upload->save()){
-            return redirect()->back()->with('success', 'Successfully Saved Data');
-        }
-    }
-    public function service_view($id){
-        $service = Service::find($id);
-        return view('admin.service_details', compact('service'));
-    }
-    public function service_update($id, Request $req){
-        $service = Service::find($id);
-        $service->title = $req->title;
-        $service->description = $req->description;
-        if($req->file('image')){
-            $file = $req->file('image');
-            Storage::putFile('public/service/image', $file);
-            $service->image =  "storage/service/image/" . $file->hashName();
-        }else{
-            $service->image = $req->previous_image;
-        }
-        if($service->save()){
-            return redirect()->back()->with('success', 'Successfully Saved Data');
-        }
-    }
-    public function service_delete($id){
-        Service::find($id)->delete();
-        return redirect()->back()->with('danger', 'Data Deleted');
-    }
-    //Service Section End 
-    
     //About Section Start 
     public function about(){
         $about = About::All();
@@ -163,5 +120,49 @@ class HomePageController extends Controller
             return redirect()->back()->with('success', 'Data Saved Successfully');
         }
     }
-    //About Section End 
+    //About Section End
+    
+    // Service Section Start 
+    public function service(){
+        $services = Service::all();
+        return view('admin.service.service', compact('services'));
+    }
+    public function service_store(Request $req){
+        $file_upload = new Service;
+        $file_upload->title = $req->title;
+        $file_upload->description = $req->description;
+        if($req->file('img')){
+            $file = $req->file('img');
+            Storage::putFile('public/service/image', $file);
+            $file_upload->image =  "storage/service/image/" . $file->hashName();
+        }
+        if($file_upload->save()){
+            return redirect()->back()->with('success', 'Successfully Saved Data');
+        }
+    }
+    public function service_view($id){
+        $service = Service::find($id);
+        return view('admin.service.service_details', compact('service'));
+    }
+    public function service_update($id, Request $req){
+        $service = Service::find($id);
+        $service->title = $req->title;
+        $service->description = $req->description;
+        if($req->file('image')){
+            $file = $req->file('image');
+            Storage::putFile('public/service/image', $file);
+            $service->image =  "storage/service/image/" . $file->hashName();
+        }else{
+            $service->image = $req->previous_image;
+        }
+        if($service->save()){
+            return redirect()->back()->with('success', 'Successfully Saved Data');
+        }
+    }
+    public function service_delete($id){
+        Service::find($id)->delete();
+        return redirect()->back()->with('danger', 'Data Deleted');
+    }
+    //Service Section End 
+ 
 }

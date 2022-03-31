@@ -140,6 +140,14 @@
               </li>
             </ul>
           </li>
+          <li class="nav-item">
+            <a href="{{route('admin.blog')}}" class="nav-link">
+              <i class="nav-icon fas fa-id-card"></i>
+              <p>
+                Blog
+              </p>
+            </a>
+          </li>
         </ul>
       </nav>
       <!-- /.sidebar-menu -->

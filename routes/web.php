@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\admin\BlogController;
 use App\Http\Controllers\admin\HomePageController;
 use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\frontend\HomeController;
@@ -55,5 +56,13 @@ Route::prefix('admin')->middleware('admin')->group(function(){
     Route::any('/service/update/{id}', [HomePageController::class, 'service_update'])->name('admin.service.update');
     Route::any('/service/delete/{id}', [HomePageController::class, 'service_delete'])->name('admin.service.delete');
     // Service Pages End
+
+    // Blog Pages Start 
+    Route::get('/blog', [BlogController::class, 'blog'])->name('admin.blog');
+    Route::any('/blog/store', [BlogController::class, 'blog_store'])->name('admin.blog.store');
+    Route::any('/blog/view/{id}', [BlogController::class, 'blog_view'])->name('admin.blog.view');
+    Route::any('/blog/update/{id}', [BlogController::class, 'blog_update'])->name('admin.blog.update');
+    Route::any('/blog/delete/{id}', [BlogController::class, 'blog_delete'])->name('admin.blog.delete');
+    // Blog Pages End
 });
 
